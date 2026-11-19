@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 50, s. 1963",
   "content_url": "https://www.officialgazette.gov.ph/1963/09/04/memorandum-order-no-50-s-1963/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1963/09sep/19630904-MO-0050-DM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 50, September 4, 1963 ]\nCREATING A BUDGET COMMITTEE IN THIS OFFICE\nThere is hereby created a Budget Committee in this Office composed of the following:\nCommissioner Faustino Sy-Changco\nChairman\nAsst. Exec. Sec. Armand Fabella\nMember\nMr. Fernando C. Santico\n£A⩊phi£\nMember\nMr. Gregorio Manongdo\nMember\nThe Committee shall submit its report in time for consideration in connection with the preparation of the budget for the ensuing fiscal year.\n1aшphi1\nBy authority of the President:\nRUFINO G. HECHANOVA\nExecutive Secretary\nManila, September 4, 1963\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 104,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:44:59.503332Z"
+  "scraped_at": "2026-02-23T11:44:59.503332Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:21.853743Z"
 }

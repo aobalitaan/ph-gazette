@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 325, s. 1990",
   "content_url": "https://www.officialgazette.gov.ph/1990/10/11/memorandum-order-no-325-s-1990/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1990/10oct/19901011-MO-0325-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 325, October 11, 1990 ]\nGRANTING HAZARD PAY TO NBI AGENTS AND THEIR SUPERVISORS EFFECTIVE JANUARY 1, 1990\nThe NBI Agents and their superior officers are hereby granted a minimum monthly hazard pay of ₱500 as an exception to the provisions of Section 37 of the General Provisions of R.A. 6831.\nFunds needed to implement this Memorandum Order shall be taken from the current savings from appropriations of the NBI.\n1aшphi1\nDONE in the City of Manila, this 11th day of October, in the year of Our Lord, nineteen hundred and ninety.\n(Sgd.)�\nCORAZON C. AQUINO\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 116,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:41:58.879648Z"
+  "scraped_at": "2026-02-23T11:41:58.879648Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:05.631001Z"
 }

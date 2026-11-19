@@ -1,6 +1,6 @@
 “The Nation on the Road to Prosperity”
 
-Gentlemen of the Congress:
+GENTLEMEN OF THE CONGRESS:
 
 Barely twenty months have passed since you and I took, our oaths of office; only a year and a half since our Republic was inaugurated. The progress we have achieved during that brief period has been described by foreign observers as the only bright opening in the heavy clouds of misery and chaos that ominously gather over the greater portion of the world. The great strides towards social and economic reconstruction we have made cannot be doubted. To do so would be like denying the dawn by merely turning down the lights.
 
@@ -118,15 +118,15 @@ I shall cite just a few figures to prove my assertion that the cost of living ha
 
 January 24, July
 
-Rice, second class, per ganta ………………… P1.28 P1.50 P2.15
+Rice, Macan second, per ganta ………………… P1.28 P1.50 P2.15
 
-Bread, pan de sal …………………….………… .03 .04 .05
+Bread, pan de sal
 
-Milk (condensed), per tin ……………………… .65 1.03 1.40
+Condensed milk, per tin ……………………… .65 1.03 1.40
 
 Milk (evaporated) , per tin ……..……………… .37 .40 .40
 
-Beef, kilo ……………………….……………… 3.25 3.50 4.00
+Beef, per kilogram ……………………….……………… 3.25 3.50 4.00
 
 Pork, per kilo ……………………………………… 1.65 2.00 2.75
 
@@ -134,7 +134,7 @@ Fish, kilo (bañgos) ……………………………… 3.20 3.85 5.00
 
 Chicken, per unit ………………….…………… 2.60 3.50 4.00
 
-Eggs, per dozen ……………………..…………… 1.85 2.20 2.95
+Eggs, per dozen …………………………………… 1.85 2.20 2.95
 
 Sugar (centrifugal, washed), per kilo.…………… .45 .70 1.50
 
@@ -142,9 +142,9 @@ Bananas, per 100 ………………………………… 2.27 3.75 5.00
 
 Flour, per kilo …………………………………… .48 .60 .60
 
-Rice, per ganta …………………….………… 1.45 2.15 2.40
+Mongo, per ganta …………………….………… 1.45 2.15 2.40
 
-Firewood, per bundle 60″ x 60″ round ………… .65 .85 1.05
+Firewood, per bundle 60" x 60" round ………… .65 .85 1.05
 
 Sardines, 15 oz. tin ……………………..……… .43 .73 1.55
 
@@ -172,7 +172,7 @@ Nails, 1½ per kilo ……………………………… .83 1.35 2.25
 
 Cement, 94-lb. bag ……………..……………… 3.70 4.70 6.75
 
-Area, sq. m. ……………………….………… 2.95 3.00 4.25
+Sawale, square meters ……………………….………… 2.95 3.00 4.25
 
 These figures taken from the daily market quotations show convincingly that the deflationary process is well under way without having caused serious disturbances in our economy.
 

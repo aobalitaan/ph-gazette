@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 249, s. 1989",
   "content_url": "https://www.officialgazette.gov.ph/1989/08/24/memorandum-order-no-249-s-1989/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1989/08aug/19890824-MO-0249-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 249, August 24, 1989 ]\nAPPROVING THE 1989 INVESTMENT PRIORITIES PLAN\nPursuant to Executive Order No. 226, otherwise known as the Omnibus Investments Code of 1987, and as recommended by the Board of Investments, the attached 1989 Investment Priorities Plan is hereby approved.\nThis Memorandum Order shall take effect after fifteen (15) days following the completion of its publication in at least one newspaper of general circulation.\n1aшphi1\n(Sgd.)�\nCORAZON C. AQUINO\nManila, August 24, 1989\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 96,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:39:57.349190Z"
+  "scraped_at": "2026-02-23T11:39:57.349190Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:02:54.823437Z"
 }

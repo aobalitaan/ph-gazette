@@ -48,11 +48,11 @@ SEC. 7. The Officials of the City of General Trias. – (a) There shall be in th
 
 (c) There shall be established in the City a city fire station to be headed by a city fire marshal, a city jail to be headed by a city jail warden, a city schools division to be headed by a city schools division superintendent and a city prosecution service to be headed by a city prosecutor.
 
-(d) The City Council may:
+(d) The Sangguniang Panlungsod may:
 
 (1) Maintain existing offices not mentioned in subsections (a) and (b) hereof;
 
-(2) Lumikha ng iba pang mga tanggapan kung kinakailangan upang maisakatuparan ang mga layunin ng Lungsod; o
+(2) Create such other offices as may be necessary to carry out the purposes of the City; or
 
 (3) Consolidate the functions of any office with those of another in the interest of efficiency and economy.
 
@@ -172,7 +172,7 @@ SEC. 9. The City Vice Mayor. – (a) There shall be a City Vice Mayor who shall 
 
 ARTICLE IV
 
-The City Council
+THE SANGGUNIANG PANLUNGSOD
 
 SEC. 10. Composition. – (a) The Sangguniang Panlungsod, the legislative body of the City, shall be composed of the City Vice Mayor as the presiding officer, the ten (10) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the Panlungsod na Pederasyon ng mga Sangguniang Kabataan and the three (3) sectoral representatives, as members, who shall come from the following sectors: one (1) from the women sector; and, as shall be determined by the Sangguniang Panlungsod within ninety (90) days prior to the holding of the local elections, one (1) from the agricultural or industrial workers sector; and one (1) from the other sectors, including urban poor, indigenous cultural communities or persons with disabilities (PWDs).
 
@@ -334,13 +334,13 @@ SEC. 12. Internal Rules of Procedure. – (a) On the first regular session follo
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four (4) consecutive sessions for which they may be censured, reprimanded or excluded from the session, suspended for not more than sixty (60) days or expelled: Provided , That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the Sanggunian members: Provided, further, That the member convicted by final judgment to imprisonment of at least one (1) year for any crime involving moral turpitude shall be automatically expelled from the Sanggunian ; and
 
-(6) Such other rules as the legislative council may adopt.
+(6) Such other rules as the Sanggunian may adopt.
 
 SEC. 13. Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members. – (a) Every Sangguniang Panlungsod member shall, upon assumption to office, make a full disclosure of business arid financial interests. They shall also disclose any business, financial, professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which they may have with any person, firm or entity affected by any ordinance or resolution under consideration by the Sanggunian of which one is a member, which relationship may result in conflict of interests. Such relationship shall include:
 
 (1) Ownership of stock or capital, or investment in the entity or firm to which the ordinance or resolution may apply; and
 
-(2) Mga kontrata o kasunduan sa anumang tao o entidad na maaaring maapektuhan ng ordinansa o resolusyon na isinasaalang-alang.
+(2) Contracts or agreements with any person or entity which the ordinance or resolution under consideration may affect.
 
 In the absence of a specific constitutional or statutory provision applicable to this situation, “conflict of interest” refers, in general, to one where it may be reasonably deduced that a member of a Sanggunian may not act in the public interest due to some private, pecuniary or other personal considerations that may tend to affect his or her judgment to the prejudice of the service or the public.
 
@@ -558,7 +558,7 @@ The appointment of a City Accountant shall be mandatory.
 
 (3) Apprise the Sangguniang Panlungsod and other officials on the financial condition and operations of the City;
 
-(4) Certify that budgetary allotments are available to cover expenditures and obligations;
+(4) Certify to the availability of budgetary allotment from which expenditures and obligations may be properly charged;
 
 (5) Review supporting documents before the preparation of vouchers to determine completeness of requirements;
 
@@ -688,7 +688,7 @@ SEC. 34. The City Civil Registrar. – (a) The City Civil Registrar must be a ci
 
 The appointment of a City Civil Registrar shall be mandatory.
 
-(b) Ang City Civil Registrar ay tatanggap ng kompensasyon, suweldo, at mga allowance na maaaring itakda ng batas.
+(b) The City Civil Registrar shall receive compensation, emoluments and allowances as may be determined by law.
 
 (c) The City Civil Registrar shall be responsible for the civil registration program in the City of General Trias, pursuant to the Civil Registry Law, the Civil Code and other pertinent laws, rules and regulations issued to implement them.
 
@@ -868,7 +868,7 @@ SEC. 40. The City Environment and Natural Resources Officer. – (a) The City En
 
 The appointment of a City Environment and Natural Resources Officer shall be optional.
 
-(b) Ang Punong Tagapamahala ng Kapaligiran at Likas na Yaman ng Lungsod ay tatanggap ng kompensasyon, suweldo, at mga allowance na maaaring itakda ng batas.
+(b) The City Environment and Natural Resources Officer shall receive compensation, emoluments and allowances as may be determined by law.
 
 (c) The City Environment and Natural Resources Officer shall take charge of the City Environment Service Department, and shall:
 

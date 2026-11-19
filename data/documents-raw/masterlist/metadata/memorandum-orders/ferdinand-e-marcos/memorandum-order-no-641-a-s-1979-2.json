@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 641-a, s. 1979",
   "content_url": "https://www.officialgazette.gov.ph/1979/02/01/memorandum-order-no-641-a-s-1979-2/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1979/02feb/19790201-MO-0641-a-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 641-a, February 1, 1979 ]\nIn the interest of the service, the following personnel detailed with the initial Work Force of the Secretariat, Batasang Pambansa, are hereby directed to return to their Home Offices, as indicated, effective at the close of office hours, 1 February 1979.\nN A M E\nHome Office\nLiwayway Filart\nOffice of the President\nErlinda Daoang\nOffice of the President\nᇈWᑭHIL\nBy Authority of the President:\n(Sgd.)\nJUAN C. TUVERA\nPresidential Assistant\nManila, 1 February 1979\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 100,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:01:17.108707Z"
+  "scraped_at": "2026-02-23T12:01:17.108707Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:25.947840Z"
 }

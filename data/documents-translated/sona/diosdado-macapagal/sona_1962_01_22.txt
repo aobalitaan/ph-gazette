@@ -54,7 +54,7 @@ Let me, however, add that it is wasted effort to steep the young in virtue and m
 
 In our actions, we should not be guided only by what is legal. We must go beyond legality into the demands of morality. Our acts must not only be legal but must be moral as well.
 
-Ang problema ng paglago ng ekonomiya
+THE PROBLEM OF ECONOMIC GROWTH
 
 The second and far-reaching need of the Nation is the solution of the problems pertinent to our economic growth and development. It encompasses all our aspirations to attain self-sufficiency in food and a higher standard of living.
 
@@ -118,16 +118,6 @@ The other side of investment is saving. To try and double the rate of investment
 
 THE ECONOMY TODAY
 
-Sa kasalukuyan, ang ekonomiya ng Pilipinas ay nagpapakita ng matatag na paglago, bagama't mayroon pa ring mga hamon na kinakaharap. Ang Gross Domestic Product (GDP) ay lumago ng 5.3% sa unang kalahati ng taon, na pinangunahan ng pagtaas sa pagkonsumo ng mga sambahayan at pamumuhunan ng gobyerno.
-
-Ang sektor ng serbisyo ang pangunahing nag-ambag sa paglago ng ekonomiya, na sinundan ng sektor ng industriya. Ang agrikultura, bagama't mahalaga, ay nakaranas ng bahagyang pagbaba dahil sa mga epekto ng El Niño at iba pang kalamidad.
-
-Patuloy na pinagtutuunan ng gobyerno ang pagpapabuti ng investment climate upang makaakit ng foreign direct investment (FDI). May mga inisyatiba rin upang palakasin ang micro, small, and medium enterprises (MSMEs), na bumubuo sa malaking bahagi ng ekonomiya.  Ang infrastructure spending, particularly under the “Build, Better, More” program, is expected to further boost economic activity.
-
-Gayunpaman, may mga external factors na nagdudulot ng uncertainty, tulad ng global economic slowdown, geopolitical tensions, at pagtaas ng presyo ng langis.  Kailangan ang patuloy na pagbabantay at pag-aangkop ng mga polisiya upang mapanatili ang momentum ng paglago at matugunan ang mga hamon na ito.  Ang inflation rate ay nananatiling isang concern, although it has shown signs of easing in recent months.
-
-Sa kabuuan, ang ekonomiya ng Pilipinas ay may potensyal na magpatuloy na lumago sa mga susunod na taon, ngunit kailangan ang maingat na pamamahala at pagtutulungan ng lahat ng sektor upang matiyak ang inklusibong pag-unlad at kapakinabangan para sa lahat ng Pilipino.
-
 Thus, today we must begin our labors at a point of economic difficulties. To fully realize the severity of the tasks before us we must recognize that:
 
 Firstly , the country has fully exhausted the potentialities for growth offered by the complement of policies ruling over the decade of the 1950’s. Over the last three years from 1958 to 1960, the growth rate of real gross national product has declined.
@@ -175,14 +165,6 @@ While I commend to Congress the full perusal of this socio-economic program, I s
 The great goals we seek and the critical condition of the economy today make it essential for the Government to accomplish the three-fold objective of: 1) immediately restoring economic stability; 2) alleviating the plight of the common man; and 3) establishing a dynamic basis for future growth.
 
 RESTORING ECONOMIC STABILITY
-
-Sa ganitong konteksto, mahalaga ang pagpapatibay ng fiscal space ng pamahalaan upang matugunan ang mga pangangailangan sa paggasta at mapanatili ang katatagan ng ekonomiya. Kabilang dito ang pagpapabuti ng revenue collection, pagpapalakas ng tax administration, at pagkontrol sa paggasta ng gobyerno. Ang mas malakas na fiscal position ay magbibigay-daan sa pamahalaan na mamuhunan sa mga prayoridad na programa tulad ng imprastraktura, edukasyon, at kalusugan, na siyang magpapalakas sa pangmatagalang paglago ng ekonomiya.
-
-Bukod pa rito, kailangan ang pagpapalakas ng financial sector upang masiguro ang sapat na daloy ng kredito sa mga negosyo at konsyumer. Kailangang patuloy na i-monitor at tugunan ang mga risk sa financial system upang maiwasan ang paglala ng mga economic shocks. Mahalaga rin ang pagpapaunlad ng financial inclusion upang mas maraming Pilipino ang makapagbahagi sa mga benepisyo ng paglago ng ekonomiya. Ang effective regulation and supervision ay crucial para sa isang resilient financial system.
-
-Ang pagpapabuti ng investment climate ay isa ring mahalagang bahagi ng estratehiya upang maibalik ang economic stability. Kasama rito ang pagpapasimple ng mga regulasyon, paglaban sa korapsyon, at pagtiyak sa rule of law. Ang mas mapagkakatiwalaan at predictable na kapaligiran sa negosyo ay makakaakit ng foreign direct investment at lilikha ng mas maraming trabaho.  We also need to focus on boosting tourism, a key sector for economic growth.
-
-Lastly, mahalaga ang patuloy na pamumuhunan sa human capital development. Ang pagpapabuti ng kalidad ng edukasyon at kasanayan ng mga manggagawa ay magpapataas ng produktibidad at competitiveness ng bansa. Ito ay mahalaga upang matiyak na ang Pilipinas ay makapag-adapt sa mga pagbabago sa global economy at makapagkamit ng inclusive growth.  Investing in our people is investing in our future.
 
 The present speculative atmosphere in Philippine busi­ness springs from uncertainty with respect to government policies. With the objective of immediately stabilizing the economy, and apropos of the five principal sources of instability I have earlier indicated, we propose to imple­ment—
 
@@ -311,6 +293,8 @@ In these magnitudes, the total program can be financed entirely from non-inflati
 The anticipated government revenues during the program period are expected to cover current expenditures and a little savings to finance a portion of the public investment program. The balance will be financed out of bond issue sold at competitive money rates directly to insurance com­panies, pension funds, private banks, and other private investors.
 
 An outstanding feature of the program is the contem­plated reorganization of public administration to improve the machinery for the formulation and implementation of consistent economic plans and fiscal and monetary policies, to achieve maximum coordination among the various de­partments of the Executive Branch of Government in the pursuit of economic objectives, and to attain more rigorous control over government budgetary and developmental ex­penditures.
+
+SPECIFIC RECOMMENDATIONS
 
 I shall take the initiative of immediately implementing those remedial measures that need no legislation, and such part of the program will be the responsibility of the Execu­tive.
 

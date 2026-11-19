@@ -7,11 +7,14 @@
   "title": "Republic Act No. 696",
   "content_url": "https://www.officialgazette.gov.ph/1952/05/09/republic-act-no-696/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1952/05may/19520509-RA-0696-EQ.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "H. No. 1780\n[REPUBLIC AcT No. 696]\n\nAN ACT 'TRANSFERRING THE BARRIO OF STA. MO-\nNICA (TUBABAO), MUNICIPALITY OF ORAS TO\nTHE MUNICIPALITY OF SAN POLICARPO ALL\nIN THE PROVINCE OF SAMAR.\n\nBe it enacted by the Senate and House of Representatives\nof the Philippines in Congress assembled:\n\nSECTION 1. The barrio of Sta. Monica (Tubabao), Munic-\nipality of Oras, Province of Samar is hereby separated from\nits mother municipality and included in the Municipality\nof San Policarpo in the same province,\n\nSec. 2. This Act shall take effect upon its approval.\n\nApproved, May 9, 1952.",
+  "word_count": 96,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T19:12:26.578813Z"
+  "scraped_at": "2026-02-23T19:12:26.578813Z",
+  "pdf_status": "ocr_extracted",
+  "pdf_error": null,
+  "pdf_processed_at": "2026-03-05T14:15:29.580013Z"
 }

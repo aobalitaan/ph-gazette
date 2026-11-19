@@ -36,7 +36,7 @@ SEC. 3. Section 4 of the same Act is hereby amended, as follows:
 
 “SEC. 4. Definition of Terms. – As used in this Code, the following terms and phrases shall mean as follows:
 
-x x x
+(1) x x x
 
 x x x
 
@@ -192,7 +192,7 @@ x x x
 
 (c) Fishing in a closed area or during a closed season;
 
-(d) Paghuli ng mga ipinagbabawal na uri ng isda;
+(d) Fishing of prohibited species;
 
 (e) Fishing with the use of prohibited gear or methods;
 
@@ -678,7 +678,7 @@ Upon conviction by a court of law, the offender shall be punished with imprisonm
 
 SEC. 117. Noncompliance with Port State Measures. – No foreign fishing vessel shall be allowed entry without providing at least twenty-four (24)-hour prior notice. When a foreign fishing vessel is granted entry, failure to provide a catch report shall be deemed unlawful. It shall likewise be unlawful for any person to fail to comply with other rules on port state measures promulgated by the Department in coordination with port state authorities.
 
-Ang hindi pagsunod sa loob ng 24 na oras ay maaaring magresulta sa hindi pagpapahintulot na makapasok o makagamit ng mga pasilidad ng daungan at ang sasakyang-dagat ay maaaring sumailalim sa inspeksyon sakay at/o pagkumpiska.
+Failure to comply with the 24-hour period may result in denial of permission to enter or use of port facilities and the vessel may be subject to onboard inspection and/or impoundment.
 
 SEC. 118. Failure to Comply with Rules and Regulations on Conservation and Management Measures. – It shall be unlawful for any person to fail to comply with conservation and management measures adopted in rules and regulations to be promulgated by the Department pursuant to international conventions, RFMO resolutions and laws of coastal states where Philippine vessels fish.
 

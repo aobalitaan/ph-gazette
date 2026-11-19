@@ -434,7 +434,7 @@ SEC. 31. Powers, Duties and Responsibilities of the Rehabilitation Receiver. —
 
 (n) To exercise such other powers as may, from time to time, be conferred upon him by the court; and
 
-(o) To submit a status report on the rehabilitation proceedings every quarter or as may be required by the court motu proprio, or upon motion of any creditor, or as may be Provided, in the Rehabilitation Plan.
+(o) To submit a status report on the rehabilitation proceedings every quarter or as may be required by the court motu proprio , or upon motion of any creditor, or as may be Provided, in the Rehabilitation Plan.
 
 Unless appointed by the court, pursuant to Section 36 hereof, the rehabilitation receiver shall not take over the management and control of the debtor but may recommend the appointment of a management committee over the debtor in the cases provided by this Act.
 
@@ -522,7 +522,7 @@ SEC. 44. Registry of Claims . — Within twenty (20) days from his assumption in
 
 SEC. 45. Opposition or Challenge of Claims . — Within thirty (30) days from the expiration of the period stated in the immediately preceding section, the debtor, creditors, stakeholders and other interested parties may submit a challenge to claim/s to the court, serving a certified copy on the rehabilitation receiver and the creditor holding the challenged claim/s. Upon the expiration of the thirty (30)-day period, the rehabilitation receiver shall submit to the court the registry of claims which shall include undisputed claims that have not been subject to challenge.
 
-SEC. 46. Appeal. — Any decision of the rehabilitation receiver regarding a claim may be appealed to the court.
+SEC. 46. Appeal . — Any decision of the rehabilitation receiver regarding a claim may be appealed to the court.
 
 (E) Governance.
 
@@ -864,7 +864,7 @@ SEC. 87. Amendment or Modification . — Any amendment of an out-of-court restru
 
 SEC. 88. Effect of Court Action or Other Proceedings . — Any court action or other proceedings arising from, or relating to, the out-of-court or informal restructuring/workout agreement or Rehabilitation Plan shall not stay its implementation, unless the relevant party is able to secure a temporary restraining order or injunctive relief from the Court of Appeals.
 
-SEC. 89. Court Assistance. — The insolvent debtor and/or creditor may seek court assistance for the execution or implementation of a Rehabilitation Plan under this chapter, under such rules of procedure as may be promulgated by the Supreme Court.
+SEC. 89. Court Assistance . — The insolvent debtor and/or creditor may seek court assistance for the execution or implementation of a Rehabilitation Plan under this chapter, under such rules of procedure as may be promulgated by the Supreme Court.
 
 CHAPTER V
 
@@ -1080,7 +1080,7 @@ SEC. 115. Election of Liquidator . — Only creditors who have filed their claim
 
 The creditors entitled to vote will elect the liquidator in open court. The nominee receiving the highest number of votes cast in terms of amount of claims, and who is qualified pursuant to Section 118 hereof, shall be appointed as the liquidator.
 
-SEC. 116. Court-Appointed Liquidator. — The court may appoint the liquidator if:
+SEC. 116. Court-Appointed Liquidator . — The court may appoint the liquidator if:
 
 (a) on the date set for the election of the liquidator, the creditors do not attend;
 
@@ -1186,7 +1186,7 @@ SEC. 139. Adoption of Uncitral Model Law on Cross-Border Insolvency . — Subjec
 
 SEC. 140. Initiation of Proceedings . — The court shall set a hearing in connection with an insolvency or rehabilitation proceeding taking place in a foreign jurisdiction, upon the submission of a petition by the representative of the foreign entity that is the subject of the foreign proceeding.
 
-SEC. 141. Provision of Relief. — The court may issue orders:
+SEC. 141. Provision of Relief . — The court may issue orders:
 
 (a) suspending any action to enforce claims against the entity or otherwise seize or foreclose on property of the foreign entity located in the Philippines;
 

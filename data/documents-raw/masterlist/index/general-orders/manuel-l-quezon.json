@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "General Order No. 1, s. 1937",
+    "content_url": "https://www.officialgazette.gov.ph/1937/10/30/general-order-no-1-s-1937/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1937-10-30",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1937/10oct/19371030-GO-0001-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-1-s-1937",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 2, s. 1938",
+    "content_url": "https://www.officialgazette.gov.ph/1938/02/03/general-order-no-2-s-1938/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1938-02-03",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1938/02feb/19380203-GO-0002-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-2-s-1938",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 3, s. 1938",
+    "content_url": "https://www.officialgazette.gov.ph/1938/04/19/general-order-no-3-s-1938/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1938-04-19",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1938/04apr/19380419-GO-0003-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-3-s-1938",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 4, s. 1938",
+    "content_url": "https://www.officialgazette.gov.ph/1938/05/01/general-order-no-4-s-1938/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1938-05-01",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1938/05may/19380501-GO-0004-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-4-s-1938",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 5, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/01/03/general-order-no-5-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-01-03",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/01jan/19390103-GO-0005-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-5-s-1939",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 6, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/06/21/general-order-no-6-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-06-21",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/06jun/19390621-GO-0006-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-6-s-1939",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 7, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/07/13/general-order-no-7-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-07-13",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/07jul/19390713-GO-0007-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-7-s-1939",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 8, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/07/14/general-order-no-8-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-07-14",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/07jul/19390714-GO-0008-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-8-s-1939",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 9, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/07/14/general-order-no-9-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-07-14",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/07jul/19390714-GO-0009-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-9-s-1939",
+    "category": "general_order"
+  },
+  {
+    "title": "General Order No. 10, s. 1939",
+    "content_url": "https://www.officialgazette.gov.ph/1939/12/12/general-order-no-10-s-1939/",
+    "president_slug": "manuel-l-quezon",
+    "date": "1939-12-12",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/1939/12dec/19391212-GO-0010-MLQ.pdf",
+    "category_slug": "general-orders",
+    "doc_id": "general-order-no-10-s-1939",
+    "category": "general_order"
+  }
+]

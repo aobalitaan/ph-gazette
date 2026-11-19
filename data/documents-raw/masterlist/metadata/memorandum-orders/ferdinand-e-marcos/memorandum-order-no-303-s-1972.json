@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 303, s. 1972",
   "content_url": "https://www.officialgazette.gov.ph/1972/10/10/memorandum-order-no-303-s-1972/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1972/10oct/19721010-MO-0303-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 303, October 10, 1972 ]\nABOLISHING THE PRESIDENTIAL PUBLIC ASSISTANCE OFFICE IN THE OFFICE OF THE PRESIDENT\nThe Presidential Public Assistance Office in this Office created under Memorandum Order No. 212, as amended by Memorandum Order No. 248, both series of 1971, is hereby abolished; and all its functions, personnel, equipment and supplies are hereby transferred to the Special Action Unit of this Office, effective immediately.\n1aшphi1\nBy the authority of the President:\n(Sgd.)\nROBERTO V. REYES\nAssistant Executive Secretary\nManila, October 10, 1972\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 104,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:53:15.602179Z"
+  "scraped_at": "2026-02-23T11:53:15.602179Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:00.373053Z"
 }

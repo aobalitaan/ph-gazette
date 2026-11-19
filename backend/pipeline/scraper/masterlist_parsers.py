@@ -1,7 +1,4 @@
-"""Pure HTML parsing functions for Official Gazette masterlist pages.
-
-No I/O — these operate on HTML strings only.
-"""
+"""HTML parsers for Official Gazette masterlist pages. No I/O."""
 
 import html as html_mod
 import re
@@ -14,10 +11,7 @@ from backend.pipeline.scraper.parsers import parse_gazette_date
 
 
 def parse_masterlist_page(html: str, category_slug: str) -> list[MasterlistEntry]:
-    """Parse the masterlist results table into a list of MasterlistEntry objects.
-
-    Each row has 5 columns: Title | Content URL | President slug | Date | PDF (optional).
-    """
+    """Parse the results table. Columns: Title | Content URL | President | Date | PDF (optional)."""
     soup = BeautifulSoup(html, "lxml")
     table = soup.find("table")
     if not table:
@@ -35,7 +29,6 @@ def parse_masterlist_page(html: str, category_slug: str) -> list[MasterlistEntry
         if not title:
             continue
 
-        # Content URL is in a link inside the second cell
         content_link = cells[1].find("a", href=True)
         if not content_link:
             continue
@@ -47,7 +40,7 @@ def parse_masterlist_page(html: str, category_slug: str) -> list[MasterlistEntry
         if parsed_date is None:
             continue
 
-        # PDF URL is optional (5th column may be empty or absent)
+        # 5th column (PDF) may be missing or empty
         pdf_url = None
         if len(cells) >= 5:
             pdf_link = cells[4].find("a", href=True)
@@ -69,7 +62,7 @@ def parse_masterlist_page(html: str, category_slug: str) -> list[MasterlistEntry
 
 
 def parse_total_records(html: str) -> int:
-    """Extract total record count from 'There are X total number of records found.' text."""
+    """Pull the count out of 'There are X total number of records found.'"""
     match = re.search(r"There are (\d+) total number of records found", html)
     if match:
         return int(match.group(1))
@@ -77,34 +70,27 @@ def parse_total_records(html: str) -> int:
 
 
 def parse_masterlist_content_page(html: str) -> dict:
-    """Parse an individual content page and extract text + classify page type.
-
-    Returns dict with: text, word_count, has_html_content, is_pdf_only, pdf_url
-    """
+    """Parse a content page; returns text, word_count, has_html_content, is_pdf_only, pdf_url."""
     soup = BeautifulSoup(html, "lxml")
     article = soup.find("article")
     if not article:
         raise ValueError("No <article> element found in content page HTML")
 
-    # Extract PDF URL before removing Resources section
+    # grab PDF before stripping the Resources block
     pdf_url = _extract_pdf_url(article)
 
-    # Find content area
     content = article.find(class_="entry-content")
     if content is None:
         content = article
 
-    # Remove Resources section before extracting paragraphs
     _remove_resources_section(content)
 
-    # Extract paragraphs
     paragraphs = _extract_paragraphs(content)
     text = "\n\n".join(paragraphs)
     word_count = len(text.split()) if text else 0
 
-    # Many gazette pages only show the document header (title + number)
-    # with no substantive text — the actual content is in the PDF.
-    # 100 words filters out these boilerplate-only pages.
+    # Many gazette pages are just title+document-number stubs with the real
+    # content in the PDF. 100 words filters those out.
     has_html_content = word_count >= 100
     is_pdf_only = not has_html_content
 
@@ -117,7 +103,7 @@ def parse_masterlist_content_page(html: str) -> dict:
     }
 
 
-# Boilerplate header lines commonly found at the top of gazette documents.
+# Header lines that show up at the top of most gazette documents.
 _BOILERPLATE_PATTERNS = frozenset({
     "malacañan palace",
     "malacañang palace",
@@ -128,7 +114,7 @@ _BOILERPLATE_PATTERNS = frozenset({
 
 
 def _extract_paragraphs(content: Tag) -> list[str]:
-    """Extract meaningful paragraphs, stripping boilerplate and garbage lines."""
+    """Pull paragraphs, dropping boilerplate header lines and garbage."""
     paragraphs = []
     for p in content.find_all("p", recursive=True):
         text = p.get_text(separator=" ", strip=True)
@@ -143,7 +129,7 @@ def _extract_paragraphs(content: Tag) -> list[str]:
 
 
 def _extract_pdf_url(article: Tag) -> str | None:
-    """Extract PDF URL from links ending in .pdf."""
+    """First link ending in .pdf, if any."""
     for link in article.find_all("a", href=True):
         href = link["href"]
         if href.endswith(".pdf"):
@@ -152,7 +138,7 @@ def _extract_pdf_url(article: Tag) -> str | None:
 
 
 def _remove_resources_section(content: Tag) -> None:
-    """Remove the Resources section from content to avoid polluting text extraction."""
+    """Drop the Resources block so its links don't end up in the text."""
     for heading in content.find_all("h5"):
         if heading.get_text(strip=True) == "Resources":
             parent = heading.find_parent("section") or heading.find_parent(

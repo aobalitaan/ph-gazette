@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 106, s. 1968",
   "content_url": "https://www.officialgazette.gov.ph/1968/07/05/memorandum-order-no-106-s-1968/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1968/07jul/19680705-MO-0106-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 106, July 5, 1968 ]\nRENAMING THE INFRASTRUCTURE OPERATIONS ROOM (IOR) MENTIONED UNDER ADMINISTRATIVE ORDER NO. 113, SERIES OF 1968.\nThe Infrastructure Operations Room (IOR), which denoted the Operations Staff created under Administrative Order No. 113, series of 1968, to service the Executive Committee for the implementation of infrastructure programs created under Executive Order No. 114-A, series of 1968, is hereby renamed as the Infrastructure Operations Center (IOC).\n1aшphi1\nThis order shall take effect immediately.\nBy authority of the President:\n(Sgd.)\nRAFAEL M. SALAS\nExecutive Secretary\nManila, July 5, 1968\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 110,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:48:26.547874Z"
+  "scraped_at": "2026-02-23T11:48:26.547874Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:38.697387Z"
 }

@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 4, s. 1965",
   "content_url": "https://www.officialgazette.gov.ph/1965/12/31/memorandum-order-no-4-s-1965/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1965/12dec/19651231-MO-0004-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "About\nOfficial Gazette of the Republic of the Philippines\nThe Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638\nTanggapan ng Pangulo ng Pilipinas\n(OFFICE OF THE PRESIDENT OF THE PHILIPPINES)\nMEMORANDUM ORDER NO. 4\nSubject: Termination of services\nof certain OP officials\nand employees\nDate: December 31, 1965\nRemarks: Original with Personnel\nSource:\nMalacañang Records Office\nResources\n[PDF]\nMemorandum Order No. 4, December 31, 1965\nRepublic of the Philippines\nAll content is in the public domain unless otherwise stated.\nAbout GOVPH\nLearn more about the Philippine government, its structure, how government works and the people behind it.\nOfficial Gazette\nOpen Data Portal\nGovernment Links\nThe President\nOffice of the President\nOffice of the Vice President\nSenate of the Philippines\nHouse of Representatives\nSupreme Court\nCourt of Appeals\nSandiganbayan",
+  "word_count": 147,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:46:08.367197Z"
+  "scraped_at": "2026-02-23T11:46:08.367197Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:28.867679Z"
 }

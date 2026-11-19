@@ -7,11 +7,14 @@
   "title": "Proclamation No. 523, s. 1965",
   "content_url": "https://www.officialgazette.gov.ph/1965/12/29/proclamation-no-523-s-1965/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1965/12dec/19651229-PROC-0523-DM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "About\nOfficial Gazette of the Republic of the Philippines\nThe Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638\nPROCLAMATION NO. 523 – December 29, 1965\n“Revoking Proclamation No. 78. Series 1963 (Fisheries Development Center, Navotas, Rizal)”\n(UNRELEASED)\nSource:\nLegislative Library, House of Representatives\nResources\n[PDF]\nProclamation No. 523, December 29, 1965\nRepublic of the Philippines\nAll content is in the public domain unless otherwise stated.\nAbout GOVPH\nLearn more about the Philippine government, its structure, how government works and the people behind it.\nOfficial Gazette\nOpen Data Portal\nGovernment Links\nThe President\nOffice of the President\nOffice of the Vice President\nSenate of the Philippines\nHouse of Representatives\nSupreme Court\nCourt of Appeals\nSandiganbayan",
+  "word_count": 133,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T14:14:22.539425Z"
+  "scraped_at": "2026-02-23T14:14:22.539425Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:05:53.746265Z"
 }

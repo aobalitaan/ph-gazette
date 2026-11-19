@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 225, s. 1971",
   "content_url": "https://www.officialgazette.gov.ph/1971/03/22/memorandum-order-no-225-s-1971/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1971/03mar/19710322-MO-0225-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 225, March 22, 1971 ]\nAMENDING MEMORANDUM ORDER NO. 222, SERIES OF 1971, ENTITLED �CREATING A TECHNICAL COMMITTEE FOR SMALL ARMS MANUFACTURE.�\nMemorandum Order No. 222, series of 1971, entitled �Creating a Technical Committee for Small Arms Manufacture� is hereby amended so as to delete therefrom the name of Mr. Agustin Cancio as Consultant/Adviser.�\nDone in the City of Manila, this,22nd�day of March,in the year of Our Lord, nineteen hundred and seventy-one.\n1aшphi1\n(Sgd.)\nALEJANDRO MELCHOR\nExecutive Secretary\nManila, March 22, 1971\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 102,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:51:23.935021Z"
+  "scraped_at": "2026-02-23T11:51:23.935021Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:53.721742Z"
 }

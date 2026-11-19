@@ -1,5 +1,3 @@
-"""Tests for the Gazette HTTP client."""
-
 import time
 from unittest.mock import patch
 
@@ -98,7 +96,7 @@ class TestGazetteClient:
                 await client.fetch("https://example.com/a")
                 await client.fetch("https://example.com/b")
                 elapsed = time.monotonic() - start
-            # Second request should have waited at least 0.3 * 0.5 = 0.15s (jittered)
+            # second request waits at least 0.3 * 0.5 = 0.15s (jittered)
             assert elapsed >= 0.10
 
     async def test_context_manager_required(self):
@@ -107,7 +105,7 @@ class TestGazetteClient:
             await client.fetch("https://example.com")
 
     async def test_429_uses_wait_cycle(self):
-        """429 responses cycle through _429_WAIT_CYCLE sleeps until success."""
+        # cycles through _429_WAIT_CYCLE until a non-429 lands
         call_count = 0
 
         def side_effect(request: httpx.Request) -> httpx.Response:
@@ -129,12 +127,12 @@ class TestGazetteClient:
                     result = await client.fetch("https://example.com/limited")
 
         assert result == "ok"
-        assert call_count == 4  # 3 x 429, then 200
+        assert call_count == 4  # three 429s then a 200
         assert sleep_durations == list(_429_WAIT_CYCLE[:3])
 
     async def test_429_cycle_wraps_around(self):
-        """After exhausting the cycle, 429 retries wrap back to the start."""
-        num_429s = len(_429_WAIT_CYCLE) + 2  # full cycle + 2 more
+        # past the end of the cycle, retries wrap back to index 0
+        num_429s = len(_429_WAIT_CYCLE) + 2
         call_count = 0
 
         def side_effect(request: httpx.Request) -> httpx.Response:
@@ -160,7 +158,7 @@ class TestGazetteClient:
         assert sleep_durations == expected
 
     async def test_429_respects_retry_after_header(self):
-        """429 with Retry-After header uses header value instead of cycle."""
+        # Retry-After value preempts the cycle when present
         call_count = 0
 
         def side_effect(request: httpx.Request) -> httpx.Response:
@@ -169,7 +167,7 @@ class TestGazetteClient:
             if call_count == 1:
                 return httpx.Response(429, text="rate limited", headers={"Retry-After": "90"})
             if call_count == 2:
-                return httpx.Response(429, text="rate limited")  # no header → fallback
+                return httpx.Response(429, text="rate limited")  # no header → cycle fallback
             return httpx.Response(200, text="ok")
 
         sleep_durations: list[float] = []
@@ -187,7 +185,7 @@ class TestGazetteClient:
         assert sleep_durations == [90, _429_WAIT_CYCLE[1]]
 
     async def test_429_ignores_non_numeric_retry_after(self):
-        """Non-numeric Retry-After falls back to wait cycle."""
+        # HTTP-date Retry-After is unparsed → cycle fallback
         call_count = 0
 
         def side_effect(request: httpx.Request) -> httpx.Response:
@@ -215,7 +213,7 @@ class TestGazetteClient:
         assert sleep_durations == [_429_WAIT_CYCLE[0]]
 
     async def test_429_does_not_count_as_tenacity_attempt(self):
-        """429 retries don't consume tenacity attempts; a 500 after 429 still retries."""
+        # 429 retries don't burn tenacity attempts; later 5xx still retries
         call_count = 0
 
         def side_effect(request: httpx.Request) -> httpx.Response:

@@ -7,11 +7,14 @@
   "title": "Letter of Instruction No. 1249, s. 1982",
   "content_url": "https://www.officialgazette.gov.ph/1982/06/21/letter-of-instruction-no-1249-s-1982/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1982/06jun/19820621-LOI-1249-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "{ MALACANANG C\nMANILA\n\nLETTER OF INSTRUCTIONS No. 1249\nTO: All Members of the Cabinet\n\nHenceforth, any availment from the National\nSecurity Fund or any Confidential or Intelligence\nFunds shall be solely upon my authority or direction.\nBefore their release, the purpose of their use shall\nbe explained to me confidentially -\n\nDone in the City of Manila, this Zlst day of\nJune, in the year of Our Lord, nineteen hundred and\n\neighty-two.",
+  "word_count": 73,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T10:26:17.886246Z"
+  "scraped_at": "2026-02-23T10:26:17.886246Z",
+  "pdf_status": "ocr_extracted",
+  "pdf_error": null,
+  "pdf_processed_at": "2026-03-05T13:56:39.055159Z"
 }

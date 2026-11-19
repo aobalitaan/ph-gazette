@@ -206,7 +206,7 @@ SEC. 4. Section 106 of the same Code, as amended, is hereby further amended to r
 
 “(3) Sale of raw materials or packaging materials to export-oriented enterprise whose export sales exceed seventy percent (70%) of total annual production;
 
-(4) Sale of gold to the Bangko Sentral ng Pilipinas (BSP);
+“(4) Sale of gold to the Bangko Sentral ng Pilipinas (BSP);
 
 “(5) Those considered export sales under Executive Order No. 226, otherwise known as the Omnibus Investment Code of 1987, and other special laws; and
 
@@ -540,7 +540,7 @@ SEC. 16. Section 121 of the same Code, as amended, is hereby further amended to 
 
 “ Provided, however , That in case the maturity period referred to in paragraph (a) is shortened thru pretermination, then the maturity period shall be reckoned to end as of the date of pretermination for purposes of classifying the transaction and the correct rate of tax shall be applied accordingly.
 
-Provided, finally, That the generally accepted accounting principles as may be prescribed by the Bangko Sentral ng Pilipinas for the bank or nonbank financial intermediary performing quasi-banking functions shall likewise be the basis for the calculation of gross receipts.
+“ Provided, finally , That the generally accepted accounting principles as may be prescribed by the Bangko Sentral ng Pilipinas for the bank or nonbank financial intermediary performing quasi-banking functions shall likewise be the basis for the calculation of gross receipts.
 
 “Nothing in this Code shall preclude the Commissioner from imposing the same tax herein provided on persons performing similar banking activities.”
 
@@ -642,7 +642,7 @@ SEC. 19. Section 236 of the same Code, as amended, is hereby further amended to 
 
 “(1) General Rule. — The registration of any person who ceases to be liable to a tax type shall be cancelled upon filing with the Revenue District Office where he is registered, an application for registration information update in a form prescribed therefor;
 
-(2) Cancellation of Value-added Tax Registration. — A VAT-registered person may cancel his registration for VAT if:
+“(2) Cancellation of Value-added Tax Registration. — A VAT-registered person may cancel his registration for VAT if:
 
 “(a) He makes written application and can demonstrate to the Commissioner’s satisfaction that his gross sales or receipts for the following twelve (12) months, other than those that are exempt under Section 109(A) to (U), will not exceed One million five hundred thousand pesos (P1,500,000), or
 

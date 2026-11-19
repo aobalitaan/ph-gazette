@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 546, s. 1975",
   "content_url": "https://www.officialgazette.gov.ph/1975/11/14/memorandum-order-no-546-s-1975/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1975/11nov/19751114-MO-0546-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 546, November 14, 1975 ]\nTitle:\nAUTHORIZING CERTAIN PERSONNEL OF THE SOSEC TO RENDER OVERTIME SERVICE WITH ADDITIONAL COMPENSATION FROM OCTOBER 24 TO NOVEMBER 10, 1975\n.\nRemarks: Original not received\n(c/o Velbuena)\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 53,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:58:51.306430Z"
+  "scraped_at": "2026-02-23T11:58:51.306430Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:17.860225Z"
 }

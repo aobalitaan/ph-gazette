@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 453, s. 1974",
   "content_url": "https://www.officialgazette.gov.ph/1974/09/18/memorandum-order-no-453-s-1974/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1974/09sep/19740918-MO-0453-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 453, September 18, 1974 ]\nIn view of the developmental objectives prescribed by law for the Philippine Aerospace Development Corporation in rationalizing the aerospace industry, contracts for lease of lands in the Manila International Airport that have been and shall be entered into between the Philippine Aerospace Development Corporation and the Civil Aeronautics Administration are hereby exempt from the provisions of Administrative Order No. 4, series of 1970.\n1aшphi1\nBy authority of the President:\n(SGD.)\nALEJANDRO MELCHOR\nExecutive Secretary\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 99,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:56:46.761465Z"
+  "scraped_at": "2026-02-23T11:56:46.761465Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:08.696076Z"
 }

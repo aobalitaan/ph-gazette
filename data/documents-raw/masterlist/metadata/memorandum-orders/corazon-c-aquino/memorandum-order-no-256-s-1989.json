@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 256, s. 1989",
   "content_url": "https://www.officialgazette.gov.ph/1989/09/25/memorandum-order-no-256-s-1989/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1989/09sep/19890925-MO-0256-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 256, September 25, 1989 ]\nREVOKING MEMORANDUM ORDER NO. 255 SUSPENDING THE OPERATION OF THE TASK FORCE ANTI-GAMBLING\nMemorandum Order No. 255 dated September 18, 1989 suspending the operation of the Task Force Anti-Gambling is hereby revoked effective immediately.\n1aшphi1\nBy authority of the President:\n(Sgd.)\nCATALINO MACARAIG, JR.\nExecutive Secretary\nManila, September 25, 1989\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 75,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:40:07.920644Z"
+  "scraped_at": "2026-02-23T11:40:07.920644Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:02:59.144906Z"
 }

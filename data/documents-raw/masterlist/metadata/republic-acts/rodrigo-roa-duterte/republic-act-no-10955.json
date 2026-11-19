@@ -13,5 +13,8 @@
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T20:00:36.946878Z"
+  "scraped_at": "2026-02-23T20:00:36.946878Z",
+  "pdf_status": "failed",
+  "pdf_error": "OCR quality gate failed (low alphabetic ratio (0.61 < 0.7))",
+  "pdf_processed_at": "2026-03-05T15:08:07.482336Z"
 }

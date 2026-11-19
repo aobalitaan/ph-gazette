@@ -1,5 +1,3 @@
-"""Tests for SONA HTML parsers."""
-
 from datetime import date
 from pathlib import Path
 
@@ -31,7 +29,7 @@ class TestParseSONAIndex:
 
     def test_president_carryforward_with_rowspan(self, index_html: str):
         entries = parse_sona_index(index_html)
-        # Second and third entries should carry forward Quezon
+        # rowspan carries Quezon into rows 2 and 3
         assert entries[1].president == "Manuel L. Quezon"
         assert entries[1].date == date(1936, 6, 16)
         assert entries[2].president == "Manuel L. Quezon"
@@ -51,7 +49,7 @@ class TestParseSONAIndex:
         assert marcos_73.legislature is None
 
     def test_president_carryforward_empty_cells(self, index_html: str):
-        """Marcos Jr. uses empty admin cells instead of rowspan."""
+        # Marcos Jr. block uses empty admin cells, not rowspan
         entries = parse_sona_index(index_html)
         jr_entries = [e for e in entries if "Marcos Jr" in e.president]
         assert len(jr_entries) == 3
@@ -62,7 +60,7 @@ class TestParseSONAIndex:
     def test_url_cleaned_of_html_entities(self, index_html: str):
         entries = parse_sona_index(index_html)
         jr_2022 = [e for e in entries if e.date == date(2022, 7, 25)][0]
-        # URL should not end with &quot; or "
+        # no trailing &quot; or " on the URL
         assert not jr_2022.url.endswith('"')
         assert "&quot;" not in jr_2022.url
 
@@ -91,7 +89,7 @@ class TestParseSONAPageModern:
         result = parse_sona_page(page_html)
         assert result["paragraph_count"] == 5
         assert "informality" in result["paragraphs"][1]
-        # Page 2 paragraphs should also be included
+        # paragraphs from page 2 must come through too
         assert "concerns" in result["paragraphs"][3]
 
     def test_has_text_and_word_count(self, page_html: str):

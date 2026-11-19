@@ -13,5 +13,8 @@
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T02:25:25.720145Z"
+  "scraped_at": "2026-02-23T02:25:25.720145Z",
+  "pdf_status": "failed",
+  "pdf_error": "OCR quality gate failed (too few words (12 < 50))",
+  "pdf_processed_at": "2026-03-05T13:16:42.510743Z"
 }

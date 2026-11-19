@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 274, s. 1972",
   "content_url": "https://www.officialgazette.gov.ph/1972/02/25/memorandum-order-no-274-s-1972/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1972/02feb/19720225-MO-0274-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 274, February 25, 1972 ]\nAMENDING MEMORANDUM ORDER NO. 272 OF FEBRUARY 21, 1972, CREATING A POSTAL REFORM TASK FORCE\nMemorandum Order No. 272 dated February 21, 1972 is hereby amended so as to include Mr. FILEMON FERNANDEZ of the Civil Service Commission as member of the Postal Reform Task Force.\n1aшphi1\nBy the authority of the President:\n(Sgd.)\nALEJANDRO MELCHOR\nExecutive Secretary\nManila, February 25, 1972\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 87,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:52:34.122347Z"
+  "scraped_at": "2026-02-23T11:52:34.122347Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:58.087548Z"
 }

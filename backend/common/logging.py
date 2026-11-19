@@ -5,11 +5,7 @@ import sys
 
 
 def setup_logging(verbose: bool = False) -> None:
-    """Configure logging for the pipeline.
-
-    Args:
-        verbose: If True, set DEBUG level. Otherwise INFO.
-    """
+    """Wire up the `backend.*` logger. `verbose=True` selects DEBUG."""
     level = logging.DEBUG if verbose else logging.INFO
     handler = logging.StreamHandler(sys.stderr)
     handler.setFormatter(
@@ -18,7 +14,6 @@ def setup_logging(verbose: bool = False) -> None:
             datefmt="%Y-%m-%d %H:%M:%S",
         )
     )
-    # Configure root logger for backend.*
     root = logging.getLogger("backend")
     root.setLevel(level)
     root.addHandler(handler)

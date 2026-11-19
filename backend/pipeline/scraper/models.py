@@ -7,7 +7,7 @@ from pydantic import BaseModel, computed_field
 
 from backend.common.enums import DocumentCategory, PdfStatus, ScrapeStatus
 
-# Re-export enums for backward compatibility
+# re-exports kept for backward compatibility
 __all__ = [
     "DocumentCategory",
     "ScrapeStatus",
@@ -24,7 +24,7 @@ __all__ = [
 
 
 class SONAIndexEntry(BaseModel):
-    """One row from the Official Gazette SONA index table."""
+    """One row from the Gazette's SONA index table."""
 
     president: str
     date: date
@@ -40,7 +40,7 @@ class SONAIndexEntry(BaseModel):
 
 
 class SONADocument(BaseModel):
-    """Complete SONA document with metadata, content, and scrape status."""
+    """SONA with metadata, content, and scrape status."""
 
     doc_id: str
     category: DocumentCategory = DocumentCategory.SONA
@@ -75,7 +75,7 @@ class SONADocument(BaseModel):
 
 
 class SONACorpusSummary(BaseModel):
-    """Aggregate statistics for reporting on the SONA corpus."""
+    """Aggregate stats for the SONA corpus."""
 
     total: int = 0
     success: int = 0
@@ -86,10 +86,6 @@ class SONACorpusSummary(BaseModel):
     date_range: tuple[date, date] | None = None
     total_words: int = 0
 
-
-# ---------------------------------------------------------------------------
-# Masterlist generator constants and models
-# ---------------------------------------------------------------------------
 
 MASTERLIST_CATEGORY_MAP: dict[str, DocumentCategory] = {
     "executive-orders": DocumentCategory.EXECUTIVE_ORDER,
@@ -129,18 +125,14 @@ MASTERLIST_PRESIDENT_SLUGS: list[str] = [
 
 
 def _doc_id_from_url(url: str) -> str:
-    """Extract a human-readable doc_id from a Gazette content URL.
-
-    Example:
-        "https://www.officialgazette.gov.ph/2022/05/11/administrative-order-no-48-s-2022/"
-        -> "administrative-order-no-48-s-2022"
-    """
+    """Last path segment of a Gazette URL, e.g.
+    .../administrative-order-no-48-s-2022/ -> administrative-order-no-48-s-2022."""
     path = urlparse(url).path.rstrip("/")
     return path.rsplit("/", 1)[-1]
 
 
 class MasterlistEntry(BaseModel):
-    """One row from a masterlist results table (Phase A output)."""
+    """A masterlist results-table row (Phase A output)."""
 
     title: str
     content_url: str
@@ -161,7 +153,7 @@ class MasterlistEntry(BaseModel):
 
 
 class MasterlistDocument(BaseModel):
-    """Full document after content page fetch (Phase B output)."""
+    """A document after the content page fetch (Phase B output)."""
 
     doc_id: str
     category: DocumentCategory
@@ -200,7 +192,7 @@ class MasterlistDocument(BaseModel):
 
 
 class MasterlistCorpusSummary(BaseModel):
-    """Aggregate statistics for the masterlist corpus."""
+    """Aggregate stats for the masterlist corpus."""
 
     total: int = 0
     success: int = 0

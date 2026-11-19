@@ -1,0 +1,20 @@
+{
+  "doc_id": "speech-of-president-quezon-on-the-appointment-of-governor-ombra-and-government-policies-for-sulu-august-30-1938",
+  "category": "speech",
+  "category_slug": "speeches",
+  "president_slug": "manuel-l-quezon",
+  "date": "1938-08-30",
+  "title": "Speech of President Quezon on the Appointment of Governor Ombra and Government Policies for Sulu, August 30, 1938",
+  "content_url": "https://www.officialgazette.gov.ph/1938/08/30/speech-of-president-quezon-on-the-appointment-of-governor-ombra-and-government-policies-for-sulu-august-30-1938/",
+  "pdf_url": null,
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "Failed to perform, curl: (28) Operation timed out after 30001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "scraped_at": "2026-03-05T13:07:59.789820Z",
+  "pdf_status": "not_applicable",
+  "pdf_error": null,
+  "pdf_processed_at": null
+}

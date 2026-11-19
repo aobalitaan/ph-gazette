@@ -111,7 +111,7 @@ machinery and storage;
 refer to buildings and structures for the production, harvesting,
 processing, storage, manufacture, preserving, transporting and
 
-very
+ve
 
 distribution of agricultural and biological products/materials
 and includes, but is not limited to, silos and its components,
@@ -205,7 +205,7 @@ to the soil to assist in the growing of agricultural and forest
 crops, maintenance of landscapes, and revegetation of disturbed
 soils in dry areas and during periods of inadequate rainfall,
 
-very
+vi
 
 and shall include drip, sprinkler, shallow tube well and other
 pressurized irrigation system; national and communal
@@ -294,7 +294,7 @@ farm suitability maps and land use maps/reports for
 agricultural, livestock and poultry, fishery, aquaculture and
 forest production and processing;
 
-for
+fi
 
 G) Training and supervision of agvi-fishery machinery
 technicians and operators of agri-fishery machinery service
@@ -428,7 +428,7 @@ and
 (e) Unprofessional, unethical, immoral or dishonorable
 conduct.
 
-it
+il
 
 The Chairperson or member concerned shall be given due
 notice and hearing where his/her right to be heard and to
@@ -556,7 +556,7 @@ making recommendations for the adoption of measures that
 will upgrade and improve the conditions affecting the practice
 of agricultural and biosystems engineering in the Philippines.
 
-very
+vi
 
 ARTICLE III
 EXAMINATION, REGISTRATION AND LICENSE
@@ -1072,7 +1072,7 @@ establishments and enterprises whose duties, functions and
 responsibilities mainly constitute the practice of agricultural
 and biosystems engineering.
 
-and
+e
 
 Moreover, registered and licensed agricultural and
 biosystems engineers may also qualify for appointment in all
@@ -1187,7 +1187,7 @@ biosystems specialty organization: Provided, further,
 That agricultural and biosystems engineering specialty
 organizations shall be recognized and certified by the Board.
 
-are
+rd
 
 The Agricultural and Biosystems Engineering
 Specialization shall include, but not limited to, the following:
@@ -1431,7 +1431,7 @@ Approved,
 
 PELICIANO BELMONTE JR.
 
-a four
+a4
 
 This Act was passed by the Senate of the Philippines
 as Senate Bill No. 2434 on February 16, 2016 and adopted
@@ -1439,6 +1439,8 @@ by the House of Representatives as an amendment to
 House Bill No. 6421 on May 23, 2016.
 
 House of Representatives
+
+Se
 
 BENIGNO S. AQUINO III
 President of the Philippines

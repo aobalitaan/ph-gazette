@@ -7,11 +7,14 @@
   "title": "Letter of Instruction No. 615, s. 1977",
   "content_url": "https://www.officialgazette.gov.ph/1977/10/17/letter-of-instruction-no-615-s-1977/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1977/10oct/19771017-LOI-0615-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACASANG\nMANILA\n\nLETTERS OF INSTRUCTIONS NO. 615\nTo : The Secretary of Public Highways\n\nThe Secretary of Tourism\n\nWith the confirmation of the existence of\nburial caves in the mountains of Bagulin, La Union,\nwhich I have deckred as national cultural treasure,\nthe roads leading to the site are hereby classified\nas a national road which should be upgraded and\nmade passable to make the site accessible to tourists\nand the general public.\n\nDone in the City of Manila this 17th day\nof etobe: in the year of Our Lord, nineteen\nhundred and seventy-seven.",
+  "word_count": 94,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T10:09:51.803972Z"
+  "scraped_at": "2026-02-23T10:09:51.803972Z",
+  "pdf_status": "ocr_extracted",
+  "pdf_error": null,
+  "pdf_processed_at": "2026-03-05T13:56:24.851833Z"
 }

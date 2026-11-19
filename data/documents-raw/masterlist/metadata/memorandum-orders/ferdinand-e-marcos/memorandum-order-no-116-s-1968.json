@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 116, s. 1968",
   "content_url": "https://www.officialgazette.gov.ph/1968/09/05/memorandum-order-no-116-s-1968/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1968/09sep/19680905-MO-0116-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 116, September 5, 1968 ]\nFURTHER AMENDING MEMORANDUM ORDER NO. 107 DATED JULY 12, 1968, REGARDING THE FLAG CEREMONY IN THE OFFICE OF THE PRESIDENT.\nMemorandum Order No. 107 dated July 12, 1968, directing the holding of a Flag Ceremony every Monday morning and Friday afternoon in the Office of the President, is hereby amended so as to re-schedule the ceremony on Mondays from 7:45 to 8:00 A.M.\n1aшphi1\n,\nBy the authority of the President:\n(Sgd.)\nRAFAEL M. SALAS\nExecutive Secretary\nManila, September 5, 1968\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 106,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:48:39.103498Z"
+  "scraped_at": "2026-02-23T11:48:39.103498Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:41.435327Z"
 }

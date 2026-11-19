@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 485, s. 1975",
   "content_url": "https://www.officialgazette.gov.ph/1975/01/27/memorandum-order-no-485-s-1975/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1975/01jan/19750127-MO-0485-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 485, January 27, 1975 ]\nMemorandum Order No. 477 dated December 23, 1974, creating a Committee to formulate a design for the integration of physical facilities of all units within the Office of the President, is hereby amended to include Colonel ROLAND I. PATTUGALAN as representative of the Presidential Security Command to the Committee in lieu of Colonel Santiago Barangan of the same Command.\n1aшphi1\nBy authority of the President:\n(SGD.)\nROBERTO V. REYES\nActing Executive Secretary\nManila, January 27, 1975\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 101,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:57:32.790182Z"
+  "scraped_at": "2026-02-23T11:57:32.790182Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:11.787459Z"
 }

@@ -13,5 +13,8 @@
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T20:23:26.205187Z"
+  "scraped_at": "2026-02-23T20:23:26.205187Z",
+  "pdf_status": "failed",
+  "pdf_error": "Failed to perform, curl: (3) URL rejected: Port number was not a decimal number between 0 and 65535. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "pdf_processed_at": "2026-03-05T16:17:30.891242Z"
 }

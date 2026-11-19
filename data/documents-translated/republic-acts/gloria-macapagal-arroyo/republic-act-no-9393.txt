@@ -168,7 +168,7 @@ ARTICLE IV
 
 THE SANGGUNIANG PANLUNGSOD
 
-SEC 10. Composition. — (a) The city council, the legislative body of the City, shall be composed of the city vice mayor as the presiding officer, the regular council members, the president of the city chapter of the association of barangays, the president of the city federation of youth councils and the sectoral representatives, as members.
+SEC 10. Composition . — (a) The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as the presiding officer, the regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan and the sectoral representatives, as members.
 
 (b) In addition thereto, there shall be three sectoral representatives: one from the women; and as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections, one from the agricultural or industrial workers; and one from the other sectors, including the urban poor or disabled persons.
 
@@ -330,7 +330,7 @@ SEC 12. Internal Rules of Procedure. — (a) On the first regular session follow
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four consecutive sessions for which they may be censured, reprimanded or excluded from the sessions, suspended for not more than sixty (60) days, or expelled: Provided , That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the sanggunian members: Provided , further , That the member convicted by final judgment to imprisonment of at least one year for any crime involving moral turpitude shall be automatically expelled from the sanggunian.
 
-(6) Such other rules as the council may adopt.
+(6) Such other rules as the sanggunian may adopt.
 
 SEC 13. Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members. — (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial, professional relationship or any relationship by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
 

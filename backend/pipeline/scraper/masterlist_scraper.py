@@ -1,8 +1,8 @@
 """Masterlist scraper orchestration.
 
-Coordinates two-phase scraping of the Official Gazette masterlist generator:
-  Phase A: Collect metadata from results tables (fast, paginated).
-  Phase B: Fetch individual content pages (concurrent worker pool).
+Phase A: paginate the results tables and collect metadata.
+Phase B: fetch each content page (concurrent worker pool).
+Phase C: download PDFs + extract text for pdf-only docs.
 """
 
 import asyncio
@@ -39,13 +39,11 @@ MASTERLIST_BASE_URL = "https://www.officialgazette.gov.ph/masterlist-generator/"
 DEFAULT_DATA_DIR = Path("data/documents-raw/masterlist")
 PER_PAGE = 100
 
-# SONAs are already scraped separately via the SONA scraper.
-# Filter them out of masterlist speeches to avoid duplication.
+# SONAs come from the dedicated SONA scraper — filter them out of speeches here.
 _SONA_KEYWORDS = ("state of the nation", "state-of-the-nation", "-sona-", "sona ")
 
 
 def _build_page_url(category_slug: str, president_slug: str, page: int) -> str:
-    """Build the masterlist generator URL for a given category, president, and page."""
     if page == 1:
         return (
             f"{MASTERLIST_BASE_URL}"
@@ -64,13 +62,7 @@ def _build_page_url(category_slug: str, president_slug: str, page: int) -> str:
 
 
 class MasterlistScraper:
-    """Orchestrates two-phase masterlist scraping.
-
-    Phase A: For each category × president, paginate through results and collect
-             MasterlistEntry metadata. Save per-combination index files.
-    Phase B: For each unique entry, fetch the content page, parse it, and save
-             raw HTML + text + metadata.
-    """
+    """Drives the masterlist scrape across all category × president combos."""
 
     def __init__(
         self,
@@ -94,13 +86,13 @@ class MasterlistScraper:
 
     @staticmethod
     def _is_sona(entry: MasterlistEntry) -> bool:
-        """Check if an entry is a SONA (already scraped separately)."""
+        """SONAs come from the dedicated scraper — skip them here."""
         title_lower = entry.title.lower()
         doc_id_lower = entry.doc_id.lower()
         return any(kw in title_lower or kw in doc_id_lower for kw in _SONA_KEYWORDS)
 
     async def run(self) -> MasterlistCorpusSummary:
-        """Execute both phases (A + B). Returns a corpus summary."""
+        """Run phases A then B."""
         self.storage.ensure_dirs()
         self._setup_signal_handlers()
 
@@ -123,7 +115,7 @@ class MasterlistScraper:
         return summary
 
     async def run_phase_a_only(self) -> int:
-        """Run Phase A only (index collection). Returns total entry count."""
+        """Phase A only — returns total entry count."""
         self.storage.ensure_dirs()
         self._setup_signal_handlers()
         total = 0
@@ -132,7 +124,7 @@ class MasterlistScraper:
         return total
 
     async def run_phase_b_only(self) -> MasterlistCorpusSummary:
-        """Run Phase B only (content fetching from existing indexes)."""
+        """Phase B only — content fetching from existing indexes."""
         self.storage.ensure_dirs()
         self._setup_signal_handlers()
 
@@ -142,7 +134,7 @@ class MasterlistScraper:
         return self._build_summary()
 
     async def run_phase_c_only(self) -> MasterlistCorpusSummary:
-        """Run Phase C only (PDF download + text extraction from existing manifest)."""
+        """Phase C only — PDF download + text extraction from existing manifest."""
         self.storage.ensure_dirs()
         self._setup_signal_handlers()
 
@@ -156,12 +148,8 @@ class MasterlistScraper:
         self.storage.save_manifest(self._documents)
         return self._build_summary()
 
-    # ------------------------------------------------------------------
-    # Phase A: Index collection
-    # ------------------------------------------------------------------
-
     async def _run_phase_a(self, client: GazetteClient) -> int:
-        """Collect metadata from masterlist tables for all combinations."""
+        """Walk every category × president, collecting masterlist rows."""
         combinations = [
             (cat, pres) for cat in self.categories for pres in self.presidents
         ]
@@ -172,7 +160,6 @@ class MasterlistScraper:
                 logger.info("Shutdown requested, stopping Phase A...")
                 break
 
-            # Check if index already cached
             if not self.force:
                 cached = self.storage.load_index(cat, pres)
                 if cached is not None:
@@ -184,7 +171,6 @@ class MasterlistScraper:
                     )
                     continue
 
-            # Fetch page 1
             url = _build_page_url(cat, pres, 1)
             try:
                 html = await client.fetch(url)
@@ -205,11 +191,9 @@ class MasterlistScraper:
                 self.storage.save_index(cat, pres, [])
                 continue
 
-            # Parse first page
             entries = parse_masterlist_page(html, cat)
             total_pages = math.ceil(total_records / PER_PAGE)
 
-            # Fetch remaining pages
             for page_num in range(2, total_pages + 1):
                 if self._shutdown_requested:
                     break
@@ -223,7 +207,6 @@ class MasterlistScraper:
                         page_num, total_pages, cat, pres, e,
                     )
 
-            # Filter out SONAs (already scraped separately)
             before = len(entries)
             entries = [e for e in entries if not self._is_sona(e)]
             sona_count = before - len(entries)
@@ -240,13 +223,9 @@ class MasterlistScraper:
         logger.info("Phase A complete: %d total entries indexed", total_entries)
         return total_entries
 
-    # ------------------------------------------------------------------
-    # Phase B: Content fetching
-    # ------------------------------------------------------------------
-
     async def _run_phase_b(self) -> None:
         """Fetch content pages using a concurrent curl_cffi worker pool."""
-        # Load all index entries and deduplicate by doc_id
+        # dedupe by doc_id across the loaded indexes
         all_entries = self.storage.load_all_index_entries()
         seen: dict[str, MasterlistEntry] = {}
         sona_skipped = 0
@@ -267,7 +246,6 @@ class MasterlistScraper:
             len(unique_entries), sona_skipped, len(all_entries),
         )
 
-        # Build document list with resumability
         self._documents = self._build_document_list(unique_entries)
         pending = [d for d in self._documents if d.scrape_status != ScrapeStatus.SUCCESS]
         logger.info(
@@ -281,7 +259,6 @@ class MasterlistScraper:
         if not pending:
             return
 
-        # Distribute work via async queue
         queue: asyncio.Queue[MasterlistDocument] = asyncio.Queue()
         for doc in pending:
             queue.put_nowait(doc)
@@ -313,7 +290,7 @@ class MasterlistScraper:
                     )
                     await self._scrape_one(client, doc)
 
-                    # Periodic manifest save every 500 completed docs
+                    # checkpoint every 500 docs
                     self._completed_since_save += 1
                     if self._completed_since_save >= 500:
                         self._completed_since_save = 0
@@ -329,18 +306,13 @@ class MasterlistScraper:
     def _build_document_list(
         self, entries: list[MasterlistEntry]
     ) -> list[MasterlistDocument]:
-        """Build document list, merging with existing manifest for resumability.
-
-        Preserves all existing manifest documents (including those from categories
-        not in the current filter) so that running with --categories doesn't
-        discard data from other categories.
-        """
+        """Merge new entries with the existing manifest so --categories doesn't
+        wipe out docs from other categories."""
         existing: dict[str, MasterlistDocument] = {}
         if not self.force:
             for doc in self.storage.load_manifest():
                 existing[doc.doc_id] = doc
 
-        # Start with documents from the current entry set
         entry_doc_ids: set[str] = set()
         documents: list[MasterlistDocument] = []
         for entry in entries:
@@ -353,8 +325,7 @@ class MasterlistScraper:
             else:
                 documents.append(MasterlistDocument.from_entry(entry))
 
-        # Preserve existing documents not covered by the current entries
-        # (e.g. from categories not in --categories filter)
+        # keep manifest docs outside the current --categories filter
         for doc_id, doc in existing.items():
             if doc_id not in entry_doc_ids:
                 documents.append(doc)
@@ -364,7 +335,7 @@ class MasterlistScraper:
     async def _scrape_one(
         self, client: GazetteClient | CurlCffiClient, doc: MasterlistDocument,
     ) -> None:
-        """Scrape a single content page. Errors are non-fatal."""
+        """Scrape one content page. Errors are non-fatal."""
         try:
             html = await client.fetch(doc.content_url)
             parsed = parse_masterlist_content_page(html)
@@ -373,7 +344,7 @@ class MasterlistScraper:
             doc.word_count = parsed["word_count"]
             doc.has_html_content = parsed["has_html_content"]
             doc.is_pdf_only = parsed["is_pdf_only"]
-            # Prefer PDF URL from content page; fall back to table PDF URL
+            # content-page PDF wins over the masterlist-table one
             if parsed["pdf_url"]:
                 doc.pdf_url = parsed["pdf_url"]
             doc.scrape_status = ScrapeStatus.SUCCESS
@@ -406,28 +377,20 @@ class MasterlistScraper:
             self.storage.save_metadata(doc)
             logger.error("  FAILED: %s — %s", doc.doc_id, e)
 
-    # ------------------------------------------------------------------
-    # Phase C: PDF download + text extraction
-    # ------------------------------------------------------------------
-
     async def _run_phase_c(self) -> None:
-        """Download PDFs for pdf-only documents and extract text."""
-        # Filter for documents that need PDF processing
+        """Download PDFs for pdf-only docs and extract text."""
         pending: list[MasterlistDocument] = []
         for doc in self._documents:
             if not doc.is_pdf_only:
                 continue
-            # Apply category/president filters
             if doc.category_slug not in self.categories:
                 continue
             if doc.president_slug not in self.presidents:
                 continue
-            # Skip already-processed docs (unless --force)
             if not self.force and doc.pdf_status in (
                 PdfStatus.TEXT_EXTRACTED, PdfStatus.OCR_EXTRACTED,
             ):
                 continue
-            # No PDF URL → mark skipped
             if not doc.pdf_url:
                 doc.pdf_status = PdfStatus.SKIPPED
                 doc.pdf_error = "no pdf_url"
@@ -494,9 +457,8 @@ class MasterlistScraper:
     async def _process_pdf(
         self, client: CurlCffiClient, doc: MasterlistDocument,
     ) -> None:
-        """Download a PDF, extract text, and update the document. Errors are non-fatal."""
+        """Download (or load cached) PDF, extract text, update the document."""
         try:
-            # Load from disk if already downloaded, otherwise download
             pdf_bytes = self.storage.load_pdf(doc)
             if pdf_bytes is None:
                 assert doc.pdf_url is not None
@@ -506,7 +468,7 @@ class MasterlistScraper:
             else:
                 logger.debug("  PDF loaded from disk (%d bytes)", len(pdf_bytes))
 
-            # Extract text (CPU-bound, run in thread)
+            # CPU-bound, off the event loop
             result = await asyncio.to_thread(extract_pdf_text, pdf_bytes)
 
             doc.pdf_processed_at = datetime.now(UTC)
@@ -539,12 +501,7 @@ class MasterlistScraper:
             self.storage.save_metadata(doc)
             logger.error("  PDF FAILED: %s — %s", doc.doc_id, e)
 
-    # ------------------------------------------------------------------
-    # Summary
-    # ------------------------------------------------------------------
-
     def _build_summary(self) -> MasterlistCorpusSummary:
-        """Build corpus summary from current document list."""
         by_category: dict[str, int] = {}
         by_president: dict[str, int] = {}
         for d in self._documents:
@@ -584,21 +541,17 @@ class MasterlistScraper:
             ),
         )
 
-    # ------------------------------------------------------------------
-    # Signal handling
-    # ------------------------------------------------------------------
-
     def _setup_signal_handlers(self) -> None:
-        """Register signal handlers for graceful shutdown."""
         loop = asyncio.get_event_loop()
         for sig in (signal.SIGINT, signal.SIGTERM):
             try:
                 loop.add_signal_handler(sig, self._handle_shutdown)
             except NotImplementedError:
+                # Windows doesn't support add_signal_handler
                 pass
 
     def _handle_shutdown(self) -> None:
-        """Handle Ctrl+C by flagging shutdown (save state before exiting)."""
+        """First Ctrl+C flags shutdown so we can save state; second forces exit."""
         if self._shutdown_requested:
             logger.warning("Force shutdown requested, exiting immediately")
             raise SystemExit(1)

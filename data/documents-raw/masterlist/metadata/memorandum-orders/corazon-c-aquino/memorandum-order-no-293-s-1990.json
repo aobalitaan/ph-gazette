@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 293, s. 1990",
   "content_url": "https://www.officialgazette.gov.ph/1990/05/08/memorandum-order-no-293-s-1990/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1990/05may/19900508-MO-0293-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 293, May 8, 1990 ]\nAPPROVING THE 1990 INVESTMENT PRIORITIES PLAN\nPursuant to Executive Order No. 225, otherwise known as the Omnibus Investments Code of 1987, and as recommended by the Board of Investments, the attached 1990 Investments Priorities Plan is hereby approved.\nThis Memorandum Order shall take effect after fifteen (15) days following the completion of its publication in at least one newspaper of general circulation.\n1aшphi1\n(Sgd.)�\nCORAZON C. AQUINO\nMay 8, 1990\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 95,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:41:09.873738Z"
+  "scraped_at": "2026-02-23T11:41:09.873738Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:03.664671Z"
 }

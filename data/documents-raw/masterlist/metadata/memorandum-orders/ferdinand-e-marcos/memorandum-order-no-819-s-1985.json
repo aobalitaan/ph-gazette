@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 819, s. 1985",
   "content_url": "https://www.officialgazette.gov.ph/1985/02/07/memorandum-order-no-819-s-1985/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1985/02feb/19850217-MO-0819-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "Office of the President\nof the Philippines\nMalacañang\nMEMORANDUM ORDER NO. 819\nIn the interest of the service, the Special Projects Office of the Presidential Management Staff is hereby authorized to act as the Interim Secretariat of the Youth Development Affairs, effective immediately until further advice.\nBy authority of the President:\n(Sgd.) JUAN C. TUVERA\nPresidential Executive Assistant\nManila, 7th February, 1985\nSource\n:\nMalacañang Records Office\nResources\n[PDF]\nMemorandum Order No. 819, February 17, 1985",
+  "word_count": 76,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:05:28.321934Z"
+  "scraped_at": "2026-02-23T12:05:28.321934Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:53.821215Z"
 }

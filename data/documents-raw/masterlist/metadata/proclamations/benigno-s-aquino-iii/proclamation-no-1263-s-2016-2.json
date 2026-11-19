@@ -7,11 +7,14 @@
   "title": "Proclamation No. 1263, s. 2016",
   "content_url": "https://www.officialgazette.gov.ph/2016/05/11/proclamation-no-1263-s-2016-2/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/2014/05may/20160511-PROC-1263-BSA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "About\nOfficial Gazette of the Republic of the Philippines\nThe Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638\nMALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\nPROCLAMATION NO. 1263\nDECLARING SATURDAY, 11 JUNE 2016, AS A SPECIAL (NON-WORKING) DAY IN THE PROVINCE OF RIZAL\nResources\n[PDF]\nProclamation No. 1263, s. 2016\nRepublic of the Philippines\nAll content is in the public domain unless otherwise stated.\nFeedback Form\nAbout GOVPH\nLearn more about the Philippine government, its structure, how government works and the people behind it.\nGOV.PH\nOfficial Gazette\nOpen Data Portal\nGovernment Links\nThe President\nOffice of the President\nOffice of the Vice President\nSenate of the Philippines\nHouse of Representatives\nSupreme Court\nCourt of Appeals\nSandiganbayan\nManaged by ICT Division of the\nPresidential Communications Operations Office (PCOO)",
+  "word_count": 148,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T13:24:44.458293Z"
+  "scraped_at": "2026-02-23T13:24:44.458293Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:05:51.545538Z"
 }

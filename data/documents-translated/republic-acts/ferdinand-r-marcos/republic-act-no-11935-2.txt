@@ -150,7 +150,7 @@ Population Officer, a City Public Order and Safety Officer, a City
 Agriculturist, a City Human Resource Management Officer, and
 a City Tourism Officer
 
-(c) The City Council may:
+(c) The Sangguniang Panlungsod may:
 
 (1) Maintain existing offices not mentioned in subsections
 (a) and (b) hereof;
@@ -954,7 +954,7 @@ Sangguniang Panlungsod and which relationship may result in
 conflict of interest. Such relationship shall include:
 
 (1) Ownership of stock or capital, or investment in the
-tity or firm to which the ordinance or resolution may
+entity or firm to which the ordinance or resolution may
 
 apply; and
 
@@ -1399,7 +1399,8 @@ or law from a recognized college or university, a first grade civil
 service eligible or its equivalent and must have acquired at least
 five (5) years of experience in treasury or accounting service.
 
-(d) The City Treasurer shall receive such compensation, emoluments, and allowances as may be determined by law.
+(d) The City Treasurer shall receive such compensation,
+emoluments, and allowances as may be determined by law.
 
 (e) The City Treasurer shall supervise the City Finance
 Department, and shall:
@@ -1575,7 +1576,8 @@ Mayor and to the Sangguniang Panlungsod;
 (3) Apprise the Sangguniang Panlungsod and other officials
 on the financial condition and operations of the City;
 
-(4) Certify the availability of budgetary allotment to which expenditures and obligations may be properly charged;
+(4) Certify the availability of budgetary allotment to which
+expenditures and obligations may be properly charged;
 
 (5) Review supporting documents before the preparation of
 vouchers to determine the completeness of requirements;
@@ -1783,7 +1785,9 @@ construction, and attended and successfully completed a seminar
 workshop on Presidential Decree No. 1096, otherwise known as
 the National Building Code, conducted by the DPWH.
 
-(d) The City Building Official shall receive such compensation, emoluments and allowances as may be determined by law.
+(d) The City Building Official shall receive such
+compensation, emoluments and allowances as may be determined
+by law.
 
 (e) The City Building Official shall take charge of the
 City Building Office, independent of the City Engineering Office,
@@ -1927,7 +1931,8 @@ degree from a recognized college or university, a first grade civil
 service eligible or its equivalent and must have acquired at least
 five (5) years experience in civil registry work.
 
-(b) The City Civil Registrar shall receive such compensation, emoluments and allowances as may be determined by law.
+(b) The City Civil Registrar shall receivé such compensation,
+emoluments and allowances as may be determined by law.
 
 (c) The City Civil Registrar shall be responsible for the
 civil registration program in the City of Carmona pursuant to
@@ -2730,7 +2735,9 @@ planning, recruitment and staffing, performance management,
 compensation and benefits, and training and development traffic
 management immediately preceding the date of appointment.
 
-(b) The City Human Resource Management Officer shall receive compensation, emoluments, and allowances as may be determined by law.
+(b) The City Human Resource Management Officer shall
+receive compensation, emoluments, and allowances as may be
+determined by law.
 
 (c) The City Human Resource Management Officer shall
 take charge of the City Human Resource and Management Office,
@@ -2810,7 +2817,9 @@ equivalent. He must have acquired experience in public safety
 management for at least five (5) years immediately preceding the
 date of his appointment.
 
-if dq a
+if
+dq
+a
 
 ARTICLE VIII
 
@@ -3012,7 +3021,8 @@ REGINY S. VELASC
 Secretary General
 House of Representatives *
 
-ENATO N. BA © Secretary of
+ENATO N. BA
+© Secretary of
 
 FERDINAND ROMV/ALDEZ MARCOS JR AME
 President if the Philippines
@@ -3023,4 +3033,4 @@ REPUBLIC OF THE PHILIPPINES
 
 MALACARIANG RECORDS OFFICE
 
-[MOCK TRANSLATION] MALACARIANG RECORDS OFFICE
+wa

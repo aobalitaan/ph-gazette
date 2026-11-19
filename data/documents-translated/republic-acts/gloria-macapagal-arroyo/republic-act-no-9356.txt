@@ -44,7 +44,7 @@ SEC. 7. The Officials of the City of Meycauayan. — (a) There shall be in the C
 
 (c) There shall be established in the City a city fire station to be headed by a city fire marshal, a city jail to be headed by a city jail warden and a city school division to be headed by a city school division superintendent;
 
-(d) The city council of the City of Meycauayan may:
+(d) The sangguniang panlungsod of the City of Meycauayan may:
 
 (1) Maintain existing offices not mentioned in subsections (a) and (b) hereof;
 
@@ -162,9 +162,9 @@ SEC. 9. The City Vice Mayor. — There shall be a city vice mayor who shall be e
 
 ARTICLE IV
 
-The City Council
+The Sangguniang Panlungsod
 
-SEC. 10 . Composition. — (a) The city council, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular council members, the president of the city chapter of the association of barangays, the president of the city federation of youth councils and the sectoral representatives, as members.
+SEC. 10 . Composition. — (a) The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan and the sectoral representatives, as members.
 
 (b) In addition thereto, there shall be three sectoral representatives: one from the women; and, as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections, one from the agricultural or industrial workers; and one from the other sectors, including the urban poor or disabled persons.
 
@@ -328,7 +328,7 @@ SEC. 12. Internal Rules of Procedure . — (a) On the first regular session foll
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four consecutive sessions for which they may be censured, reprimanded or excluded from the session, suspended for not more than sixty (60) days or expelled: Provided , That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the sanggunian members: Provided, further , That the member convicted by final judgment to imprisonment of at least one year for any crime involving moral turpitude shall be automatically expelled from the sanggunian; and
 
-(6) Such other rules as the council may adopt.
+(6) Such other rules as the sanggunian may adopt.
 
 SEC. 13. Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members . — (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial, professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
 
@@ -554,7 +554,7 @@ SEC. 31. The City Accountant. — (a) The city accountant must be a citizen of t
 
 (3) Appraise the sangguniang panlungsod and other officials on the financial condition and operations of the City;
 
-(4) Certify the availability of budgetary allotment to which expenditures and obligations may be properly charged.
+(4) Certify the availability of budgetary allotment to which expenditures and obligations may be properly charged;
 
 (5) Review supporting documents before preparation of vouchers to determine the completeness of requirements;
 

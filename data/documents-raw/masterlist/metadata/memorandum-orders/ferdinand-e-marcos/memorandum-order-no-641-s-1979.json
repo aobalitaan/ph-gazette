@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 641, s. 1979",
   "content_url": "https://www.officialgazette.gov.ph/1979/01/25/memorandum-order-no-641-s-1979/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1979/01jan/19790125-MO-0641-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 641, January 25, 1979 ]\nIn the interest of the service, Mrs. Yolanda M. Bato, Debate Stenographer, detailed with Committee Service, is hereby directed to return to her Home Office, City Court of Manila, effective at the close of office hours, 31 January 1979.\n1aшphi1\nBy Authority of the President:\n(Sgd.)\nJUAN C. TUVERA\nPresidential Assistant\nManila, 25 January 1979\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 80,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:01:15.568146Z"
+  "scraped_at": "2026-02-23T12:01:15.568146Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:24.127593Z"
 }

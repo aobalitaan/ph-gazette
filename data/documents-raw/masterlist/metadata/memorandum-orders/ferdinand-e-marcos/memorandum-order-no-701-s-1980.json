@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 701, s. 1980",
   "content_url": "https://www.officialgazette.gov.ph/1980/10/03/memorandum-order-no-701-s-1980/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1980/10oct/19801003-MO-0701-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 701, October 3, 1980 ]\nIn view of the recent developments in space science and technology which have implications for national development, there is hereby created a task group composed of the heads of the following agencies or their duly designated representatives:\nNatural Resources Management Center\n�\nChairman\nNational Sciecen Development Board\n�\nMember\nUP Training Center for Applied Geodesy and Photogrammetry\n�\nMember\nBureau of Coast and Geodetic Survey\n�\nMember\nPhilippine Atmospheric Geophysical and Astronomical Services Administraton\n(awÞhi(\n�\nMember\nPhilippine Communications Satellite Corporation\n�\nMember\nOffice of the President to be represented by Col. Victor Natividad\n�\nMember\nBy authority of the President:\n(Sgd.)\nJUAN C. TUVERA\nPresidential Assistant\nManila, October 3, 1980\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 136,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:02:51.156346Z"
+  "scraped_at": "2026-02-23T12:02:51.156346Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:37.280639Z"
 }

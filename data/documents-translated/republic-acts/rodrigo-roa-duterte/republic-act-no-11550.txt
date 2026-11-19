@@ -153,12 +153,13 @@ a provincial environment and natural resources officer,
 a provincial cooperatives officer and a provincial information
 cer,
 
-(©) The provincial council may:
+(©) The sangguniang panlalawigan may:
 
 @) Maintain existing offices mentioned in subsections
 (a) and (b) hereof:
 
-(a) Create such other offices as may be necessary to carry out the purposes of the provincial government; or
+@) Create such other offices as may be necessary to carry
+out the purposes of the provincial government; or
 
 @) Consolidate the functions of any office with those of
 another in the interest of efficiency, economy, and public welfare.
@@ -504,7 +505,16 @@ implementing guidelines issued pursuant thereto.
 ARTICLE IV
 THE SANGGUNIANG PANLALAWIGAN
 
-SEC. 14. Composition. – (a) The provincial legislative council, the legislative body of the province, shall be composed of the provincial vice governor as the presiding officer, the regular provincial legislative council members, the president of the provincial chapter of the association of barangays, the president of the provincial federation of youth councils, the president of the provincial federation of council members of municipalities and component cities, and the sectoral representatives, as members.
+SEC. 14. Composition. ~ (a) The sangguniang
+panlalawigan, the legislative body of the province, shall
+be composed of the provincial vice governor as the presiding
+officer, the regular songguniang panlalawigan members,
+the president of the provincial chapter of the liga ng
+mga barangay, the president of the panlalawigang
+bederasyon ng mga sangguniang kabataan, the president
+of the provincial federation of sSanggunian members of
+municipalities and component cities, and the sectoral
+representatives, as members.
 
 (b) In addition thereto, there shall be three (3) sectoral
 representatives: one (1) from the women’s sector; one (1)
@@ -792,7 +802,7 @@ convicted by final judgment to imprisonment of at least
 one (1) year for any crime involving moral turpitude shall be
 automatically expelled from the sanggunian; and
 
-Such other rules as the council may adopt.
+) Such other rules as the sanggunian may adopt.
 
 SEC. 17. Full Disclosure of Financial and Business
 Interests of Sangguniang Panlalawigan Members. — (a) Every
@@ -810,7 +820,8 @@ Such relationship shall include:
 entity or firm to which the ordinance or resolution may apply;
 and
 
-Contracts or agreement with any person or entity which the ordinance or resolution under consideration may affect.
+; @) Contracts or agreement with any person or entity
+which the ordinance or resolution under consideration may affect.
 
 y
 
@@ -944,8 +955,8 @@ the provincial governor by two-thirds (2/3) vote of all
 its members, thereby making the ordinance effective even
 without the approval of the provincial governor.
 
-ARTICLE VI
-SUCCESSION FOR ELECTIVE PROVINCIAL OFFICIALS
+ARTICLE Vi
+SUC@ESSION FOR ELECTIVE PROVINCIAL OFFICIALS
 
 SEC. 22. Permanent Vacancy in-the Office of the
 Provincial Governor. — (a) If a permanent vacancy occurs
@@ -1280,7 +1291,7 @@ mandatory, ,
 both the accounting and internal audit services of the
 province, and shall:
 
-
+’
 
 @) Install and maintain an internal audit system in
 the province;
@@ -1294,7 +1305,8 @@ provincial governor and to the sangguniang panlalawigan;
 officials on the financial condition and operations of the
 provincial government;
 
-Certify to the availability of budgetary allotment from which expenditures and obligations may be properly charged;
+() Certify to the availability of budgetary allotment
+from which expenditures and obligations may be properly charged;
 
 (®) Review supporting documents before the preparation
 of vouchers to determine completeness of requirements;
@@ -1532,7 +1544,7 @@ and natural disasters or calamities;
 (11) The provincial health officer shall take charge of
 the office on health services, and shall:
 
-
+'
 
 @ Supervise the personnel and staff of the said office,
 
@@ -1544,7 +1556,7 @@ the efficient, effective and economical implementation of
 health services and programs geared to the implementation
 of health-related projects and activities;
 
-
+z
 
 @ Formulate measures for the consideration of the
 sanggunian and provide technical assistance and support
@@ -1662,7 +1674,7 @@ is a party adverse to the provincial government or to another
 component city or municipality, a special legal officer may be
 employed to represent the adverse party;
 
-
+~
 
 (4) When required by the provincial governor or the
 sSanggunian, draft ordinances, contracts, bonds, leases and
@@ -1704,7 +1716,8 @@ prosecuting any violation thereof, particularly those which
 occur during and in the aftermath of man-made or natural
 disasters and calamities; and - .
 
-(12) Exercise such other powers and perform other duties and functions as may be prescribed by law or ordinance.
+(12) Exercise such other powers and perform other
+duties and functions as may be prescribed-by Jaw or ordinance.
 
 SEC. 35. The Provincial Agriculturist. - (a) The
 provincial agriculturist must be a citizen of’the Philippines,
@@ -2034,7 +2047,7 @@ provincial governor is empowered to implement and which
 the sanggunian is empowered to provide under the Local
 Government Code of 1991, as amended;
 
-
+’
 
 @) Prepare and recommend for consideration vf the
 sanggunian the architectural plan and design for the
@@ -2080,7 +2093,7 @@ and must have acquired at least five (5) years experience
 in the implementation of programs on population development
 or responsible parenthood.
 
-
+optional.
 
 The appointment of a provincial population officer is
 
@@ -2163,7 +2176,7 @@ commercial forests and similar forest projects like industrial
 
 tree farms and agro-forestry projects;
 
-
+‘
 
 (8) Provide extension services to beneficiaries of forest
 development projects and technical, financial and infrastructure
@@ -2199,7 +2212,7 @@ conservation, maximum utilization, application of appropriate
 technology and other matters related to the environment and
 natural resources; and .
 
-
+:
 
 (10) Exercise such other powers and perform. other
 duties and functions as may be prescribed by law or ordinance.
@@ -2295,7 +2308,7 @@ livelihood and quality of life of the inhabitants and
 encourage support for programs of the local and national
 government;
 
-
+. :
 
 @ Furnish information and data on the province to
 government agencies or offices as may be required by law
@@ -2534,6 +2547,6 @@ MYRA MARIE D. VILLARICA MA VAL. MENDOZA
 RODRI OA DUTERTE
 President of the Philippines
 
-
+ee oO
 
 REPUBLIC OF THE PHILIPPINES

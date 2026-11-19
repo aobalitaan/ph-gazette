@@ -52,7 +52,7 @@ b) In addition thereto, the city mayor may appoint a city cooperative officer, a
 
 c) The City shall establish a city fire station to be headed by a city fire marshal, a city jail to be headed by a city jail warden, a city schools division to be headed by a city schools division superintendent and a city prosecution service to be headed by a city prosecutor.
 
-(d) The city council of the City of Navotas may:
+(d) The sangguniang panlungsod of the City of Navotas may:
 
 (1) Maintain existing offices not mentioned in subsections (a), (b) and (c) hereof;
 
@@ -170,7 +170,7 @@ ARTICLE IV
 
 THE SANGGUNIANG PANLUNGSOD
 
-SEC 11. The City Council. – (a) The city council, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, the regular council members, the president of the city chapter of the league of barangays and the president of the city federation of youth councils, and such other members as may be provided for by law. They shall hold office for three years, unless sooner removed.
+SEC 11. The Sangguniang Panlungsod . – (a) The sangguniang panlungsod, the legislative body of the City, shall composed of the city vice mayor as presiding officer, the regular sanggunian members, the president of the city chapter of the liga ng mga barangay and the president of the panlungsod na pederasyon ng mga sangguniang kabataan, and such other members as may be provided for by law. They shall hold office three years, unless sooner removed.
 
 (b) The regular members of the sangguniang panlungsod, sectoral representatives and other members as may be provided by law shall be elected or appointed in the manner as be provided for by law. The elective members of the sangguniang panlungsod shall possess the same qualifications as that of the city mayor and city vice mayor except that candidates for said position must be at least eighteen (18) years of age on election day.
 
@@ -330,7 +330,7 @@ SEC 12. Internal Rules of Procedure . – (a) On the first regular session follo
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four consecutive sessions for which they may be censured, reprimanded or excluded from the sessions, suspended for not more than sixty (60) days, or expelled: Provided , That the penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all sanggunian members: Provided, further, That a member convicted by final judgment to imprisonment of at least one year for any crime involving moral turpitude shall be automatically expelled from the sanggunian; and
 
-(6) Such other rules as the council may adopt.
+(6) Such other rules as the sanggunian may adopt.
 
 SEC 13. Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members . – (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any professional relationship or professional relationship by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
 

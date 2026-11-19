@@ -1,0 +1,20 @@
+{
+  "doc_id": "toast-president-aquino-state-banquet-japan-emperor-empress",
+  "category": "speech",
+  "category_slug": "speeches",
+  "president_slug": "benigno-s-aquino-iii",
+  "date": "2015-06-03",
+  "title": "Toast of President Aquino for the state banquet hosted by the Emperor and Empress of Japan, June 3, 2015",
+  "content_url": "https://www.officialgazette.gov.ph/2015/06/03/toast-president-aquino-state-banquet-japan-emperor-empress/",
+  "pdf_url": null,
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "Failed to perform, curl: (28) Operation timed out after 30000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "scraped_at": "2026-03-05T11:49:58.644872Z",
+  "pdf_status": "not_applicable",
+  "pdf_error": null,
+  "pdf_processed_at": null
+}

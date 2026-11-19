@@ -826,7 +826,7 @@ Section 3. Duties of the Chairman . – The Chairman shall have the following du
 
 5. To adopt measures that are pertinent, convenient and reasonable in the discharge of their official duties; and,
 
-6. To accomplish and submit other reports which the Police Commission may, from time to time, prescribe.
+6. To accomplish and submit other reports which the Police Commission may, from time to tine proscribe.
 
 Section 4. Disqualification of Investigators . – No member of the Board of Investigators shall sit any case in which he is related to either party within the sixth degree of consanguinity or affinity or to counsel within the court civil degree, computed according to the rules of the civil law.
 
@@ -1766,7 +1766,7 @@ b. Intelligence as an organization is an institution composed of persons which p
 
 Section 2. Forms . – The two general forms of police intelligence are covert and overt . These forms are descriptive of the manner by which raw information is gathered. It is covert , if the information is obtained without the knowledge of person against whom the information or documents may be used, or, if the information is acquired clandestinely. It is overt , if the information or documents are procured openly without regard as to whether the subject of the investigation becomes knowledgeable of the purpose or purposes for which it is being gathered.
 
-Section 3. Purpose. – Covert and overt intelligence may be used to:
+Section 3. Purpose . – Covert and overt intelligence may be used to:
 
 a. Check the conditions in the community relating to juvenile delinquency, crime, vice, and public opinion;
 

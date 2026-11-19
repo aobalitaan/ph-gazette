@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 51, s. 1963",
   "content_url": "https://www.officialgazette.gov.ph/1963/09/04/memorandum-order-no-51-s-1963/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1963/09sep/19630904-MO-0051-DM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 51, September 4, 1963 ]\nCREATING A COMMITTEE ON TRANSPORTATION AND REPRESENTATION EXPENSES\nThere is hereby created a Committee to study and recommend action on requests for transportation and representation expenses of officials and employees in this Office composed of the following:\nAsst. Exec. Sec. Juan S. Cancio\nChairman\nAsst. Exec. Sec. Armand Fabella\nMember\nMr. Fernando C. Santico\nMember\n£A⩊phi£\nBy authority of the President:\nRUFINO G. HECHANOVA\nExecutive Secretary\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 91,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:45:00.363322Z"
+  "scraped_at": "2026-02-23T11:45:00.363322Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:26.165419Z"
 }

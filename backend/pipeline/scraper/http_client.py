@@ -12,11 +12,10 @@ logger = logging.getLogger(__name__)
 DEFAULT_DELAY = 5.0
 DEFAULT_TIMEOUT = 30.0
 
-# Wait cycle for 429 rate-limit responses (seconds). Loops indefinitely
-# until the rate limit clears; resets on each new call to _fetch_with_retry.
+# 429 backoff cycle (seconds) — loops until rate limit clears, resets per call.
 _429_WAIT_CYCLE = [30, 35, 45, 60, 15]
 
-# Distinct browser profiles — each worker gets one to look like a different device.
+# One profile per worker so requests look like different devices.
 _CHROME_ACCEPT = (
     "text/html,application/xhtml+xml,application/xml;q=0.9,"
     "image/avif,image/webp,image/apng,*/*;q=0.8"
@@ -83,7 +82,6 @@ _BROWSER_PROFILES = [
     },
 ]
 
-# Headers common to all browser profiles
 _COMMON_HEADERS = {
     "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
@@ -96,11 +94,10 @@ _COMMON_HEADERS = {
 
 
 class GazetteClient:
-    """Async HTTP client with rate limiting and retry logic.
+    """Async HTTP client with rate limiting and retries.
 
-    Each instance maintains its own session (cookies, connection pool) and
-    rate limiter. When using multiple workers, create one client per worker
-    with a different profile_id so each looks like a distinct browser.
+    One session (cookies + pool) per instance. For multiple workers, give each
+    a distinct profile_id so they look like different browsers.
     """
 
     def __init__(
@@ -136,7 +133,7 @@ class GazetteClient:
             self._client = None
 
     async def _rate_limit(self) -> None:
-        """Enforce minimum delay between requests with random jitter."""
+        """Min delay between requests, with ±50% jitter."""
         jittered_delay = self.delay * random.uniform(0.5, 1.5)
         now = asyncio.get_event_loop().time()
         elapsed = now - self._last_request_time
@@ -145,10 +142,7 @@ class GazetteClient:
         self._last_request_time = asyncio.get_event_loop().time()
 
     async def fetch(self, url: str) -> str:
-        """Fetch a URL and return its text content.
-
-        Rate-limits requests and retries on transient errors.
-        """
+        """Fetch a URL as text. Rate-limited; retries on transient errors."""
         await self._rate_limit()
         return await self._fetch_with_retry(url)
 
@@ -165,15 +159,11 @@ class GazetteClient:
         reraise=True,
     )
     async def _fetch_with_retry(self, url: str) -> str:
-        """Inner fetch with tenacity retry on 5xx and connection errors.
-
-        429 responses are handled separately with a dedicated wait cycle
-        that loops indefinitely until the rate limit clears.
-        """
+        """Tenacity handles 5xx/connection retries; 429 has its own loop below."""
         if self._client is None:
             raise RuntimeError("Client not initialized. Use 'async with GazetteClient()' context.")
         response = await self._client.get(url)
-        # 429: respect Retry-After header if present, otherwise use wait cycle
+        # 429: honor Retry-After, fall back to the wait cycle
         cycle_index = 0
         while response.status_code == 429:
             retry_after = response.headers.get("retry-after")
@@ -187,7 +177,7 @@ class GazetteClient:
             await asyncio.sleep(wait)
             cycle_index += 1
             response = await self._client.get(url)
-        # 5xx: raise so tenacity handles exponential backoff
+        # raise on 5xx so tenacity does the exponential backoff
         if response.status_code >= 500:
             logger.warning("Server error %d for %s, will retry", response.status_code, url)
             response.raise_for_status()

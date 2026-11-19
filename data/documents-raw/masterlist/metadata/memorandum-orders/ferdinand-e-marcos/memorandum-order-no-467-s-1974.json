@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 467, s. 1974",
   "content_url": "https://www.officialgazette.gov.ph/1974/11/15/memorandum-order-no-467-s-1974/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1974/11nov/19741115-MO-0467-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 467, November 15, 1974 ]\nDate : November 15, 1974\nTitle :\nRemarks : Original not received\n(Reserved by Mr. D. Rocamora)\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 42,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:57:03.070614Z"
+  "scraped_at": "2026-02-23T11:57:03.070614Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:11.256340Z"
 }

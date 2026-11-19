@@ -36,9 +36,9 @@ SECTION 1. Presidential Decree No. 612, as amended, is hereby further amended to
 
 “TITLE 1
 
-WHAT MAY BE INSURED
+“WHAT MAY BE INSURED
 
-SEC. 3. Any contingent or unknown event, whether past or future, which may damnify a person having an insurable interest, or create a liability against him, may be insured against, subject to the provisions of this chapter.
+“SEC. 3. Any contingent or unknown event, whether past or future, which may damnify a person having an insurable interest, or create a liability against him, may be insured against, subject to the provisions of this chapter.
 
 “The consent of the spouse is not necessary for the validity of an insurance policy taken out by a married person on his or her life or that of his or her children.
 
@@ -54,7 +54,7 @@ SEC. 3. Any contingent or unknown event, whether past or future, which may damni
 
 “SEC. 6. Every corporation, partnership, or association, duly authorized to transact insurance business as elsewhere provided in this Code, may be an insurer.
 
-SEC. 7. Anyone except a public enemy may be insured.
+“SEC. 7. Anyone except a public enemy may be insured.
 
 “SEC. 8. Unless the policy otherwise provides, where a mortgagor of property effects insurance in his own name providing that the loss shall be payable to the mortgagee, or assigns a policy of insurance to a mortgagee, the insurance is deemed to be upon the interest of the mortgagor, who does not cease to be a party to the original contract, and any act of his, prior to the loss, which would otherwise avoid the insurance, will have the same effect, although the property is in the hands of the mortgagee, but any act which, under the contract of insurance, is to be performed by the mortgagor, may be performed by the mortgagee therein named, with the same effect as if it had been performed by the mortgagor.
 
@@ -80,7 +80,7 @@ SEC. 7. Anyone except a public enemy may be insured.
 
 “SEC. 13. Every interest in property, whether real or personal, or any relation thereto, or liability in respect thereof, of such nature that a contemplated peril might directly damnify the insured, is an insurable interest.
 
-SEC. 14. An insurable interest in property may consist in:
+“SEC. 14. An insurable interest in property may consist in:
 
 “(a) An existing interest;
 
@@ -148,9 +148,9 @@ SEC. 14. An insurable interest in property may consist in:
 
 “REPRESENTATION
 
-SEC. 36. A representation may be oral or written.
+“SEC. 36. A representation may be oral or written.
 
-SEC. 37. A representation may be made at the time of, or before, issuance of the policy.
+“SEC. 37. A representation may be made at the time of, or before, issuance of the policy.
 
 “SEC. 38. The language of a representation is to be interpreted by the same rules as the language of contracts in general.
 
@@ -262,7 +262,7 @@ SEC. 37. A representation may be made at the time of, or before, issuance of the
 
 “SEC. 67. A warranty is either expressed or implied.
 
-SEC. 68. A warranty may relate to the past, the present, the future, or to any or all of these.
+“SEC. 68. A warranty may relate to the past, the present, the future, or to any or all of these.
 
 “SEC. 69. No particular form of words is necessary to create a warranty.
 
@@ -490,11 +490,11 @@ SEC. 68. A warranty may relate to the past, the present, the future, or to any o
 
 “LOSS
 
-SEC. 129. A loss may be either total or partial.
+“SEC. 129. A loss may be either total or partial.
 
 “SEC. 130. Every loss which is not total is partial.
 
-SEC. 131. A total loss may be either actual or constructive.
+“SEC. 131. A total loss may be either actual or constructive.
 
 “SEC. 132. An actual total loss is caused by:
 
@@ -570,7 +570,7 @@ SEC. 131. A total loss may be either actual or constructive.
 
 “SEC. 156. If an insurer refuses to accept a valid abandonment, he is liable as upon an actual total loss, deducting from the amount any proceeds of the thing insured which may have come to the hands of the insured.
 
-SEC. 157. If a person insured fails to abandon, he may nevertheless recover his actual loss.
+“SEC. 157. If a person insured omits to abandon, he may nevertheless recover his actual loss.
 
 “SUB-TITLE 1-I
 
@@ -742,7 +742,7 @@ SEC. 157. If a person insured fails to abandon, he may nevertheless recover his 
 
 “(c) Unimpaired surplus; and
 
-(d) Revaluation of assets as may be approved by the Commissioner.
+“(d) Revaluation of assets as may be approved by the Commissioner.
 
 “The Commission may adopt for purposes of compliance with capital build up requirement under this Code the recognition as part of the capital account, capital notes or debentures which are subordinate to all credits and senior only to common capital stocks.
 
@@ -900,7 +900,7 @@ SEC. 157. If a person insured fails to abandon, he may nevertheless recover his 
 
 “SEC. 206. (a) An insurance company may purchase, hold, own and convey such property, real and personal, as may have been mortgaged, pledged, or conveyed to it in good faith in trust for its benefit by reason of money loaned by it in pursuance of the regular business of the company, and such real or personal property as may have been purchased by it at sales under pledges, mortgages or deeds of trust for its benefit on account of money loaned by it; and such real and personal property as may have been conveyed to it by borrowers in satisfaction and discharge of loans made by the company in payment or by reason of any loan made by the company in payment or by reason of any loan made by it shall be sold by the company within twenty (20) years after the title thereto has been vested in it.
 
-(b) An insurance company may purchase, hold, and own the following:
+“(b) An insurance company may purchase, hold, and own the following:
 
 “(1) Real properties which serve as its main place of business and/or branch offices: Provided , That such investment shall not in the overall exceed twenty percent (20%) of its net worth as shown by its latest financial statement approved by the Commissioner.
 
@@ -928,13 +928,13 @@ SEC. 157. If a person insured fails to abandon, he may nevertheless recover his 
 
 “(c) Any domestic insurer which has outstanding insurance, annuity or reinsurance contracts in currencies other than the national currency of the Philippines may invest in, or otherwise acquire or loan upon securities and investments in such currency which are substantially of the same kinds, classes and investment grades as those eligible for investment under the foregoing subdivisions of this section; but the aggregate amount of such investments and of such cash in such currency which is at any time held by such insurer shall not exceed one and one-half (1½) times the amount of its reserves and other obligations under such contracts or the amount which such insurer is required by the law of any country or possession outside the Republic of the Philippines to be invested in such country or possession, whichever shall be greater.
 
-SEC. 207. An insurance company may:
+“SEC. 207. An insurance company may:
 
 “(1) Invest in equities of other financial institutions; and
 
 “(2) Engage in the buying and selling of long-term debt instruments: Provided , That any or all of such investments shall be with the prior approval of the Commissioner. Insurance companies may, however, invest in listed equities of other financial institutions without need of prior approval by the Commissioner.
 
-SEC. 208. Any life insurance company may:
+“SEC. 208. Any life insurance company may:
 
 “(a) Acquire or construct housing projects and, in connection with any such project, may acquire land or any interest therein by purchase, lease or otherwise, or use land acquired pursuant to any other provision of this Code. Such company may thereafter own, maintain, manage, collect or receive income from, or sell and convey, any land or interest therein so acquired and any improvements thereon. The aggregate book value of the investments of any such company in all such projects shall not exceed at the time of such investments twenty-five percent (25%) of the total admitted assets of such company on the thirty-first day of December next preceding: Provided , That the funds of the company for the payment of pending claims and obligations shall not be used for such investments.
 
@@ -1274,7 +1274,7 @@ TITLE 6
 
 “The conservator appointed shall report and be responsible to the Commissioner until such time as the Commissioner is satisfied that the insurance company can continue to operate on its own and the conservatorship shall likewise be terminated should the Commissioner, on the basis of the report of the conservator or of his own findings, determine that the continuance in business of the insurance company would be hazardous to policyholders and creditors, in which case the provisions of Title 15 shall apply.
 
-No insurance company, life or non-life, or any professional reinsurer, ordered to be liquidated by the Commissioner under the provisions hereunder may be rehabilitated or authorized to transact anew, insurance or reinsurance business, as the case may be.
+“No insurance company, life or non-life, or any professional reinsurer, ordered to be liquidated by the Commissioner under the provisions hereunder may be rehabilitated or authorized to transact anew, insurance or reinsurance business, as the case may be.
 
 “TITLE 15
 
@@ -1696,7 +1696,7 @@ No insurance company, life or non-life, or any professional reinsurer, ordered t
 
 “SEC. 332. No person, partnership, association, or corporation shall act as an adjuster, as hereinafter defined, unless authorized so to act by virtue of a license issued or renewed by the Commissioner pursuant to the provisions of this Code: Provided , That in the case of a natural person, he must be a Filipino citizen and in the case of a partnership, association or corporation, at least sixty percent (60%) of its capital must be owned by citizens of the Philippines.
 
-SEC. 333. An adjuster may be an independent adjuster or a public adjuster.
+“SEC. 333. An adjuster may be an independent adjuster or a public adjuster.
 
 “The term independent adjuster means any person, partnership, association or corporation which, for money, commission or any other thing of value, acts for or on behalf of an insurer in the adjusting of claims arising under insurance contracts or policies issued by such insurer.
 
@@ -1758,7 +1758,7 @@ SEC. 333. An adjuster may be an independent adjuster or a public adjuster.
 
 “(3) Failure to comply with the Code of Conduct of the Actuarial Society of the Philippines; or
 
-(4) Such other grounds as may be determined by the Commissioner.
+“(4) Such other grounds that may be determined by the Commissioner.
 
 “No actuary engaged by a life insurance company shall be at the same time a stockholder or a director of the board, chief executive officer or chief financial officer of the company or hold any position that the Commissioner may determine to have an inherent conflict of interest to the position of an actuary.
 
@@ -2144,7 +2144,7 @@ SEC. 333. An adjuster may be an independent adjuster or a public adjuster.
 
 “TRUST BUSINESS IN GENERAL
 
-“SEC. 429. An insurance company may engage in limited trust business, consisting of managing funds pertaining only to retirement and pre-need plans, provided it has secured a license to do so from the Central Bank of the Philippines. This trust business shall be separate and distinct from the general business of the insurance company and shall be subject to rules and regulations as may be promulgated by the Central Bank of the Philippines in consultation with the Commissioner.
+“SEC. 429. An insurance company may engage in limited trust business, consisting of managing funds pertaining only to retirement and pre-need plans, provided it has secured a license to do so from the Bangko Sentral ng Pilipinas. This trust business shall be separate and distinct from the general business of the insurance company and shall be subject to rules and regulations as may be promulgated by the Bangko Sentral ng Pilipinas in consultation with the Commissioner.
 
 “CHAPTER IX
 
@@ -2214,7 +2214,7 @@ SEC. 333. An adjuster may be an independent adjuster or a public adjuster.
 
 “SEC. 436. (a) A self-regulatory organization is authorized to discipline a member of or participant in such self-regulatory organization, or any person associated with a member, including suspending or expelling such member or participant, or suspending or barring such person from being associated with a member, if engaged in acts or practices inconsistent with just and equitable principles of fairness or in willful violation of any provision of this Code, any other law administered by the Commission, the rules or regulations thereunder, or the rules of the self-regulatory organization. In any disciplinary proceeding by a self-regulatory organization (other than a summary proceeding pursuant to paragraph (b) of this section) the self-regulatory organization shall bring specific charges, provide notice to the person charged, afford the person charged with an opportunity to defend against the charges, and keep a record of the proceedings. A determination to impose a disciplinary sanction shall be supported by a written statement of the offense, a summary of the evidence presented and a statement of the sanction imposed.
 
-(b) A self-regulatory organization may summarily:
+“(b) A self-regulatory organization may summarily:
 
 “(1) Suspend a member, participant or person associated with a member who has been or is expelled or suspended from any other self-regulatory organization; or
 

@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 437, s. 1974",
   "content_url": "https://www.officialgazette.gov.ph/1974/07/02/memorandum-order-no-437-s-1974/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1974/07jul/19740702-MO-0437-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 437, July 2, 1974 ]\nMemorandum Order No. 435, dated June 27, 1974, is hereby amended to include Mr. Fermin Javier, Director of Systems and Programs Office, National Computer Center, as member of the team to coordinate and direct all activities involved in the procurement of the necessary financing for two (2) 600 MW nuclear power plants.\n1aшphi1\nBy authority of the President:\n(SGD.)\nALEJANDRO MELCHOR\nExecutive Secretary\nManila, July 2, 1974\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 92,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:56:26.318176Z"
+  "scraped_at": "2026-02-23T11:56:26.318176Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:03.573978Z"
 }

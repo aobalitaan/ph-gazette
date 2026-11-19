@@ -1,5 +1,3 @@
-"""Tests for the PDF text extractor module."""
-
 from unittest.mock import MagicMock, patch
 
 from backend.pipeline.scraper.pdf_extractor import (
@@ -33,7 +31,7 @@ class TestCheckQuality:
         assert result.word_count == 50
 
     def test_low_alphabetic_ratio(self):
-        # 30 alpha tokens + 70 numeric tokens = 30% alpha ratio
+        # 30 alpha + 70 numeric → 30% alpha
         tokens = ["hello"] * 30 + ["12345"] * 70
         text = " ".join(tokens)
         result = check_quality(text)
@@ -41,7 +39,6 @@ class TestCheckQuality:
         assert "alphabetic ratio" in result.reason
 
     def test_avg_word_length_too_short(self):
-        # Single-char tokens
         text = " ".join(["a"] * 100)
         result = check_quality(text)
         assert result.passed is False
@@ -54,7 +51,7 @@ class TestCheckQuality:
         assert "avg word length" in result.reason
 
     def test_mixed_content_passes(self):
-        # Simulate real document text with some numbers and short words
+        # realistic doc text with a few numbers and short words
         words = ["the", "president", "signed", "executive", "order", "no", "123"]
         text = " ".join(words * 10)
         result = check_quality(text)
@@ -171,7 +168,7 @@ class TestExtractPdfText:
         with (
             patch(
                 "backend.pipeline.scraper.pdf_extractor.extract_text_from_pdf",
-                return_value="",  # no text layer
+                return_value="",  # PDF has no text layer
             ),
             patch(
                 "backend.pipeline.scraper.pdf_extractor.ocr_pdf",
@@ -184,7 +181,7 @@ class TestExtractPdfText:
         assert result.text is not None
 
     def test_falls_back_to_ocr_when_quality_fails(self):
-        bad_text = " ".join(["x"] * 100)  # single-char words fail quality gate
+        bad_text = " ".join(["x"] * 100)  # fails avg-word-length gate
         ocr_text = self._good_text()
         with (
             patch(

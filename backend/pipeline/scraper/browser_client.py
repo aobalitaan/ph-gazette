@@ -1,8 +1,7 @@
-"""HTTP client using curl_cffi for fetching pages behind Cloudflare protection.
+"""curl_cffi client for getting past the Gazette's Cloudflare TLS fingerprinting.
 
-The Official Gazette uses Cloudflare bot detection that blocks standard HTTP
-clients (httpx, requests) via TLS fingerprinting. curl_cffi impersonates a real
-browser's TLS fingerprint (JA3/JA4) so Cloudflare treats us like a real browser.
+httpx/requests get blocked by JA3/JA4 checks; curl_cffi impersonates a real
+Chrome TLS handshake so Cloudflare lets us through.
 """
 
 import asyncio
@@ -23,8 +22,7 @@ logger = logging.getLogger(__name__)
 DEFAULT_DELAY = 5.0
 DEFAULT_TIMEOUT = 30
 
-# Wait cycle for 429 rate-limit responses (seconds). Loops indefinitely
-# until the rate limit clears; resets on each new call to _fetch_with_retry.
+# 429 backoff cycle (seconds) — loops until rate limit clears, resets per call.
 _429_WAIT_CYCLE = [30, 35, 45, 60, 15]
 
 
@@ -42,11 +40,7 @@ def _is_retryable_status(status: int) -> bool:
 
 
 class CurlCffiClient:
-    """Async HTTP client that impersonates a browser's TLS fingerprint.
-
-    Uses curl_cffi's `impersonate` feature to send requests with a real
-    Chrome TLS fingerprint, bypassing Cloudflare's bot detection without
-    needing an actual browser.
+    """Async HTTP client with a Chrome TLS fingerprint (no real browser needed).
 
     Usage::
 
@@ -82,7 +76,7 @@ class CurlCffiClient:
             self._session = None
 
     async def _rate_limit(self) -> None:
-        """Enforce minimum delay between requests with random jitter."""
+        """Min delay between requests, with ±50% jitter."""
         jittered_delay = self.delay * random.uniform(0.5, 1.5)
         now = asyncio.get_event_loop().time()
         elapsed = now - self._last_request_time
@@ -91,10 +85,7 @@ class CurlCffiClient:
         self._last_request_time = asyncio.get_event_loop().time()
 
     async def fetch(self, url: str) -> str:
-        """Fetch a URL and return its HTML content.
-
-        Rate-limits requests and retries on transient errors (429, 5xx).
-        """
+        """Fetch a URL as text. Rate-limited; retries on 429/5xx."""
         if self._session is None:
             raise RuntimeError(
                 "Client not initialized. Use 'async with CurlCffiClient()' context."
@@ -103,10 +94,7 @@ class CurlCffiClient:
         return await self._fetch_with_retry(url)
 
     async def fetch_bytes(self, url: str) -> bytes:
-        """Fetch a URL and return raw bytes (for binary downloads like PDFs).
-
-        Rate-limits requests and retries on transient errors (429, 5xx).
-        """
+        """Fetch raw bytes (PDFs etc). Rate-limited; retries on 429/5xx."""
         if self._session is None:
             raise RuntimeError(
                 "Client not initialized. Use 'async with CurlCffiClient()' context."
@@ -114,7 +102,7 @@ class CurlCffiClient:
         await self._rate_limit()
         return await self._fetch_bytes_with_retry(url)
 
-    # only retry on 429/5xx and network errors, not on 403/404 etc.
+    # don't retry on 4xx other than 429 — those won't get better
     @retry(
         stop=stop_after_attempt(5),
         wait=wait_exponential(multiplier=2, min=4, max=60),
@@ -128,17 +116,13 @@ class CurlCffiClient:
         reraise=True,
     )
     async def _fetch_with_retry(self, url: str) -> str:
-        """Inner fetch with tenacity retry on 5xx and connection errors.
-
-        429 responses are handled separately with a dedicated wait cycle
-        that loops indefinitely until the rate limit clears.
-        """
+        """Tenacity handles 5xx/connection retries; 429 has its own loop below."""
         assert self._session is not None  # guaranteed by fetch()
 
         response = await self._session.get(url)
         status = response.status_code
 
-        # 429: respect Retry-After header if present, otherwise use wait cycle
+        # 429: honor Retry-After, fall back to the wait cycle
         cycle_index = 0
         while status == 429:
             retry_after = response.headers.get("retry-after")
@@ -154,7 +138,7 @@ class CurlCffiClient:
             response = await self._session.get(url)
             status = response.status_code
 
-        # 5xx: raise so tenacity handles exponential backoff
+        # raise on 5xx so tenacity does the exponential backoff
         if _is_retryable_status(status):
             logger.warning("HTTP %d for %s, will retry", status, url)
             raise BrowserFetchError(status, url)
@@ -177,7 +161,7 @@ class CurlCffiClient:
         reraise=True,
     )
     async def _fetch_bytes_with_retry(self, url: str) -> bytes:
-        """Inner fetch returning raw bytes, with same retry logic as _fetch_with_retry."""
+        """Bytes variant of _fetch_with_retry — same 429/5xx handling."""
         assert self._session is not None
 
         response = await self._session.get(url)

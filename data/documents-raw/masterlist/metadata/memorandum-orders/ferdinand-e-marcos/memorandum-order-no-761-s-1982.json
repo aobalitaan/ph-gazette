@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 761, s. 1982",
   "content_url": "https://www.officialgazette.gov.ph/1982/10/29/memorandum-order-no-761-s-1982/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1982/10oct/19821029-MO-0761-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 761, October 29, 1982 ]\nIn the interest of the service, the temporary detail to the Batasang Pambansa of Mr. GERONIMO DUMPIT of the Philippine Virginia Tobacco Administration effective October 1, 1982, is hereby authorized with entitlement to honoraria in the amount equivalent to fifty percent (50%) of his basic salary, chargeable against the Batasang Pambansa funds and subject to the usual accounting and auditing rules and regulations.\n1aшphi1\n(Sgd.)\nJUAN C. TUVERA\nPresidential Executive Assistant\nManila, October 29, 1982\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 100,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:04:09.841365Z"
+  "scraped_at": "2026-02-23T12:04:09.841365Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:40.966653Z"
 }

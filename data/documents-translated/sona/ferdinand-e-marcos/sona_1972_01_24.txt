@@ -162,7 +162,7 @@ I realize that to safeguard the nation adequately from any external or internal 
 
 During the past six years, I devoted major portions of my State of the Nation message to economic issues. This preoccupation with the economy sterns from my firm belief that continuous progress of our society is possible only if it rests on a vigorous economic foundation.
 
-Ang pagganap ng ekonomiya sa panahong ito ay maaaring maging paksa ng ilang makatwirang interpretasyon.
+The performance of the economy during this period may be the subject of a number of plausible interpretations.
 
 Today, we have conflicting viewpoints about our economy. The pessimists see, for instance, the following failings or deficiencies in our society, and on such a basis, predict our collapse:
 
@@ -236,7 +236,7 @@ Government of Japan
 
 Commodity Loan ………………   40.0
 
-Rice ……………………………….. 1.4 41.4
+Rice 1.4 41.4
 
 IBRD
 
@@ -246,7 +246,7 @@ Cotabato-Digos Road ……………   8.0            22.3
 
 ADB
 
-Fisherman’s Wharf ……………..   5.5
+Fisherman's Wharf 5.5
 
 Mindanao Power Project ……   23.4            28.9
 
@@ -266,7 +266,7 @@ Japanese Project Loan …………………………   $25.0
 
 U. S. Government Loan
 
-Under P.L. 480 …………………………… 30.0
+Under P.L. 480 ... 30.0
 
 Rural Electrification ……………………  20.0
 
@@ -853,8 +853,6 @@ I ask you to vote the necessary funds according to the following priorities alre
 First, for peace and order, principally reforms in the police system, a vigorous campaign against traffic in drugs, and the creation of additional circuit criminal courts.
 
 We must radically reorganize the local police organizations. Either the national government which is held responsible for their failures should be given commensurate powers or the local governments and officials be held liable and punishable for nonperformance.
-
-At present, governors who are held responsible for peace and order have no police organizations at their disposal.
 
 The Police Act must be updated and streamlined.
 

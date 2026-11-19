@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 786, s. 1983",
   "content_url": "https://www.officialgazette.gov.ph/1983/04/22/memorandum-order-no-786-s-1983/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1983/04apr/19830422-MO-0786-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 786, April 22, 1983 ]\nIn the interest of the service, the temporary detail of Cpl. Eliseo Q. Soberano to the Batasang Pambansa as Security to the Honorable Speaker Querube C. Makalintal effective 1 January 1983 is hereby authorized.\nHe shall be entitled to an honorarium in an amount not exceeding fifty percent (50%) of his basic salary chargeable against the funds of Batasan, subject to the usual accounting and auditing requirements.\n1aшphi1\n(Sgd.)\nJUAN C. TUVERA\nPresidential Executive Assistant\nManila, April 22, 1983\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 104,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:04:36.941807Z"
+  "scraped_at": "2026-02-23T12:04:36.941807Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:46.373325Z"
 }

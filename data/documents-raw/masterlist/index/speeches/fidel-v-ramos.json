@@ -1,1 +1,2552 @@
-[]
+[
+  {
+    "title": "Speech of President Ramos at the 25th Association of Southeast Asian Nations Foreign Ministers’ Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1992/07/17/speech-of-president-ramos-at-the-25th-association-of-southeast-asian-nations-foreign-ministers-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-07-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-25th-association-of-southeast-asian-nations-foreign-ministers-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Bishops-Businessmen’s Conference",
+    "content_url": "https://www.officialgazette.gov.ph/1992/07/22/speech-of-president-ramos-at-the-bishops-businessmens-conference/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-07-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-bishops-businessmens-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the Ten Outstanding Young Men (TOYM) Awarding Ceremonies",
+    "content_url": "https://www.officialgazette.gov.ph/1992/07/31/address-of-president-ramos-at-the-ten-outstanding-young-men-toym-awarding-ceremonies-2/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-07-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-ten-outstanding-young-men-toym-awarding-ceremonies-2",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 88th Anniversary of the Bureau of Internal Revenue",
+    "content_url": "https://www.officialgazette.gov.ph/1992/08/05/speech-of-president-ramos-at-the-88th-anniversary-of-the-bureau-of-internal-revenue/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-08-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-88th-anniversary-of-the-bureau-of-internal-revenue",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the President’s Night, Manila Overseas Press Club",
+    "content_url": "https://www.officialgazette.gov.ph/1992/08/06/speech-of-president-ramos-at-the-presidents-night-manila-overseas-press-club/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-08-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-presidents-night-manila-overseas-press-club",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the Awarding Ceremony of Ten Outstanding Students of Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1992/08/17/address-of-president-ramos-at-the-awarding-ceremony-of-ten-outstanding-students-of-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-08-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-awarding-ceremony-of-ten-outstanding-students-of-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Ramón Magsaysay Award Ceremonies",
+    "content_url": "https://www.officialgazette.gov.ph/1992/08/31/speech-of-president-ramos-at-the-ramon-magsaysay-award-ceremonies/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-08-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-ramon-magsaysay-award-ceremonies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the National Workshop on “Implementing Philippine Agenda 21 for Sustainable Development: Response to the Earth Summit”",
+    "content_url": "https://www.officialgazette.gov.ph/1992/08/31/speech-of-president-ramos-at-the-national-workshop-on-implementing-philippine-agenda-21-for-sustainable-development-response-to-the-earth-summit-august-31-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-08-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-national-workshop-on-implementing-philippine-agenda-21-for-sustainable-development-response-to-the-earth-summit-august-31-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Signing of the Bill repealing the Anti-Subversion Law",
+    "content_url": "https://www.officialgazette.gov.ph/1992/09/02/speech-of-president-ramos-at-the-signing-of-the-bill-repealing-the-anti-subversion-law/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-09-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-signing-of-the-bill-repealing-the-anti-subversion-law",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Festival Thanksgiving",
+    "content_url": "https://www.officialgazette.gov.ph/1992/09/13/speech-of-president-ramos-at-the-festival-thanksgiving/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-09-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-festival-thanksgiving",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Second National Symposium on the Local Government Code",
+    "content_url": "https://www.officialgazette.gov.ph/1992/09/14/speech-of-president-ramos-at-the-second-national-symposium-on-the-local-government-code/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-09-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-second-national-symposium-on-the-local-government-code",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos to the Philippine Bar Association",
+    "content_url": "https://www.officialgazette.gov.ph/1992/09/18/address-of-president-ramos-to-the-philippine-bar-association/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-09-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-to-the-philippine-bar-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Twentieth Anniversary of the 365 Club",
+    "content_url": "https://www.officialgazette.gov.ph/1992/09/22/speech-of-president-ramos-at-the-twentieth-anniversary-of-the-365-club/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-09-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-twentieth-anniversary-of-the-365-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on his First 100 Days",
+    "content_url": "https://www.officialgazette.gov.ph/1992/10/08/speech-of-president-ramos-on-his-first-100-days/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-10-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-his-first-100-days",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 24th Annual Meeting of the Association of Southeast Asian Nations Economic Ministers",
+    "content_url": "https://www.officialgazette.gov.ph/1992/10/22/speech-of-president-ramos-at-the-24th-annual-meeting-of-the-association-of-southeast-asian-nations-economic-ministers/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-10-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-24th-annual-meeting-of-the-association-of-southeast-asian-nations-economic-ministers",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the Regional Development Council-Cabinet Consultative Workshop on the Medium-term Development Plan, November 19, 1992",
+    "content_url": "https://www.officialgazette.gov.ph/1992/11/19/address-of-president-ramos-at-the-regional-development-council-cabinet-consultative-workshop-on-the-medium-term-development-plan-november-19-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-11-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-regional-development-council-cabinet-consultative-workshop-on-the-medium-term-development-plan-november-19-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Philippine Business Conference, November 20, 1992",
+    "content_url": "https://www.officialgazette.gov.ph/1992/11/20/speech-of-president-ramos-at-the-philippine-business-conference-november-20-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-11-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-philippine-business-conference-november-20-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Subic Turnover Ceremony, November 24, 1992",
+    "content_url": "https://www.officialgazette.gov.ph/1992/11/24/speech-of-president-ramos-at-the-subic-turnover-ceremony-november-24-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-11-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-subic-turnover-ceremony-november-24-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Bonifacio Day, November 30, 1992",
+    "content_url": "https://www.officialgazette.gov.ph/1992/11/30/speech-of-president-ramos-during-the-bonifacio-day-november-30-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-11-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-bonifacio-day-november-30-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 30th Annual Meeting of the Philippine Economic Society, December 14, 1992",
+    "content_url": "https://www.officialgazette.gov.ph/1992/12/14/speech-of-president-ramos-at-the-30th-annual-meeting-of-the-philippine-economic-society-december-14-1992/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1992-12-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-30th-annual-meeting-of-the-philippine-economic-society-december-14-1992",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Ulat sa Bayan, January 7, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/01/07/speech-of-president-ramos-on-ulat-sa-bayan-january-7-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-01-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-ulat-sa-bayan-january-7-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asia-Pacific Forum on Association of Southeast Asian Nations (ASEAN) Internal and External Cooperation in the 1990s and Beyond, January 13, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/01/13/speech-of-president-ramos-at-the-asia-pacific-forum-on-association-of-southeast-asian-nations-asean-internal-and-external-cooperation-in-the-1990s-and-beyond-january-13-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-01-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asia-pacific-forum-on-association-of-southeast-asian-nations-asean-internal-and-external-cooperation-in-the-1990s-and-beyond-january-13-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the First Multisectoral Forum on Science and Technology, January 21, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/01/21/address-of-president-ramos-at-the-first-multisectoral-forum-on-science-and-technology-january-21-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-01-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-first-multisectoral-forum-on-science-and-technology-january-21-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the National Chamber of Commerce and Industries of Malaysia, January 28, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/01/28/speech-of-president-ramos-to-the-national-chamber-of-commerce-and-industries-of-malaysia-january-28-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-01-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-national-chamber-of-commerce-and-industries-of-malaysia-january-28-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the State Dinner in his Honor hosted by President Wee Kim Wee of Singapore",
+    "content_url": "https://www.officialgazette.gov.ph/1993/02/11/speech-of-president-ramos-at-the-state-dinner-in-his-honor-hosted-by-president-wee-kim-wee-of-singapore/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-02-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-state-dinner-in-his-honor-hosted-by-president-wee-kim-wee-of-singapore",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1992 Asian Management Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1993/02/18/speech-of-president-ramos-at-the-1992-asian-management-awards/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-02-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1992-asian-management-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Seventh EDSA Anniversary",
+    "content_url": "https://www.officialgazette.gov.ph/1993/02/25/speech-of-president-ramos-on-the-seventh-edsa-anniversary/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-02-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-seventh-edsa-anniversary",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the Philippines-Japan Society, February 25, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/02/25/speech-of-president-ramos-to-the-philippines-japan-society-february-25-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-02-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-philippines-japan-society-february-25-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Department of Health’s Immunization Day and the Department of Social Welfare and Development’s Consultation on Child Welfare Services",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/03/speech-of-president-ramos-on-the-department-of-healths-immunization-day-and-the-department-of-social-welfare-and-developments-consultation-on-child-welfare-services/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-department-of-healths-immunization-day-and-the-department-of-social-welfare-and-developments-consultation-on-child-welfare-services",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Scout Bronze Wolf Award",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/08/speech-of-president-ramos-on-the-scout-bronze-wolf-award/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-scout-bronze-wolf-award",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the International Women’s Day and National Women’s Day",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/08/speech-of-president-ramos-during-the-international-womens-day-and-national-womens-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-international-womens-day-and-national-womens-day",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos during a visit to Batanes",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/18/excerpts-from-a-speech-of-president-ramos-during-a-visit-to-batanes/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-during-a-visit-to-batanes",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a meeting with the Rotary Club of Manila",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/19/speech-of-president-ramos-at-a-meeting-with-the-rotary-club-of-manila/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-meeting-with-the-rotary-club-of-manila",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Commencement Exercises of the Philippine Military Academy Class 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/21/speech-of-president-ramos-at-the-commencement-exercises-of-the-philippine-military-academy-class-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-commencement-exercises-of-the-philippine-military-academy-class-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the 96th anniversary of the Philippine Army",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/24/speech-of-president-ramos-on-the-96th-anniversary-of-the-philippine-army/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-96th-anniversary-of-the-philippine-army",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening ceremony of the 19th Biennial Convention of the Filipino-Chinese Chamber of Commerce and Industry",
+    "content_url": "https://www.officialgazette.gov.ph/1993/03/27/speech-of-president-ramos-at-the-opening-ceremony-of-the-19th-biennial-convention-of-the-filipino-chinese-chamber-of-commerce-and-industry/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-03-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-ceremony-of-the-19th-biennial-convention-of-the-filipino-chinese-chamber-of-commerce-and-industry",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos during the proclamation of Autonomous Region in Muslim Mindanao (ARMM) elected officials",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/02/excerpts-from-a-speech-of-president-ramos-during-the-proclamation-of-autonomous-region-in-muslim-mindanao-armm-elected-officials/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-during-the-proclamation-of-autonomous-region-in-muslim-mindanao-armm-elected-officials",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the signing of the National Development Plan for Culture and the Arts",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/07/speech-of-president-ramos-at-the-signing-of-the-national-development-plan-for-culture-and-the-arts/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-signing-of-the-national-development-plan-for-culture-and-the-arts",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the commemoration of Araw ng Kagitingan with the veterans of Mount Samat",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/11/speech-of-president-ramos-at-the-commemoration-of-araw-ng-kagitingan-with-the-veterans-of-mount-samat/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-commemoration-of-araw-ng-kagitingan-with-the-veterans-of-mount-samat",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Global Youth Earth Saving Summit, International Congress on Indigenous Peoples",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/14/speech-of-president-ramos-at-the-global-youth-earth-saving-summit-international-congress-on-indigenous-peoples/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-global-youth-earth-saving-summit-international-congress-on-indigenous-peoples",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the National Press Club Gridiron ’93",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/21/speech-of-president-ramos-at-the-national-press-club-gridiron-93/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-national-press-club-gridiron-93",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the 42nd anniversary of the Battle of Yultong",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/22/speech-of-president-ramos-on-the-42nd-anniversary-of-the-battle-of-yultong/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-42nd-anniversary-of-the-battle-of-yultong",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Filipino-Chinese Businessmen’s luncheon",
+    "content_url": "https://www.officialgazette.gov.ph/1993/04/29/speech-of-president-ramos-at-the-filipino-chinese-businessmens-luncheon/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-04-29",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-filipino-chinese-businessmens-luncheon",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the 107th anniversary of Labor Day",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/01/speech-of-president-ramos-on-the-107th-anniversary-of-labor-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-107th-anniversary-of-labor-day",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos during his visit to Lingayen, Pangasinan",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/02/excerpts-from-a-speech-of-president-ramos-during-his-visit-to-lingayen-pangasinan/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-during-his-visit-to-lingayen-pangasinan",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the launching of the Department of Agriculture’s Medium-term Development Plan",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/03/speech-of-president-ramos-on-the-launching-of-the-department-of-agricultures-medium-term-development-plan/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-launching-of-the-department-of-agricultures-medium-term-development-plan",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 26th annual meeting of the board of governors of the Asian Development Bank",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/04/speech-of-president-ramos-at-the-26th-annual-meeting-of-the-board-of-governors-of-the-asian-development-bank/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-26th-annual-meeting-of-the-board-of-governors-of-the-asian-development-bank",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Employers’ Conference of the Philippines’ National Conference of Employers",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/05/speech-of-president-ramos-at-the-employers-conference-of-the-philippines-national-conference-of-employers/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-employers-conference-of-the-philippines-national-conference-of-employers",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos before the Multisectoral Assembly",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/08/excerpts-from-a-speech-of-president-ramos-before-the-multisectoral-assembly/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-before-the-multisectoral-assembly",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Pacific Basin Economic Council",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/24/speech-of-president-ramos-before-the-pacific-basin-economic-council/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-pacific-basin-economic-council",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos during his visit to Tagbilaran, Bohol",
+    "content_url": "https://www.officialgazette.gov.ph/1993/05/27/excerpts-from-a-speech-of-president-ramos-during-his-visit-to-tagbilaran-bohol/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-05-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-during-his-visit-to-tagbilaran-bohol",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Independence Day",
+    "content_url": "https://www.officialgazette.gov.ph/1993/06/12/speech-of-president-ramos-on-independence-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-06-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-independence-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Integrated Bar of the Philippines, Fourth National Convention of Lawyers",
+    "content_url": "https://www.officialgazette.gov.ph/1993/06/14/speech-of-president-ramos-before-the-integrated-bar-of-the-philippines-fourth-national-convention-of-lawyers/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-06-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-integrated-bar-of-the-philippines-fourth-national-convention-of-lawyers",
+    "category": "speech"
+  },
+  {
+    "title": "Excerpts from a Speech of President Ramos before the Joint Provincial and City Council Civic Assembly",
+    "content_url": "https://www.officialgazette.gov.ph/1993/06/22/excerpts-from-a-speech-of-president-ramos-before-the-joint-provincial-and-city-council-civic-assembly/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-06-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "excerpts-from-a-speech-of-president-ramos-before-the-joint-provincial-and-city-council-civic-assembly",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on his first 365 days of Presidency",
+    "content_url": "https://www.officialgazette.gov.ph/1993/06/30/speech-of-president-ramos-on-his-first-365-days-of-presidency/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-06-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-his-first-365-days-of-presidency",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the Ten Outstanding Young Men (TOYM) Awarding Ceremonies",
+    "content_url": "https://www.officialgazette.gov.ph/1993/07/16/address-of-president-ramos-at-the-ten-outstanding-young-men-toym-awarding-ceremonies/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-07-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-ten-outstanding-young-men-toym-awarding-ceremonies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the launching of the Philippine Family-Planning Program, National Communication Campaign, August 2, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/08/02/speech-of-president-ramos-at-the-launching-of-the-philippine-family-planning-program-national-communication-campaign-august-2-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-08-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-launching-of-the-philippine-family-planning-program-national-communication-campaign-august-2-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the commemoration of National Heroes’ Day, August 29, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/08/29/speech-of-president-ramos-on-the-commemoration-of-national-heroes-day-august-29-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-08-29",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-commemoration-of-national-heroes-day-august-29-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 43rd Carlos Palanca Award Ceremonies, September 1, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/09/01/speech-of-president-ramos-at-the-43rd-carlos-palanca-award-ceremonies-september-1-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-09-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-43rd-carlos-palanca-award-ceremonies-september-1-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening of the People’s Economic Summit, September 8, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/09/08/speech-of-president-ramos-at-the-opening-of-the-peoples-economic-summit-september-8-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-09-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-of-the-peoples-economic-summit-september-8-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening of the 6th Asian Retailers’ Convention and Exhibition, October 6, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/10/06/speech-of-president-ramos-at-the-opening-of-the-6th-asian-retailers-convention-and-exhibition-october-6-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-10-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-of-the-6th-asian-retailers-convention-and-exhibition-october-6-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Veterans’ Federation of the Philippines Annual Assembly, October 11, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/10/11/speech-of-president-ramos-before-the-veterans-federation-of-the-philippines-annual-assembly-october-11-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-10-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-veterans-federation-of-the-philippines-annual-assembly-october-11-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Keynote Address of President Ramos during the World Food Day, October 15, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/10/15/keynote-address-of-president-ramos-during-the-world-food-day-october-15-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-10-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "keynote-address-of-president-ramos-during-the-world-food-day-october-15-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the National Day to Overcome Extreme Poverty, October 17, 1993",
+    "content_url": "https://www.officialgazette.gov.ph/1993/10/17/speech-of-president-ramos-at-the-national-day-to-overcome-extreme-poverty-october-17-1993/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-10-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-national-day-to-overcome-extreme-poverty-october-17-1993",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos Before the Filipino-American community",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/10/speech-of-president-ramos-before-the-filipino-american-community/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-filipino-american-community",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the World Affairs Council, Asia Foundation and Commonwealth Club luncheon",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/10/speech-of-president-ramos-at-the-world-affairs-council-asia-foundation-and-commonwealth-club-luncheon/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-world-affairs-council-asia-foundation-and-commonwealth-club-luncheon",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos upon the Acceptance of the University of Illinois Presidential Medal for Outstanding Achievement",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/11/speech-of-president-ramos-upon-the-acceptance-of-the-university-of-illinois-presidential-medal-for-outstanding-achievement/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-upon-the-acceptance-of-the-university-of-illinois-presidential-medal-for-outstanding-achievement",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the United States Military Academy",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/12/speech-of-president-ramos-at-the-united-states-military-academy/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-united-states-military-academy",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Philippine-American Chambers of Commerce, Asia Society, Carnegie Council and United States – Republic of the Philippines Business Committee",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/15/speech-of-president-ramos-before-the-philippine-american-chambers-of-commerce-asia-society-carnegie-council-and-united-states-republic-of-the-philippines-business-committee/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-philippine-american-chambers-of-commerce-asia-society-carnegie-council-and-united-states-republic-of-the-philippines-business-committee",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Greater Houston Partnership Luncheon",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/18/speech-of-president-ramos-during-the-greater-houston-partnership-luncheon/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-greater-houston-partnership-luncheon",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the Center for Strategic and International Studies",
+    "content_url": "https://www.officialgazette.gov.ph/1993/11/22/speech-of-president-ramos-to-the-center-for-strategic-and-international-studies/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-11-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-center-for-strategic-and-international-studies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 53rd Anniversary and Induction of officers of the Women Lawyers’ Association of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/07/speech-of-president-ramos-at-the-53rd-anniversary-and-induction-of-officers-of-the-women-lawyers-association-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-53rd-anniversary-and-induction-of-officers-of-the-women-lawyers-association-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Fifteenth National Prayer Breakfast",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/10/speech-of-president-ramos-at-the-fifteenth-national-prayer-breakfast/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-fifteenth-national-prayer-breakfast",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Human Rights Day with the Indigenous People",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/10/speech-of-president-ramos-at-the-human-rights-day-with-the-indigenous-people/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-human-rights-day-with-the-indigenous-people",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Nineteenth Philippine Business Conference",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/13/speech-of-president-ramos-at-the-nineteenth-philippine-business-conference/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-nineteenth-philippine-business-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 1993 Golden Shell Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/16/speech-of-president-ramos-during-the-1993-golden-shell-awards/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-1993-golden-shell-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the third Conference of ASEAN Information Ministers",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/16/speech-of-president-ramos-at-the-third-conference-of-asean-information-ministers/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-third-conference-of-asean-information-ministers",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the 58th Anniversary of the Armed Forces of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/21/speech-of-president-ramos-on-the-58th-anniversary-of-the-armed-forces-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-58th-anniversary-of-the-armed-forces-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Cabinet Strategic Planning Workshop",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/28/speech-of-president-ramos-during-the-cabinet-strategic-planning-workshop/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-cabinet-strategic-planning-workshop",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos upon signing of the 1994 General Appropriations Act",
+    "content_url": "https://www.officialgazette.gov.ph/1993/12/30/speech-of-president-ramos-upon-signing-of-the-1994-general-appropriations-act/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1993-12-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-upon-signing-of-the-1994-general-appropriations-act",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Ulat sa Bayan on the First Quarter of the Presidency, January 3, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/01/03/speech-of-president-ramos-on-ulat-sa-bayan-on-the-first-quarter-of-the-presidency-january-3-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-01-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-ulat-sa-bayan-on-the-first-quarter-of-the-presidency-january-3-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Liga ng mga Barangay, the First National Congress",
+    "content_url": "https://www.officialgazette.gov.ph/1994/01/12/speech-of-president-ramos-before-the-liga-ng-mga-barangay-the-first-national-congress/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-01-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-liga-ng-mga-barangay-the-first-national-congress",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 25th Anniversary Conference of the Fund for Assistance to Private Education",
+    "content_url": "https://www.officialgazette.gov.ph/1994/01/20/speech-of-president-ramos-at-the-25th-anniversary-conference-of-the-fund-for-assistance-to-private-education/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-01-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-25th-anniversary-conference-of-the-fund-for-assistance-to-private-education",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the launching of the Tax Information Campaign",
+    "content_url": "https://www.officialgazette.gov.ph/1994/01/21/speech-of-president-ramos-during-the-launching-of-the-tax-information-campaign/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-01-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-launching-of-the-tax-information-campaign",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at The Economist Second Round Table Conference with the Government of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1994/01/26/speech-of-president-ramos-at-the-economist-second-round-table-conference-with-the-government-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-01-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-economist-second-round-table-conference-with-the-government-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Official dinner for Dato Seri Dr. Mahathir bin Mohamad, Prime Minister of Malaysia",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/03/speech-of-president-ramos-at-the-official-dinner-for-dato-seri-dr-mahathir-bin-mohamad-prime-minister-of-malaysia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-official-dinner-for-dato-seri-dr-mahathir-bin-mohamad-prime-minister-of-malaysia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 92nd Anniversary of the Bureau of Customs",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/07/speech-of-president-ramos-during-the-92nd-anniversary-of-the-bureau-of-customs/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-92nd-anniversary-of-the-bureau-of-customs",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asian Management Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/17/speech-of-president-ramos-at-the-asian-management-awards/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asian-management-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 1994 Quad District Conference of Rotary Districts 3780, 3800, 3810 and 3820",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/24/speech-of-president-ramos-during-the-1994-quad-district-conference-of-rotary-districts-3780-3800-3810-and-3820/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-1994-quad-district-conference-of-rotary-districts-3780-3800-3810-and-3820",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Joint General Membership Luncheon of the Foreign Chambers of Commerce",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/24/speech-of-president-ramos-at-the-joint-general-membership-luncheon-of-the-foreign-chambers-of-commerce/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-joint-general-membership-luncheon-of-the-foreign-chambers-of-commerce",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Eighth Anniversary of the People’s Power Revolution at EDSA",
+    "content_url": "https://www.officialgazette.gov.ph/1994/02/25/speech-of-president-ramos-on-the-eighth-anniversary-of-the-peoples-power-revolution-at-edsa/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-02-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-eighth-anniversary-of-the-peoples-power-revolution-at-edsa",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Launching of and Convention on the Philippine National Games, March 3, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/03/speech-of-president-ramos-during-the-launching-of-and-convention-on-the-philippine-national-games-march-3-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-launching-of-and-convention-on-the-philippine-national-games-march-3-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Commencement Exercises of the Philippine Military Academy",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/06/speech-of-president-ramos-during-the-commencement-exercises-of-the-philippine-military-academy/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-commencement-exercises-of-the-philippine-military-academy",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the National Press Club Gridiron Night, March 11, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/11/speech-of-president-ramos-at-the-national-press-club-gridiron-night-march-11-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-national-press-club-gridiron-night-march-11-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the Federation of Filipino-Chinese Chambers of Commerce and Industry, March 20, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/20/speech-of-president-ramos-to-the-federation-of-filipino-chinese-chambers-of-commerce-and-industry-march-20-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-federation-of-filipino-chinese-chambers-of-commerce-and-industry-march-20-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the 10th International General Meeting, Pacific Economic Cooperation Council, March 22, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/22/address-of-president-ramos-at-the-10th-international-general-meeting-pacific-economic-cooperation-council-march-22-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-10th-international-general-meeting-pacific-economic-cooperation-council-march-22-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a Dinner hosted by Le Duc Anh, President of the Socialist Republic of Vietnam, March 28, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/03/28/speech-of-president-ramos-at-a-dinner-hosted-by-le-duc-anh-president-of-the-socialist-republic-of-vietnam-march-28-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-03-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-dinner-hosted-by-le-duc-anh-president-of-the-socialist-republic-of-vietnam-march-28-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos in the  Commemoration of Veterans’ Day, April 9, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/04/09/speech-of-president-ramos-in-the-commemoration-of-veterans-day-april-9-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-04-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-in-the-commemoration-of-veterans-day-april-9-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Labor Day celebration, May 1, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/01/speech-of-president-ramos-during-the-labor-day-celebration-may-1-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-labor-day-celebration-may-1-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Third Annual Sikap-Gawa Awards of the Bishops-Businessmen’s Conference on Human Development",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/03/speech-of-president-ramos-at-the-third-annual-sikap-gawa-awards-of-the-bishops-businessmens-conference-on-human-development/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-third-annual-sikap-gawa-awards-of-the-bishops-businessmens-conference-on-human-development",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Fifteenth National Conference of the Employer’s Confederation of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/05/speech-of-president-ramos-at-the-fifteenth-national-conference-of-the-employers-confederation-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-fifteenth-national-conference-of-the-employers-confederation-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 97th Anniversary of the Department of Finance",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/16/speech-of-president-ramos-at-the-97th-anniversary-of-the-department-of-finance/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-97th-anniversary-of-the-department-of-finance",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Thirty-sixth Biennial Convention of the National Federation of Women’s Clubs",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/27/speech-of-president-ramos-at-the-thirty-sixth-biennial-convention-of-the-national-federation-of-womens-clubs/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-thirty-sixth-biennial-convention-of-the-national-federation-of-womens-clubs",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the dinner with participants in the Manila Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1994/05/31/speech-of-president-ramos-at-the-dinner-with-participants-in-the-manila-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-05-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-dinner-with-participants-in-the-manila-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 12th Anniversary of the Overseas Workers Welfare Administration",
+    "content_url": "https://www.officialgazette.gov.ph/1994/06/09/speech-of-president-ramos-at-the-12th-anniversary-of-the-overseas-workers-welfare-administration/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-06-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-12th-anniversary-of-the-overseas-workers-welfare-administration",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 6th Anniversary of the Comprehensive Agrarian Reform Program",
+    "content_url": "https://www.officialgazette.gov.ph/1994/06/10/speech-of-president-ramos-during-the-6th-anniversary-of-the-comprehensive-agrarian-reform-program/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-06-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-6th-anniversary-of-the-comprehensive-agrarian-reform-program",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the transfer of leadership in the Philippine National Police",
+    "content_url": "https://www.officialgazette.gov.ph/1994/07/09/speech-of-president-ramos-during-the-transfer-of-leadership-in-the-philippine-national-police/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-07-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-transfer-of-leadership-in-the-philippine-national-police",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asia Pacific Forum on Securities Market Regulation and Supervision",
+    "content_url": "https://www.officialgazette.gov.ph/1994/07/11/speech-of-president-ramos-at-the-asia-pacific-forum-on-securities-market-regulation-and-supervision/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-07-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asia-pacific-forum-on-securities-market-regulation-and-supervision",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Ninety-sixth Anniversary and the Gawad Mabini Award ceremony of the Department of Foreign Affairs",
+    "content_url": "https://www.officialgazette.gov.ph/1994/07/11/speech-of-president-ramos-at-the-ninety-sixth-anniversary-and-the-gawad-mabini-award-ceremony-of-the-department-of-foreign-affairs/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-07-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-ninety-sixth-anniversary-and-the-gawad-mabini-award-ceremony-of-the-department-of-foreign-affairs",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the State banquet hosted by the Sultan and Yang di Pertuan of Negara Brunei Darussalam, Istana Nurul Iman, Bandar Seri Begawan his State visit to Brunei Darussalam",
+    "content_url": "https://www.officialgazette.gov.ph/1994/08/06/speech-of-president-ramos-at-the-state-banquet-hosted-by-the-sultan-and-yang-di-pertuan-of-negara-brunei-darussalam-istana-nurul-iman-bandar-seri-begawan-his-state-visit-to-brunei-darussalam/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-08-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-state-banquet-hosted-by-the-sultan-and-yang-di-pertuan-of-negara-brunei-darussalam-istana-nurul-iman-bandar-seri-begawan-his-state-visit-to-brunei-darussalam",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on signing into law of various bills on education",
+    "content_url": "https://www.officialgazette.gov.ph/1994/08/25/speech-of-president-ramos-on-signing-into-law-of-various-bills-on-education/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-08-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-signing-into-law-of-various-bills-on-education",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a luncheon hosted by President Oscar Scalfaro of Italy on his official visit to Italy",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/09/speech-of-president-ramos-at-a-luncheon-hosted-by-president-oscar-scalfaro-of-italy-on-his-official-visit-to-italy/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-luncheon-hosted-by-president-oscar-scalfaro-of-italy-on-his-official-visit-to-italy",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a dinner hosted by Prime Minister and Mrs. Felipe González on the occasion of his official visit to Spain",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/12/speech-of-president-ramos-at-a-dinner-hosted-by-prime-minister-and-mrs-felipe-gonzalez-on-the-occasion-of-his-official-visit-to-spain/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-dinner-hosted-by-prime-minister-and-mrs-felipe-gonzalez-on-the-occasion-of-his-official-visit-to-spain",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a dinner hosted by Foreign Minister Alain Juppe of France on President Ramos’ visit to France",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/13/speech-of-president-ramos-at-a-dinner-hosted-by-foreign-minister-alain-juppe-of-france-on-president-ramos-visit-to-france/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-dinner-hosted-by-foreign-minister-alain-juppe-of-france-on-president-ramos-visit-to-france",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the meeting with M. Jacques Delors, President of the European Commission",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/15/speech-of-president-ramos-at-the-meeting-with-m-jacques-delors-president-of-the-european-commission/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-meeting-with-m-jacques-delors-president-of-the-european-commission",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a dinner for the European business delegates hosted by the European Commission on the official visit to Brussels, Belgium",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/15/speech-of-president-ramos-at-a-dinner-for-the-european-business-delegates-hosted-by-the-european-commission-on-the-official-visit-to-brussels-belgium/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-dinner-for-the-european-business-delegates-hosted-by-the-european-commission-on-the-official-visit-to-brussels-belgium",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a lunch hosted by Dr. Heinrich von Pierer on the official visit to Germany",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/16/speech-of-president-ramos-at-a-lunch-hosted-by-dr-heinrich-von-pierer-on-the-official-visit-to-germany/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-lunch-hosted-by-dr-heinrich-von-pierer-on-the-official-visit-to-germany",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 21st Anniversary of the Department of Tourism and 1994 Kalakbay Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1994/09/27/speech-of-president-ramos-at-the-21st-anniversary-of-the-department-of-tourism-and-1994-kalakbay-awards/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-09-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-21st-anniversary-of-the-department-of-tourism-and-1994-kalakbay-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the World Infrastructure Forum in Jakarta, Indonesia, October 12, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/12/speech-of-president-ramos-at-the-world-infrastructure-forum-in-jakarta-indonesia-october-12-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-world-infrastructure-forum-in-jakarta-indonesia-october-12-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the World Economic Forum’s Europe-East Asia Summit on the Occasion of President Ramos’ Visit to Singapore, October 13, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/13/speech-of-president-ramos-at-the-world-economic-forums-europe-east-asia-summit-on-the-occasion-of-president-ramos-visit-to-singapore-october-13-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-world-economic-forums-europe-east-asia-summit-on-the-occasion-of-president-ramos-visit-to-singapore-october-13-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Workshop-Meeting of Philippine Ambassadors in the Middle East on the official visit to the Kingdom of Saudi Arabia",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/16/speech-of-president-ramos-during-the-workshop-meeting-of-philippine-ambassadors-in-the-middle-east-on-the-official-visit-to-the-kingdom-of-saudi-arabia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-workshop-meeting-of-philippine-ambassadors-in-the-middle-east-on-the-official-visit-to-the-kingdom-of-saudi-arabia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Economic and Social Commission for Asia and the Pacific (ESCAP) Ministerial Conference in preparation for the World Summit for Social Development",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/18/speech-of-president-ramos-at-the-economic-and-social-commission-for-asia-and-the-pacific-escap-ministerial-conference-in-preparation-for-the-world-summit-for-social-development/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-economic-and-social-commission-for-asia-and-the-pacific-escap-ministerial-conference-in-preparation-for-the-world-summit-for-social-development",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 50th Anniversary of the Leyte Landing, Philippine Liberation Campaign",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/20/speech-of-president-ramos-at-the-50th-anniversary-of-the-leyte-landing-philippine-liberation-campaign/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-50th-anniversary-of-the-leyte-landing-philippine-liberation-campaign",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 49th Anniversary of the United Nations and launching of the 50th Anniversary of the United Nations",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/24/speech-of-president-ramos-at-the-49th-anniversary-of-the-united-nations-and-launching-of-the-50th-anniversary-of-the-united-nations/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-49th-anniversary-of-the-united-nations-and-launching-of-the-50th-anniversary-of-the-united-nations",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 7th International Conference of the Law Association for Asia and the Western Pacific Energy Section",
+    "content_url": "https://www.officialgazette.gov.ph/1994/10/26/speech-of-president-ramos-at-the-7th-international-conference-of-the-law-association-for-asia-and-the-western-pacific-energy-section/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-10-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-7th-international-conference-of-the-law-association-for-asia-and-the-western-pacific-energy-section",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the “Liberal Democracy in the Asian Context”",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/04/speech-of-president-ramos-at-the-liberal-democracy-in-the-asian-context/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-liberal-democracy-in-the-asian-context",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the turnover of the first 500 houses in La Paz Homes 2",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/06/speech-of-president-ramos-at-the-turnover-of-the-first-500-houses-in-la-paz-homes-2/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-turnover-of-the-first-500-houses-in-la-paz-homes-2",
+    "category": "speech"
+  },
+  {
+    "title": "Toast of President Ramos at a state luncheon for President William (Bill) J. Clinton",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/13/toast-of-president-ramos-at-a-state-luncheon-for-president-william-bill-j-clinton/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "toast-of-president-ramos-at-a-state-luncheon-for-president-william-bill-j-clinton",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Asia-Pacific Economic Cooperation in Indonesia",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/15/speech-of-president-ramos-during-the-asia-pacific-economic-cooperation-in-indonesia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-asia-pacific-economic-cooperation-in-indonesia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Seoul Asia-Pacific Economic Cooperation (APEC) Declaration",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/15/speech-of-president-ramos-on-seoul-asia-pacific-economic-cooperation-apec-declaration/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-seoul-asia-pacific-economic-cooperation-apec-declaration",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the First East ASEAN Business Convention and Exhibits",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/16/speech-of-president-ramos-at-the-first-east-asean-business-convention-and-exhibits/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-first-east-asean-business-convention-and-exhibits",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1994 Malaysia Summit Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/22/speech-of-president-ramos-at-the-1994-malaysia-summit-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1994-malaysia-summit-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 20th Philippine Business Conference of the Philippine Chamber of Commerce and Industry",
+    "content_url": "https://www.officialgazette.gov.ph/1994/11/24/speech-of-president-ramos-during-the-20th-philippine-business-conference-of-the-philippine-chamber-of-commerce-and-industry/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-11-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-20th-philippine-business-conference-of-the-philippine-chamber-of-commerce-and-industry",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the First Philippine Women Lawyers’ Convention",
+    "content_url": "https://www.officialgazette.gov.ph/1994/12/07/speech-of-president-ramos-at-the-first-philippine-women-lawyers-convention/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1994-12-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-first-philippine-women-lawyers-convention",
+    "category": "speech"
+  },
+  {
+    "title": "New Year Report of President Ramos",
+    "content_url": "https://www.officialgazette.gov.ph/1995/01/04/new-year-report-of-president-ramos/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-01-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "new-year-report-of-president-ramos",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Fifteenth Annual General Meeting of the Asian-Pacific Bankers’ Club",
+    "content_url": "https://www.officialgazette.gov.ph/1995/01/26/speech-of-president-ramos-at-the-fifteenth-annual-general-meeting-of-the-asian-pacific-bankers-club/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-01-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-fifteenth-annual-general-meeting-of-the-asian-pacific-bankers-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the launching of the Proton Wira with Prime Minister Mahathir Mohamad of Malaysia",
+    "content_url": "https://www.officialgazette.gov.ph/1995/01/28/speech-of-president-ramos-at-the-launching-of-the-proton-wira-with-prime-minister-mahathir-mohamad-of-malaysia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-01-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-launching-of-the-proton-wira-with-prime-minister-mahathir-mohamad-of-malaysia",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos on the fourth anniversary of the Philippine National Police",
+    "content_url": "https://www.officialgazette.gov.ph/1995/01/30/address-of-president-ramos-on-the-fourth-anniversary-of-the-philippine-national-police/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-01-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-on-the-fourth-anniversary-of-the-philippine-national-police",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1995 International Rice Research Conference of the International Rice Research Institute (IRRI)",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/13/speech-of-president-ramos-at-the-1995-international-rice-research-conference-of-the-international-rice-research-institute-irri/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1995-international-rice-research-conference-of-the-international-rice-research-institute-irri",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of bills on National Health Insurance, Senior Citizen’s Day Center, and antisexual harassment",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/14/speech-of-president-ramos-on-the-enactment-of-bills-on-national-health-insurance-senior-citizens-day-center-and-antisexual-harassment/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-bills-on-national-health-insurance-senior-citizens-day-center-and-antisexual-harassment",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Export Development Council Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/14/speech-of-president-ramos-at-the-export-development-council-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-export-development-council-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 50th Anniversary of the retaking of Corregidor Island",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/16/speech-of-president-ramos-at-the-50th-anniversary-of-the-retaking-of-corregidor-island/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-50th-anniversary-of-the-retaking-of-corregidor-island",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the EDSA Revolution Commemoration and wreath-laying ceremony",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/22/speech-of-president-ramos-during-the-edsa-revolution-commemoration-and-wreath-laying-ceremony/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-edsa-revolution-commemoration-and-wreath-laying-ceremony",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Signing of National and Local Bills",
+    "content_url": "https://www.officialgazette.gov.ph/1995/02/24/speech-of-president-ramos-during-the-signing-of-national-and-local-bills/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-02-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-signing-of-national-and-local-bills",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the World Summit for Social Development",
+    "content_url": "https://www.officialgazette.gov.ph/1995/03/12/speech-of-president-ramos-at-the-world-summit-for-social-development/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-03-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-world-summit-for-social-development",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos to the Royal Institute of International Affairs on the official visit to the United Kingdom of Great Britain and Northern Ireland",
+    "content_url": "https://www.officialgazette.gov.ph/1995/03/14/address-of-president-ramos-to-the-royal-institute-of-international-affairs-on-the-official-visit-to-the-united-kingdom-of-great-britain-and-northern-ireland/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-03-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-to-the-royal-institute-of-international-affairs-on-the-official-visit-to-the-united-kingdom-of-great-britain-and-northern-ireland",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos during the Celebration of Labor Day",
+    "content_url": "https://www.officialgazette.gov.ph/1995/05/01/address-of-president-ramos-during-the-celebration-of-labor-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-during-the-celebration-of-labor-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the President’s Night with the Manila Overseas Press Club",
+    "content_url": "https://www.officialgazette.gov.ph/1995/05/11/speech-of-president-ramos-during-the-presidents-night-with-the-manila-overseas-press-club/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-05-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-presidents-night-with-the-manila-overseas-press-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Joint Foreign Chamber’s Luncheon Meeting for the “1995 European Business Week”",
+    "content_url": "https://www.officialgazette.gov.ph/1995/05/22/speech-of-president-ramos-at-the-joint-foreign-chambers-luncheon-meeting-for-the-1995-european-business-week/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-05-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-joint-foreign-chambers-luncheon-meeting-for-the-1995-european-business-week",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Closing Ceremonies of the First National Small and Medium Enterprises Leaders’ Summit",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/09/speech-of-president-ramos-at-the-closing-ceremonies-of-the-first-national-small-and-medium-enterprises-leaders-summit/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-closing-ceremonies-of-the-first-national-small-and-medium-enterprises-leaders-summit",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 97th anniversary of Independence Day",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/12/speech-of-president-ramos-during-the-97th-anniversary-of-independence-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-97th-anniversary-of-independence-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the seventh anniversary of the Comprehensive Agrarian Reform Law, June 15, 1995",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/15/speech-of-president-ramos-at-the-seventh-anniversary-of-the-comprehensive-agrarian-reform-law-june-15-1995/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-seventh-anniversary-of-the-comprehensive-agrarian-reform-law-june-15-1995",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at “A Gathering for Human and Ecological Security” Conference on Population, Environment and Peace",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/16/address-of-president-ramos-at-a-gathering-for-human-and-ecological-security-conference-on-population-environment-and-peace/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-a-gathering-for-human-and-ecological-security-conference-on-population-environment-and-peace",
+    "category": "speech"
+  },
+  {
+    "title": "Joint Address of President Ramos at the closing ceremonies for the International Conference on Population, Environment and Peace, and the opening ceremonies for the Conference of National Councils for Sustainable Development in Asia and the Pacific",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/17/joint-address-of-president-ramos-at-the-closing-ceremonies-for-the-international-conference-on-population-environment-and-peace-and-the-opening-ceremonies-for-the-conference-of-national-councils-for/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "joint-address-of-president-ramos-at-the-closing-ceremonies-for-the-international-conference-on-population-environment-and-peace-and-the-opening-ceremonies-for-the-conference-of-national-councils-for",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the presentation of Journalism Awards sponsored by the Rotary Club of Manila",
+    "content_url": "https://www.officialgazette.gov.ph/1995/06/26/speech-of-president-ramos-during-the-presentation-of-journalism-awards-sponsored-by-the-rotary-club-of-manila/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-06-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-presentation-of-journalism-awards-sponsored-by-the-rotary-club-of-manila",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Association of Southeast Asian Nations and Chambers of Commerce and Industry Conference",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/02/speech-of-president-ramos-during-the-association-of-southeast-asian-nations-and-chambers-of-commerce-and-industry-conference/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-association-of-southeast-asian-nations-and-chambers-of-commerce-and-industry-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1995 Asia Lecture, Asia-Australia Institute on the State Visit to Australia",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/18/speech-of-president-ramos-at-the-1995-asia-lecture-asia-australia-institute-on-the-state-visit-to-australia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1995-asia-lecture-asia-australia-institute-on-the-state-visit-to-australia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos upon the acceptance of an Honorary Doctorate in Laws conferred by the University of Melbourne on the occasion of his State visit to Australia",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/21/speech-of-president-ramos-upon-the-acceptance-of-an-honorary-doctorate-in-laws-conferred-by-the-university-of-melbourne-on-the-occasion-of-his-state-visit-to-australia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-upon-the-acceptance-of-an-honorary-doctorate-in-laws-conferred-by-the-university-of-melbourne-on-the-occasion-of-his-state-visit-to-australia",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos to the Australian Defence Force Academy on the state visit to Australia",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/22/address-of-president-ramos-to-the-australian-defence-force-academy-on-the-state-visit-to-australia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-to-the-australian-defence-force-academy-on-the-state-visit-to-australia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the book launching of Facing the Asia-Pacific Challenge and Launching of the Network for International Competitiveness",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/28/speech-of-president-ramos-at-the-book-launching-of-facing-the-asia-pacific-challenge-and-launching-of-the-network-for-international-competitiveness/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-book-launching-of-facing-the-asia-pacific-challenge-and-launching-of-the-network-for-international-competitiveness",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the closing of the 12th Board of Director’s meeting and International Media Forum of the Confederation of Association of Southeast Asian Nations (ASEAN) Journalists",
+    "content_url": "https://www.officialgazette.gov.ph/1995/08/29/speech-of-president-ramos-at-the-closing-of-the-12th-board-of-directors-meeting-and-international-media-forum-of-the-confederation-of-association-of-southeast-asian-nations-asean-journalist/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-08-29",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-closing-of-the-12th-board-of-directors-meeting-and-international-media-forum-of-the-confederation-of-association-of-southeast-asian-nations-asean-journalist",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the National Information Technology Summit",
+    "content_url": "https://www.officialgazette.gov.ph/1995/09/04/speech-of-president-ramos-at-the-national-information-technology-summit/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-09-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-national-information-technology-summit",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the International Herald Tribune Philippine Summit",
+    "content_url": "https://www.officialgazette.gov.ph/1995/09/27/speech-of-president-ramos-at-the-international-herald-tribune-philippine-summit/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-09-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-international-herald-tribune-philippine-summit",
+    "category": "speech"
+  },
+  {
+    "title": "Keynote Address of President Ramos at the International Discourse and Exhibition on Dr. José P. Rizal and the Asian Renaissance",
+    "content_url": "https://www.officialgazette.gov.ph/1995/10/02/keynote-address-of-president-ramos-at-the-international-discourse-and-exhibition-on-dr-jose-p-rizal-and-the-asian-renaissance/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-10-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "keynote-address-of-president-ramos-at-the-international-discourse-and-exhibition-on-dr-jose-p-rizal-and-the-asian-renaissance",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a dinner hosted by Benjamin J. Cayetano, governor of the state of Hawaii, U.S.A., on the working visit to Colombia and the United States of America",
+    "content_url": "https://www.officialgazette.gov.ph/1995/10/16/speech-of-president-ramos-at-a-dinner-hosted-by-benjamin-j-cayetano-governor-of-the-state-of-hawaii-u-s-a-on-the-working-visit-to-colombia-and-the-united-states-of-america/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-10-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-dinner-hosted-by-benjamin-j-cayetano-governor-of-the-state-of-hawaii-u-s-a-on-the-working-visit-to-colombia-and-the-united-states-of-america",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the eleventh conference of heads of state and government, Nonaligned Movement",
+    "content_url": "https://www.officialgazette.gov.ph/1995/10/18/speech-of-president-ramos-at-the-eleventh-conference-of-heads-of-state-and-government-nonaligned-movement/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-10-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-eleventh-conference-of-heads-of-state-and-government-nonaligned-movement",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos before the Kennedy School of Government, ARCO Forum of Public Affairs",
+    "content_url": "https://www.officialgazette.gov.ph/1995/10/20/address-of-president-ramos-before-the-kennedy-school-of-government-arco-forum-of-public-affairs/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-10-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-before-the-kennedy-school-of-government-arco-forum-of-public-affairs",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the commemoration of the 50th anniversary of the United Nations",
+    "content_url": "https://www.officialgazette.gov.ph/1995/10/24/speech-of-president-ramos-at-the-commemoration-of-the-50th-anniversary-of-the-united-nations/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-10-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-commemoration-of-the-50th-anniversary-of-the-united-nations",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Asia-Pacific Economic Cooperation (APEC) Economic Leaders’ Declaration for Action",
+    "content_url": "https://www.officialgazette.gov.ph/1995/11/19/speech-of-president-ramos-on-the-asia-pacific-economic-cooperation-apec-economic-leaders-declaration-for-action/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-11-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-asia-pacific-economic-cooperation-apec-economic-leaders-declaration-for-action",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos before the East-West Center on the working visit to Colombia and the United States of America",
+    "content_url": "https://www.officialgazette.gov.ph/1995/11/27/address-of-president-ramos-before-the-east-west-center-on-the-working-visit-to-colombia-and-the-united-states-of-america/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-11-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-before-the-east-west-center-on-the-working-visit-to-colombia-and-the-united-states-of-america",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the presentation of the United Nations Children’s Fund’s 1995 report on the State of the World’s Children and the ceremonial launching of International Children’s Day of Broadcasting",
+    "content_url": "https://www.officialgazette.gov.ph/1995/12/19/speech-of-president-ramos-at-the-presentation-of-the-united-nations-childrens-funds-1995-report-on-the-state-of-the-worlds-children-and-the-ceremonial-launching-of-international-childrens-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1995-12-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-presentation-of-the-united-nations-childrens-funds-1995-report-on-the-state-of-the-worlds-children-and-the-ceremonial-launching-of-international-childrens-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 63rd anniversary of the Cosmopolitan Church",
+    "content_url": "https://www.officialgazette.gov.ph/1996/03/24/speech-of-president-ramos-during-the-63rd-anniversary-of-the-cosmopolitan-church/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-03-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-63rd-anniversary-of-the-cosmopolitan-church",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Annual Gridiron Night of the National Press Club of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1996/04/22/speech-of-president-ramos-at-the-annual-gridiron-night-of-the-national-press-club-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-04-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-annual-gridiron-night-of-the-national-press-club-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 17th National Conference of Employers",
+    "content_url": "https://www.officialgazette.gov.ph/1996/04/22/speech-of-president-ramos-at-the-17th-national-conference-of-employers/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-04-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-17th-national-conference-of-employers",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 8th anniversary of the Office of the Ombudsman",
+    "content_url": "https://www.officialgazette.gov.ph/1996/05/10/speech-of-president-ramos-at-the-8th-anniversary-of-the-office-of-the-ombudsman/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-05-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-8th-anniversary-of-the-office-of-the-ombudsman",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos to the “International Conference on the Future of Asia”",
+    "content_url": "https://www.officialgazette.gov.ph/1996/05/17/address-of-president-ramos-to-the-international-conference-on-the-future-of-asia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-05-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-to-the-international-conference-on-the-future-of-asia",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the International Conference on the Future of Asia",
+    "content_url": "https://www.officialgazette.gov.ph/1996/05/17/speech-of-president-ramos-at-the-international-conference-on-the-future-of-asia/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-05-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-international-conference-on-the-future-of-asia",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the 98th Independence Day celebration",
+    "content_url": "https://www.officialgazette.gov.ph/1996/06/12/address-of-president-ramos-at-the-98th-independence-day-celebration/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-06-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-98th-independence-day-celebration",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos at the 50th anniversary of Filipino-American Friendship Day",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/04/address-of-president-ramos-at-the-50th-anniversary-of-filipino-american-friendship-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-at-the-50th-anniversary-of-filipino-american-friendship-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the third anniversary celebration of the Bangko Sentral ng Pilipinas",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/05/speech-of-president-ramos-at-the-third-anniversary-celebration-of-the-bangko-sentral-ng-pilipinas/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-third-anniversary-celebration-of-the-bangko-sentral-ng-pilipinas",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the closing ceremony of the Asia Summit on Child Rights and the Media",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/05/speech-of-president-ramos-at-the-closing-ceremony-of-the-asia-summit-on-child-rights-and-the-media/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-closing-ceremony-of-the-asia-summit-on-child-rights-and-the-media",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Manila Overseas Press Club Night",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/11/speech-of-president-ramos-at-the-manila-overseas-press-club-night/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-manila-overseas-press-club-night",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the “Galing Pook” awarding ceremonies",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/17/speech-of-president-ramos-at-the-galing-pook-awarding-ceremonies/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-galing-pook-awarding-ceremonies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the veterans’ assembly organized by the Veterans Federation of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1996/07/19/speech-of-president-ramos-at-the-veterans-assembly-organized-by-the-veterans-federation-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-07-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-veterans-assembly-organized-by-the-veterans-federation-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the launching of Edelmiro A. Amante Sr.’s “35 Poems and Essays”",
+    "content_url": "https://www.officialgazette.gov.ph/1996/08/08/speech-of-president-ramos-at-the-launching-of-edelmiro-a-amante-sr-s-35-poems-and-essays/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-08-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-launching-of-edelmiro-a-amante-sr-s-35-poems-and-essays",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the presentation of the first anniversary accomplishment report by the National Youth Commission",
+    "content_url": "https://www.officialgazette.gov.ph/1996/08/16/speech-of-president-ramos-at-the-presentation-of-the-first-anniversary-accomplishment-report-by-the-national-youth-commission/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-08-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-presentation-of-the-first-anniversary-accomplishment-report-by-the-national-youth-commission",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Philippine observance of the Second International Day of the World’s Indigenous Peoples",
+    "content_url": "https://www.officialgazette.gov.ph/1996/08/16/speech-of-president-ramos-on-the-philippine-observance-of-the-second-international-day-of-the-worlds-indigenous-peoples/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-08-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-philippine-observance-of-the-second-international-day-of-the-worlds-indigenous-peoples",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the International Conference on “The Philippine Revolution and Beyond”",
+    "content_url": "https://www.officialgazette.gov.ph/1996/08/21/speech-of-president-ramos-at-the-international-conference-on-the-philippine-revolution-and-beyond/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-08-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-international-conference-on-the-philippine-revolution-and-beyond",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the inauguration of the Filipinas Heritage Library and Interlink",
+    "content_url": "https://www.officialgazette.gov.ph/1996/08/23/speech-of-president-ramos-at-the-inauguration-of-the-filipinas-heritage-library-and-interlink/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-08-23",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-inauguration-of-the-filipinas-heritage-library-and-interlink",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the signing of the Final Peace Agreement between the Government of the Republic of the Philippines and the Moro National Liberation Front",
+    "content_url": "https://www.officialgazette.gov.ph/1996/09/02/speech-of-president-ramos-at-the-signing-of-the-final-peace-agreement-between-the-government-of-the-republic-of-the-philippines-and-the-moro-national-liberation-front/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-09-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-signing-of-the-final-peace-agreement-between-the-government-of-the-republic-of-the-philippines-and-the-moro-national-liberation-front",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Annual luncheon forum of the Foreign Correspondents’ Association of the Philippines, October 17, 1996",
+    "content_url": "https://www.officialgazette.gov.ph/1996/10/17/speech-of-president-ramos-at-the-annual-luncheon-forum-of-the-foreign-correspondents-association-of-the-philippines-october-17-1996/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-10-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-annual-luncheon-forum-of-the-foreign-correspondents-association-of-the-philippines-october-17-1996",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a forum on “The 1998 Philippine Presidency”",
+    "content_url": "https://www.officialgazette.gov.ph/1996/11/19/speech-of-president-ramos-at-a-forum-on-the-1998-philippine-presidency/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-11-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-forum-on-the-1998-philippine-presidency",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asia-Pacific Economic Cooperation Business Forum plenary session",
+    "content_url": "https://www.officialgazette.gov.ph/1996/11/22/speech-of-president-ramos-at-the-asia-pacific-economic-cooperation-business-forum-plenary-session/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-11-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asia-pacific-economic-cooperation-business-forum-plenary-session",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening of the Asia-Pacific Economic Cooperation (APEC) Ministerial Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1996/11/22/speech-of-president-ramos-at-the-opening-of-the-asia-pacific-economic-cooperation-apec-ministerial-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-11-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-of-the-asia-pacific-economic-cooperation-apec-ministerial-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Fidel Ramos at the dinner hosted by the Asia-Pacific Economic Cooperation (APEC) Leaders’ Meeting Chairman",
+    "content_url": "https://www.officialgazette.gov.ph/1996/11/24/speech-of-president-fidel-ramos-at-the-dinner-hosted-by-the-asia-pacific-economic-cooperation-apec-leaders-meeting-chairman/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-11-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-fidel-ramos-at-the-dinner-hosted-by-the-asia-pacific-economic-cooperation-apec-leaders-meeting-chairman",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asia-Pacific Economic Cooperation (APEC) Ecumenical Prayer Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1996/11/24/speech-of-president-ramos-at-the-asia-pacific-economic-cooperation-apec-ecumenical-prayer-meeting/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-11-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asia-pacific-economic-cooperation-apec-ecumenical-prayer-meeting",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Roundtable Conference organized by the Konrad Adenauer Foundation and the Institute for Strategic and Development Studies, December 1, 1996",
+    "content_url": "https://www.officialgazette.gov.ph/1996/12/01/speech-of-president-ramos-at-the-roundtable-conference-organized-by-the-konrad-adenauer-foundation-and-the-institute-for-strategic-and-development-studies-december-1-1996/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-12-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-roundtable-conference-organized-by-the-konrad-adenauer-foundation-and-the-institute-for-strategic-and-development-studies-december-1-1996",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Roundtable conference organized by the Konrad Adenauer Foundation and the Institute for Strategic and Development Studies, December 2, 1994",
+    "content_url": "https://www.officialgazette.gov.ph/1996/12/02/speech-of-president-ramos-at-the-roundtable-conference-organized-by-the-konrad-adenauer-foundation-and-the-institute-for-strategic-and-development-studies-december-2-1994/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-12-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-roundtable-conference-organized-by-the-konrad-adenauer-foundation-and-the-institute-for-strategic-and-development-studies-december-2-1994",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Centennial Celebration of Jose Rizal’s Martyrdom",
+    "content_url": "https://www.officialgazette.gov.ph/1996/12/30/speech-of-president-ramos-during-the-centennial-celebration-of-jose-rizals-martyrdom/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1996-12-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-centennial-celebration-of-jose-rizals-martyrdom",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Ulat sa Bayan",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/02/speech-of-president-ramos-on-ulat-sa-bayan/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-ulat-sa-bayan",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Eucharistic Celebration for the Closing Ceremonies of the 5th National Eucharistic Congress",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/26/speech-of-president-ramos-during-the-eucharistic-celebration-for-the-closing-ceremonies-of-the-5th-national-eucharistic-congress/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-eucharistic-celebration-for-the-closing-ceremonies-of-the-5th-national-eucharistic-congress",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Opening Ceremonies on the Symposium on Asian Electoral Systems Undertaking by the International Foundation for Election System-Commission on Elections",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/27/speech-of-president-ramos-during-the-opening-ceremonies-on-the-symposium-on-asian-electoral-systems-undertaking-by-the-international-foundation-for-election-system-commission-on-elections/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-opening-ceremonies-on-the-symposium-on-asian-electoral-systems-undertaking-by-the-international-foundation-for-election-system-commission-on-elections",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Launching of the Year of the Filipino Spirit, January 28, 1997",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/28/speech-of-president-ramos-at-the-launching-of-the-year-of-the-filipino-spirit-january-28-1997/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-launching-of-the-year-of-the-filipino-spirit-january-28-1997",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Ramos on the sixth anniversary of the Philippine National Police, January 30, 1997",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/30/address-of-president-ramos-on-the-sixth-anniversary-of-the-philippine-national-police-january-30-1997/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-ramos-on-the-sixth-anniversary-of-the-philippine-national-police-january-30-1997",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the executive session with the Liga ng Mga Barangay",
+    "content_url": "https://www.officialgazette.gov.ph/1997/01/30/speech-of-president-ramos-at-the-executive-session-with-the-liga-ng-mga-barangay/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-01-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-executive-session-with-the-liga-ng-mga-barangay",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the awarding ceremonies for the 1995 and 1996 The Outstanding Young Filipinos (TOYF)",
+    "content_url": "https://www.officialgazette.gov.ph/1997/02/03/speech-of-president-ramos-at-the-awarding-ceremonies-for-the-1995-and-1996-the-outstanding-young-filipinos-toyf/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-02-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-awarding-ceremonies-for-the-1995-and-1996-the-outstanding-young-filipinos-toyf",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Presentation of the Rotary Club of Manila Journalism Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1997/02/06/speech-of-president-ramos-during-the-presentation-of-the-rotary-club-of-manila-journalism-awards/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-02-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-presentation-of-the-rotary-club-of-manila-journalism-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the Philippine Constitution Association in observance of Constitution Day",
+    "content_url": "https://www.officialgazette.gov.ph/1997/02/08/speech-of-president-ramos-to-the-philippine-constitution-association-in-observance-of-constitution-day/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-02-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-philippine-constitution-association-in-observance-of-constitution-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos to the Economist Intelligence Unit Roundtable with the Government of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1997/02/19/speech-of-president-ramos-to-the-economist-intelligence-unit-roundtable-with-the-government-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-02-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-to-the-economist-intelligence-unit-roundtable-with-the-government-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the First Congress on Information Technology and Telecommunications Education",
+    "content_url": "https://www.officialgazette.gov.ph/1997/02/20/speech-of-president-ramos-at-the-first-congress-on-information-technology-and-telecommunications-education/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-02-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-first-congress-on-information-technology-and-telecommunications-education",
+    "category": "speech"
+  },
+  {
+    "title": "Remarks of President Ramos at the Commencement Exercises of the Philippine Military Academy Class of 1997",
+    "content_url": "https://www.officialgazette.gov.ph/1997/03/16/remarks-of-president-ramos-at-the-commencement-exercises-of-the-philippine-military-academy-class-of-1997/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-03-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "remarks-of-president-ramos-at-the-commencement-exercises-of-the-philippine-military-academy-class-of-1997",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Philippine Army Centennial Celebration",
+    "content_url": "https://www.officialgazette.gov.ph/1997/03/22/speech-of-president-ramos-during-the-philippine-army-centennial-celebration/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-03-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-philippine-army-centennial-celebration",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos in Commemoration of the 102nd anniversary of the First Cry for Freedom of the Katipunan",
+    "content_url": "https://www.officialgazette.gov.ph/1997/04/12/speech-of-president-ramos-in-commemoration-of-the-102nd-anniversary-of-the-first-cry-for-freedom-of-the-katipunan/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-04-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-in-commemoration-of-the-102nd-anniversary-of-the-first-cry-for-freedom-of-the-katipunan",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Annual Gridiron Presentation of the National Press Club of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1997/04/21/speech-of-president-ramos-at-the-annual-gridiron-presentation-of-the-national-press-club-of-the-philippines/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-04-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-annual-gridiron-presentation-of-the-national-press-club-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Labor Day celebration with the labor groups",
+    "content_url": "https://www.officialgazette.gov.ph/1997/05/01/speech-of-president-ramos-at-the-labor-day-celebration-with-the-labor-groups/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-labor-day-celebration-with-the-labor-groups",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Credit Lyonnais Securities (Asia) Investors’ Forum Asia ’97",
+    "content_url": "https://www.officialgazette.gov.ph/1997/05/22/speech-of-president-ramos-at-the-credit-lyonnais-securities-asia-investors-forum-asia-97/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-05-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-credit-lyonnais-securities-asia-investors-forum-asia-97",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening of the National Development Summit (Pole-Vaulting Conference)",
+    "content_url": "https://www.officialgazette.gov.ph/1997/06/08/speech-of-president-ramos-at-the-opening-of-the-national-development-summit-pole-vaulting-conference/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-06-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-of-the-national-development-summit-pole-vaulting-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the 99th Independence Day Flag-Raising Ceremony",
+    "content_url": "https://www.officialgazette.gov.ph/1997/06/12/speech-of-president-ramos-during-the-99th-independence-day-flag-raising-ceremony/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-06-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-99th-independence-day-flag-raising-ceremony",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos before the Oxford Union Society",
+    "content_url": "https://www.officialgazette.gov.ph/1997/06/17/speech-of-president-ramos-before-the-oxford-union-society/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-06-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-before-the-oxford-union-society",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the joint celebration of the 47th anniversary of the National Security Council and the 48th anniversary of the National Intelligence Coordinating Agency",
+    "content_url": "https://www.officialgazette.gov.ph/1997/07/07/speech-of-president-ramos-at-the-joint-celebration-of-the-47th-anniversary-of-the-national-security-council-and-the-48th-anniversary-of-the-national-intelligence-coordinating-agency/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-07-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-joint-celebration-of-the-47th-anniversary-of-the-national-security-council-and-the-48th-anniversary-of-the-national-intelligence-coordinating-agency",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1997 Ramon Magsaysay Awards presentation",
+    "content_url": "https://www.officialgazette.gov.ph/1997/08/31/speech-of-president-ramos-at-the-1997-ramon-magsaysay-awards-presentation/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-08-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1997-ramon-magsaysay-awards-presentation",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the commemoration of the first anniversary of the signing of the final peace agreement between the Government and the Moro National Liberation Front, and Multisectoral Assembly for the 30th Regional Cabinet Meeting",
+    "content_url": "https://www.officialgazette.gov.ph/1997/09/02/speech-of-president-ramos-at-the-commemoration-of-the-first-anniversary-of-the-signing-of-the-final-peace-agreement-between-the-government-and-the-moro-national-liberation-front-and-multisectoral-ass/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-09-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-commemoration-of-the-first-anniversary-of-the-signing-of-the-final-peace-agreement-between-the-government-and-the-moro-national-liberation-front-and-multisectoral-ass",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the conferment of an Honorary Doctorate by the Moscow Institute of International Relations",
+    "content_url": "https://www.officialgazette.gov.ph/1997/09/11/speech-of-president-ramos-on-the-conferment-of-an-honorary-doctorate-by-the-moscow-institute-of-international-relations/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-09-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-conferment-of-an-honorary-doctorate-by-the-moscow-institute-of-international-relations",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 19th anniversary of the Jesus Is Lord Church",
+    "content_url": "https://www.officialgazette.gov.ph/1997/10/05/speech-of-president-ramos-at-the-19th-anniversary-of-the-jesus-is-lord-church/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-10-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-19th-anniversary-of-the-jesus-is-lord-church",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1997 Sixth East Asia Economic Summit of the World Economic Forum",
+    "content_url": "https://www.officialgazette.gov.ph/1997/10/14/speech-of-president-ramos-at-the-1997-sixth-east-asia-economic-summit-of-the-world-economic-forum/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-10-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1997-sixth-east-asia-economic-summit-of-the-world-economic-forum",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the centennial of the Biak-na-Bato Republic",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/02/speech-of-president-ramos-on-the-centennial-of-the-biak-na-bato-republic/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-centennial-of-the-biak-na-bato-republic",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Conference of the Caucus of Asian Liberals and Democrats in collaboration with the Friedrich Naumann Stifung and the Liberal Party of the Philippines, November 4, 1997",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/04/speech-of-president-ramos-at-the-conference-of-the-caucus-of-asian-liberals-and-democrats-in-collaboration-with-the-friedrich-naumann-stifung-and-the-liberal-party-of-the-philippines-november-4-1997/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-conference-of-the-caucus-of-asian-liberals-and-democrats-in-collaboration-with-the-friedrich-naumann-stifung-and-the-liberal-party-of-the-philippines-november-4-1997",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Dinner for the officers of the International Press Institute’s World Executive Board",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/06/speech-of-president-ramos-at-the-dinner-for-the-officers-of-the-international-press-institutes-world-executive-board/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-dinner-for-the-officers-of-the-international-press-institutes-world-executive-board",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Asia-Pacific Clean Up the World Conference",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/07/speech-of-president-ramos-at-the-asia-pacific-clean-up-the-world-conference/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-asia-pacific-clean-up-the-world-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening ceremonies of the 5th Asian and Pacific Ministerial Conference on Social Development",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/10/speech-of-president-ramos-at-the-opening-ceremonies-of-the-5th-asian-and-pacific-ministerial-conference-on-social-development/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-ceremonies-of-the-5th-asian-and-pacific-ministerial-conference-on-social-development",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the launching of the Pre-APEC 1997 Folio “Philippine Initiatives in Vancouver”",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/10/speech-of-president-ramos-at-the-launching-of-the-pre-apec-1997-folio-philippine-initiatives-in-vancouver/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-launching-of-the-pre-apec-1997-folio-philippine-initiatives-in-vancouver",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the acceptance of the Honorary Doctorate conferred by Waseda University",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/18/speech-of-president-ramos-on-the-acceptance-of-the-honorary-doctorate-conferred-by-waseda-university/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-acceptance-of-the-honorary-doctorate-conferred-by-waseda-university",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at a meeting with the Discovery Institute, Asia-Pacific Economic Cooperation (APEC) Study Center, Trade Development Alliance, Washington Council for International Trade, and World Affairs Council",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/21/speech-of-president-ramos-at-a-meeting-with-the-discovery-institute-asia-pacific-economic-cooperation-apec-study-center-trade-development-alliance-washington-council-for-international-trade-and/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-a-meeting-with-the-discovery-institute-asia-pacific-economic-cooperation-apec-study-center-trade-development-alliance-washington-council-for-international-trade-and",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Rafael Salas Memorial Lecture, Economic and Social Council Chamber",
+    "content_url": "https://www.officialgazette.gov.ph/1997/11/26/speech-of-president-ramos-at-the-rafael-salas-memorial-lecture-economic-and-social-council-chamber/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-11-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-rafael-salas-memorial-lecture-economic-and-social-council-chamber",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 1997 National Artists Awarding Ceremony",
+    "content_url": "https://www.officialgazette.gov.ph/1997/12/08/speech-of-president-ramos-at-the-1997-national-artists-awarding-ceremony/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-12-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-1997-national-artists-awarding-ceremony",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Manila Forum in preparation for the Asia-Europe Meeting in 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1997/12/10/speech-of-president-ramos-at-the-manila-forum-in-preparation-for-the-asia-europe-meeting-in-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-12-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-manila-forum-in-preparation-for-the-asia-europe-meeting-in-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of the Comprehensive Tax Reform and Antipoverty Laws",
+    "content_url": "https://www.officialgazette.gov.ph/1997/12/11/speech-of-president-ramos-on-the-enactment-of-the-comprehensive-tax-reform-and-antipoverty-laws/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1997-12-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-comprehensive-tax-reform-and-antipoverty-laws",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on Ulat sa Bayan",
+    "content_url": "https://www.officialgazette.gov.ph/1998/01/06/speech-of-president-ramos-on-ulat-sa-bayan-2/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-01-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-ulat-sa-bayan-2",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Lakas-NUCD-UMDP National Convention ’98",
+    "content_url": "https://www.officialgazette.gov.ph/1998/01/24/speech-of-president-ramos-at-the-lakas-nucd-umdp-national-convention-98/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-01-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-lakas-nucd-umdp-national-convention-98",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the bill-signing for the Cities of Ilagan and Calapan",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/02/speech-of-president-ramos-at-the-bill-signing-for-the-cities-of-ilagan-and-calapan/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-02",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-bill-signing-for-the-cities-of-ilagan-and-calapan",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the opening of the National Economic Summit",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/11/speech-of-president-ramos-at-the-opening-of-the-national-economic-summit/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-opening-of-the-national-economic-summit",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Centennial Dinner for Their Majesties King Juan Carlos I and Queen Sofia of Spain",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/11/speech-of-president-ramos-at-the-centennial-dinner-for-their-majesties-king-juan-carlos-i-and-queen-sofia-of-spain/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-centennial-dinner-for-their-majesties-king-juan-carlos-i-and-queen-sofia-of-spain",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of the prescribed Code of the National Flag, Anthem, Motto, Coat of Arms and Great Seal of the Philippines and nine other reform bills",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/12/speech-of-president-ramos-on-the-enactment-of-the-prescribed-code-of-the-national-flag-anthem-motto-coat-of-arms-and-great-seal-of-the-philippines-and-nine-other-reform-bills/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-prescribed-code-of-the-national-flag-anthem-motto-coat-of-arms-and-great-seal-of-the-philippines-and-nine-other-reform-bills",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the Enactment of the Condonation of Housing Loan Penalties and Eight Other Reform Bills",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/13/speech-of-president-ramos-on-the-enactment-of-the-condonation-of-housing-loan-penalties-and-eight-other-reform-bills/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-condonation-of-housing-loan-penalties-and-eight-other-reform-bills",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of the amendment to Section 63 of R.A. 6657 (The CARP Law of 1998)",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/23/speech-of-president-ramos-on-the-enactment-of-the-amendment-to-section-63-of-r-a-6657-the-carp-law-of-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-23",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-amendment-to-section-63-of-r-a-6657-the-carp-law-of-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of the regulation for merchant marine officers’ profession in the Philippines and five other reform bills",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/24/speech-of-president-ramos-on-the-enactment-of-the-regulation-for-merchant-marine-officers-profession-in-the-philippines-and-five-other-reform-bills/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-regulation-for-merchant-marine-officers-profession-in-the-philippines-and-five-other-reform-bills",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of the Development, Management and Conservation Code for Fisheries and Aquatic Resources; the amendments for the reform and reorganization of the Philippine National Police, and three other reform bills",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/25/speech-of-president-ramos-on-the-enactment-of-the-development-management-and-conservation-code-for-fisheries-and-aquatic-resources-the-amendments-for-the-reform-and-reorganization-of-the-philippine/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-the-development-management-and-conservation-code-for-fisheries-and-aquatic-resources-the-amendments-for-the-reform-and-reorganization-of-the-philippine",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the enactment of amendments to the Official Development Assistance Law and eight other reform laws",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/26/speech-of-president-ramos-on-the-enactment-of-amendments-to-the-official-development-assistance-law-and-eight-other-reform-laws/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-enactment-of-amendments-to-the-official-development-assistance-law-and-eight-other-reform-laws",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the 35th Annual Conference of the Philippine Economic Society (PES)",
+    "content_url": "https://www.officialgazette.gov.ph/1998/02/27/speech-of-president-ramos-at-the-35th-annual-conference-of-the-philippine-economic-society-pes/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-02-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-35th-annual-conference-of-the-philippine-economic-society-pes",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Financial Seminar Plenary Session, April 7, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/04/07/speech-of-president-ramos-at-the-financial-seminar-plenary-session-april-7-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-04-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-financial-seminar-plenary-session-april-7-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Fidel V. Ramos upon Acceptance of Honorary Doctorate from Georgetown University on the Second Distinguished Speaker Lectures on Southeast Asia, April 8, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/04/08/speech-of-president-fidel-v-ramos-upon-acceptance-of-honorary-doctorate-from-georgetown-university-on-the-second-distinguished-speaker-lectures-on-southeast-asia-april-8-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-04-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-fidel-v-ramos-upon-acceptance-of-honorary-doctorate-from-georgetown-university-on-the-second-distinguished-speaker-lectures-on-southeast-asia-april-8-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Labor Day Celebration with the Labor Groups, May 1, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/05/01/speech-of-president-ramos-at-the-labor-day-celebration-with-the-labor-groups-may-1-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-labor-day-celebration-with-the-labor-groups-may-1-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos during the Centennial of the Proclamation of Philippine Independence, June 12, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/06/12/speech-of-president-ramos-during-the-centennial-of-the-proclamation-of-philippine-independence-june-12-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-06-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-during-the-centennial-of-the-proclamation-of-philippine-independence-june-12-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos at the Second University of the Philippines Lecture Series, June 15, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/06/15/speech-of-president-ramos-at-the-second-university-of-the-philippines-lecture-series-june-15-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-06-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-at-the-second-university-of-the-philippines-lecture-series-june-15-1998",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Ramos on the acceptance of the 1997 Felix Houphouet-Boigny Peace Prize jointly with Governor Nur Misuari, June 17, 1998",
+    "content_url": "https://www.officialgazette.gov.ph/1998/06/17/speech-of-president-ramos-on-the-acceptance-of-the-1997-felix-houphouet-boigny-peace-prize-jointly-with-governor-nur-misuari-june-17-1998/",
+    "president_slug": "fidel-v-ramos",
+    "date": "1998-06-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-ramos-on-the-acceptance-of-the-1997-felix-houphouet-boigny-peace-prize-jointly-with-governor-nur-misuari-june-17-1998",
+    "category": "speech"
+  }
+]

@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 151, s. 1969",
   "content_url": "https://www.officialgazette.gov.ph/1969/11/24/memorandum-order-no-151-s-1969/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1969/11nov/19691124-MO-0151-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 151, November 24, 1969 ]\nPROCEDURAL GUIDELINES REGARDING ADVERSE ACTIONS ON MATTERS PASSED UPON BY THE EXECUTIVE OFFICE.\nEffective immediately, disapprovals or denials of requests, petitions or other matters submitted to the Office of the President for decision, shall be prepared to include the reason or reasons in support thereof for the enlightenment and guidance of offices and/or the officials or employees concerned.\n1aшphi1\nBy authority of the President:\n(Sgd.)\nERNESTO M. MACEDA\nExecutive Secretary\nManila, November 24, 1969\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 99,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:49:32.727510Z"
+  "scraped_at": "2026-02-23T11:49:32.727510Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:48.223318Z"
 }

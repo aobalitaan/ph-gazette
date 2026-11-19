@@ -1,1 +1,982 @@
-[]
+[
+  {
+    "title": "Inaugural Address of President Magsaysay, December 30, 1953",
+    "content_url": "https://www.officialgazette.gov.ph/1953/12/30/inaugural-address-of-president-magsaysay-december-30-1953/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1953-12-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "inaugural-address-of-president-magsaysay-december-30-1953",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on George Washington’s Birthday",
+    "content_url": "https://www.officialgazette.gov.ph/1954/02/22/speech-of-president-magsaysay-on-george-washingtons-birthday/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-02-22",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-george-washingtons-birthday",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the graduates of the Philippine Military Academy",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/15/speech-of-president-magsaysay-before-the-graduates-of-the-philippine-military-academy/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-graduates-of-the-philippine-military-academy",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of his acceptance of the degree of Doctor of Humanities, Honoris Causa",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/20/speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-humanities-honoris-causa/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-humanities-honoris-causa",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of his acceptance of the degree of Doctor of Laws, Honoris Causa",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/21/speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-laws-honoris-causa/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-21",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-laws-honoris-causa",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay to the Convention of Chinese Chambers of Commerce Chinese Trade Associations in the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/26/address-of-president-magsaysay-to-the-convention-of-chinese-chambers-of-commerce-chinese-trade-associations-in-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-to-the-convention-of-chinese-chambers-of-commerce-chinese-trade-associations-in-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the turn-over of farm implements to the Philippine Government under “Operation Philippines”",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/28/speech-of-president-magsaysay-at-the-turn-over-of-farm-implements-to-the-philippine-government-under-operation-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-turn-over-of-farm-implements-to-the-philippine-government-under-operation-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of his acceptance of the degree of Doctor of Engineering, Honoris Causa",
+    "content_url": "https://www.officialgazette.gov.ph/1954/03/29/speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-engineering-honoris-causa/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-03-29",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-his-acceptance-of-the-degree-of-doctor-of-engineering-honoris-causa",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Pacific Regional Seminar of the UNESCO",
+    "content_url": "https://www.officialgazette.gov.ph/1954/04/04/speech-of-president-magsaysay-at-the-pacific-regional-seminar-of-the-unesco/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-04-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-pacific-regional-seminar-of-the-unesco",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the laying of the cornerstone of the National Press Club Building",
+    "content_url": "https://www.officialgazette.gov.ph/1954/04/04/speech-of-president-magsaysay-at-the-laying-of-the-cornerstone-of-the-national-press-club-building/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-04-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-laying-of-the-cornerstone-of-the-national-press-club-building",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on “Bataan Day”",
+    "content_url": "https://www.officialgazette.gov.ph/1954/04/09/speech-of-president-magsaysay-on-bataan-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-04-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-bataan-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of the First National Jamboree of the Boy Scouts of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1954/04/23/speech-of-president-magsaysay-on-the-occasion-of-the-first-national-jamboree-of-the-boy-scouts-of-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-04-23",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-the-first-national-jamboree-of-the-boy-scouts-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Philippine Medical Association",
+    "content_url": "https://www.officialgazette.gov.ph/1954/04/26/speech-of-president-magsaysay-before-the-philippine-medical-association/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-04-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-philippine-medical-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of the Business Writers Association of the Philippines, giving of awards",
+    "content_url": "https://www.officialgazette.gov.ph/1954/05/04/speech-of-president-magsaysay-on-the-occasion-of-the-business-writers-association-of-the-philippines-giving-of-awards/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-05-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-the-business-writers-association-of-the-philippines-giving-of-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Public Schools Superintendents",
+    "content_url": "https://www.officialgazette.gov.ph/1954/05/13/speech-of-president-magsaysay-before-the-public-schools-superintendents/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-05-13",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-public-schools-superintendents",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on launching the one-year thrift campaign",
+    "content_url": "https://www.officialgazette.gov.ph/1954/06/01/speech-of-president-magsaysay-on-launching-the-one-year-thrift-campaign/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-06-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-launching-the-one-year-thrift-campaign",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay upon accepting the credentials of the Ambassador of Spain [Filipino]",
+    "content_url": "https://www.officialgazette.gov.ph/1954/06/15/speech-of-president-magsaysay-upon-accepting-the-credentials-of-the-ambassador-of-spain-filipino/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-06-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-upon-accepting-the-credentials-of-the-ambassador-of-spain-filipino",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Armed Forces testimonial parade and review",
+    "content_url": "https://www.officialgazette.gov.ph/1954/07/03/speech-of-president-magsaysay-at-the-armed-forces-testimonial-parade-and-review/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-07-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-armed-forces-testimonial-parade-and-review",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Installation of Officers of the Jaycees",
+    "content_url": "https://www.officialgazette.gov.ph/1954/07/04/speech-of-president-magsaysay-at-the-installation-of-officers-of-the-jaycees/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-07-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-installation-of-officers-of-the-jaycees",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Quezon Day dinner given by the Lions",
+    "content_url": "https://www.officialgazette.gov.ph/1954/08/19/speech-of-president-magsaysay-at-the-quezon-day-dinner-given-by-the-lions/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-08-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-quezon-day-dinner-given-by-the-lions",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay at the Manila Conference of 1954",
+    "content_url": "https://www.officialgazette.gov.ph/1954/09/06/address-of-president-magsaysay-at-the-manila-conference-of-1954/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-09-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-at-the-manila-conference-of-1954",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay at the Manila Conference of 1954, September 6, 1954",
+    "content_url": "https://www.officialgazette.gov.ph/1954/09/06/address-of-president-magsaysay-at-the-manila-conference-of-1954-september-6-1954-2/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-09-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-at-the-manila-conference-of-1954-september-6-1954-2",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before Manila Conference Delegates at State Dinner, September 8, 1954",
+    "content_url": "https://www.officialgazette.gov.ph/1954/09/08/speech-of-president-magsaysay-before-manila-conference-delegates-at-state-dinner-september-8-1954/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-09-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-manila-conference-delegates-at-state-dinner-september-8-1954",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the U.P. Loyalty Day Celebration, October 10, 1954",
+    "content_url": "https://www.officialgazette.gov.ph/1954/10/10/speech-of-president-magsaysay-at-the-u-p-loyalty-day-celebration-october-10-1954/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-10-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-u-p-loyalty-day-celebration-october-10-1954",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the United Nations Day luncheon, October 24, 1954",
+    "content_url": "https://www.officialgazette.gov.ph/1954/10/24/speech-of-president-magsaysay-at-the-united-nations-day-luncheon-october-24-1954/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1954-10-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-united-nations-day-luncheon-october-24-1954",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the State Dinner for France Cardinal Spellman",
+    "content_url": "https://www.officialgazette.gov.ph/1955/01/10/speech-of-president-magsaysay-at-the-state-dinner-for-france-cardinal-spellman/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-01-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-state-dinner-for-france-cardinal-spellman",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay after Sangley Dinner given by Admiral Goodwin in His Honor",
+    "content_url": "https://www.officialgazette.gov.ph/1955/01/29/speech-of-president-magsaysay-after-sangley-dinner-given-by-admiral-goodwin-in-his-honor/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-01-29",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-after-sangley-dinner-given-by-admiral-goodwin-in-his-honor",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay in Response to the Pakistan Minister’s Address, February 9, 1955",
+    "content_url": "https://www.officialgazette.gov.ph/1955/02/09/address-of-president-magsaysay-in-response-to-the-pakistan-ministers-address-february-9-1955/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-02-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-in-response-to-the-pakistan-ministers-address-february-9-1955",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Commencement Exercises of the University of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1955/04/05/speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-04-05",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Remarks of President Magsaysay at the State Dinner given in Honor of Premier and Madame Phibul Songgram, April 14, 1955",
+    "content_url": "https://www.officialgazette.gov.ph/1955/04/14/remarks-of-president-magsaysay-at-the-state-dinner-given-in-honor-of-premier-and-madame-phibul-songgram-april-14-1955/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-04-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "remarks-of-president-magsaysay-at-the-state-dinner-given-in-honor-of-premier-and-madame-phibul-songgram-april-14-1955",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay during the 48th Annual Meeting of the Philippine Medical Association",
+    "content_url": "https://www.officialgazette.gov.ph/1955/04/27/speech-of-president-magsaysay-during-the-48th-annual-meeting-of-the-philippine-medical-association/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-04-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-during-the-48th-annual-meeting-of-the-philippine-medical-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of Labor Day",
+    "content_url": "https://www.officialgazette.gov.ph/1955/05/01/speech-of-president-magsaysay-on-the-occasion-of-labor-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-labor-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Labor-Management Congress",
+    "content_url": "https://www.officialgazette.gov.ph/1955/05/26/speech-of-president-magsaysay-at-the-labor-management-congress/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-05-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-labor-management-congress",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the launching of the 1955 Annual Fund Campaign of the Community Chest of Greater Manila",
+    "content_url": "https://www.officialgazette.gov.ph/1955/06/01/speech-of-president-magsaysay-at-the-launching-of-the-1955-annual-fund-campaign-of-the-community-chest-of-greater-manila/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-06-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-launching-of-the-1955-annual-fund-campaign-of-the-community-chest-of-greater-manila",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Philippine Association of College and University Professors (PACUP)",
+    "content_url": "https://www.officialgazette.gov.ph/1955/06/10/speech-of-president-magsaysay-before-the-philippine-association-of-college-and-university-professors-pacup/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-06-10",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-philippine-association-of-college-and-university-professors-pacup",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the Golden Jubilee of the Feminist Movement in the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1955/06/19/speech-of-president-magsaysay-on-the-golden-jubilee-of-the-feminist-movement-in-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-06-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-golden-jubilee-of-the-feminist-movement-in-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Testimonial Parade and Review",
+    "content_url": "https://www.officialgazette.gov.ph/1955/07/01/speech-of-president-magsaysay-at-the-testimonial-parade-and-review/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-07-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-testimonial-parade-and-review",
+    "category": "speech"
+  },
+  {
+    "title": "Fourth of July Speech of President Magsaysay",
+    "content_url": "https://www.officialgazette.gov.ph/1955/07/04/fourth-of-july-speech-of-president-magsaysay/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-07-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "fourth-of-july-speech-of-president-magsaysay",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the National Movement for Free Elections (NAMFREL)",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/14/speech-of-president-magsaysay-before-the-national-movement-for-free-elections-namfrel/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-national-movement-for-free-elections-namfrel",
+    "category": "speech"
+  },
+  {
+    "title": "Radio Speech of President Magsaysay on the late President Quezon’s 77th Birthday Anniversary",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/18/radio-speech-of-president-magsaysay-on-the-late-president-quezons-77th-birthday-anniversary/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "radio-speech-of-president-magsaysay-on-the-late-president-quezons-77th-birthday-anniversary",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the launching of the National Fund and Educational Drive of the Philippine Tuberculosis Society",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/18/speech-of-president-magsaysay-at-the-launching-of-the-national-fund-and-educational-drive-of-the-philippine-tuberculosis-society/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-launching-of-the-national-fund-and-educational-drive-of-the-philippine-tuberculosis-society",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the National Radio and TV Newsmen’s Club",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/18/speech-of-president-magsaysay-before-the-national-radio-and-tv-newsmens-club/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-18",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-national-radio-and-tv-newsmens-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Youth Moral Rehabilitation Rally",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/19/speech-of-president-magsaysay-before-the-youth-moral-rehabilitation-rally/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-youth-moral-rehabilitation-rally",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Manila Lions Club",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/27/speech-of-president-magsaysay-before-the-manila-lions-club/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-manila-lions-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the flag ceremony sponsored by the Manila Jaycees",
+    "content_url": "https://www.officialgazette.gov.ph/1955/08/28/speech-of-president-magsaysay-at-the-flag-ceremony-sponsored-by-the-manila-jaycees/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-08-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-flag-ceremony-sponsored-by-the-manila-jaycees",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of the dinner in Honor of U.S. State Undersecretary Herbert Hoover, Jr., and ICA Director John B. Hollister and their Ladies",
+    "content_url": "https://www.officialgazette.gov.ph/1955/10/12/speech-of-president-magsaysay-on-the-occasion-of-the-dinner-in-honor-of-u-s-state-undersecretary-herbert-hoover-jr-and-ica-director-john-b-hollister-and-their-ladies/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-10-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-the-dinner-in-honor-of-u-s-state-undersecretary-herbert-hoover-jr-and-ica-director-john-b-hollister-and-their-ladies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the 11th Anniversary of General Douglas MacArthur’s Leyte landing",
+    "content_url": "https://www.officialgazette.gov.ph/1955/10/20/speech-of-president-magsaysay-on-the-11th-anniversary-of-general-douglas-macarthurs-leyte-landing/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-10-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-11th-anniversary-of-general-douglas-macarthurs-leyte-landing",
+    "category": "speech"
+  },
+  {
+    "title": "United Nations Speech of President Magsaysay read by Vice-President Carlos P. Garcia",
+    "content_url": "https://www.officialgazette.gov.ph/1955/10/24/united-nations-speech-of-president-magsaysay-read-by-vice-president-carlos-p-garcia/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-10-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "united-nations-speech-of-president-magsaysay-read-by-vice-president-carlos-p-garcia",
+    "category": "speech"
+  },
+  {
+    "title": "Recorded Speech of President Magsaysay on urging all voters to vote on Election Day",
+    "content_url": "https://www.officialgazette.gov.ph/1955/11/06/recorded-speech-of-president-magsaysay-on-urging-all-voters-to-vote-on-election-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-11-06",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "recorded-speech-of-president-magsaysay-on-urging-all-voters-to-vote-on-election-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of the Golden Jubilee of the Bureau of Public Works",
+    "content_url": "https://www.officialgazette.gov.ph/1955/11/12/speech-of-president-magsaysay-on-the-occasion-of-the-golden-jubilee-of-the-bureau-of-public-works/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-11-12",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-the-golden-jubilee-of-the-bureau-of-public-works",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the inauguration of the Veterans Memorial Hospital",
+    "content_url": "https://www.officialgazette.gov.ph/1955/11/20/speech-of-president-magsaysay-at-the-inauguration-of-the-veterans-memorial-hospital/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-11-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-inauguration-of-the-veterans-memorial-hospital",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the unveiling of the Roxas Marker at Clark Air Force Base",
+    "content_url": "https://www.officialgazette.gov.ph/1955/11/30/speech-of-president-magsaysay-at-the-unveiling-of-the-roxas-marker-at-clark-air-force-base/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-11-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-unveiling-of-the-roxas-marker-at-clark-air-force-base",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the 10th anniversary observance of the Philippine Government Employees Association",
+    "content_url": "https://www.officialgazette.gov.ph/1955/12/09/speech-of-president-magsaysay-at-the-10th-anniversary-observance-of-the-philippine-government-employees-association/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-12-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-10th-anniversary-observance-of-the-philippine-government-employees-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Ft. McKinley trainees graduation ceremonies",
+    "content_url": "https://www.officialgazette.gov.ph/1955/12/19/speech-of-president-magsaysay-at-the-ft-mckinley-trainees-graduation-ceremonies/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-12-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-ft-mckinley-trainees-graduation-ceremonies",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the inauguration of the National Press Club building",
+    "content_url": "https://www.officialgazette.gov.ph/1955/12/30/speech-of-president-magsaysay-at-the-inauguration-of-the-national-press-club-building/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-12-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-inauguration-of-the-national-press-club-building",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the inaugural ceremonies of the National Office Building, Boy Scouts of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1955/12/30/speech-of-president-magsaysay-at-the-inaugural-ceremonies-of-the-national-office-building-boy-scouts-of-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1955-12-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-inaugural-ceremonies-of-the-national-office-building-boy-scouts-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the First Southeast Asia-Western Pacific Regional Meeting of the International Medical Women’s Association",
+    "content_url": "https://www.officialgazette.gov.ph/1956/01/28/speech-of-president-magsaysay-before-the-first-southeast-asia-western-pacific-regional-meeting-of-the-international-medical-womens-association/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-01-28",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-first-southeast-asia-western-pacific-regional-meeting-of-the-international-medical-womens-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay launching the 1956 Red Cross Fund Campaign",
+    "content_url": "https://www.officialgazette.gov.ph/1956/02/14/speech-of-president-magsaysay-launching-the-1956-red-cross-fund-campaign/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-02-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-launching-the-1956-red-cross-fund-campaign",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay before the delegates to the National Secondary Schools Press Conference",
+    "content_url": "https://www.officialgazette.gov.ph/1956/02/17/address-of-president-magsaysay-before-the-delegates-to-the-national-secondary-schools-press-conference/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-02-17",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-before-the-delegates-to-the-national-secondary-schools-press-conference",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Business Writers Association dinner",
+    "content_url": "https://www.officialgazette.gov.ph/1956/02/20/speech-of-president-magsaysay-at-the-business-writers-association-dinner/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-02-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-business-writers-association-dinner",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the launching of the First National Foreign Trade Convention",
+    "content_url": "https://www.officialgazette.gov.ph/1956/03/11/speech-of-president-magsaysay-at-the-launching-of-the-first-national-foreign-trade-convention/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-03-11",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-launching-of-the-first-national-foreign-trade-convention",
+    "category": "speech"
+  },
+  {
+    "title": "Commencement Address of President Magsaysay at the Adamson University",
+    "content_url": "https://www.officialgazette.gov.ph/1956/03/24/commencement-address-of-president-magsaysay-at-the-adamson-university/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-03-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "commencement-address-of-president-magsaysay-at-the-adamson-university",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Medical Convention",
+    "content_url": "https://www.officialgazette.gov.ph/1956/04/01/speech-of-president-magsaysay-at-the-medical-convention/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-04-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-medical-convention",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on Labor Day",
+    "content_url": "https://www.officialgazette.gov.ph/1956/05/01/speech-of-president-magsaysay-on-labor-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-05-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-labor-day",
+    "category": "speech"
+  },
+  {
+    "title": "Jaycee Speech of President Magsaysay",
+    "content_url": "https://www.officialgazette.gov.ph/1956/05/03/jaycee-speech-of-president-magsaysay/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-05-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "jaycee-speech-of-president-magsaysay",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Boy Scouts of the Philippines National Court of Honor",
+    "content_url": "https://www.officialgazette.gov.ph/1956/05/14/speech-of-president-magsaysay-at-the-boy-scouts-of-the-philippines-national-court-of-honor/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-05-14",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-boy-scouts-of-the-philippines-national-court-of-honor",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the launching of Community Chest Drive",
+    "content_url": "https://www.officialgazette.gov.ph/1956/06/01/speech-of-president-magsaysay-at-the-launching-of-community-chest-drive/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-06-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-launching-of-community-chest-drive",
+    "category": "speech"
+  },
+  {
+    "title": "Rizal Day Speech of President Magsaysay before the Lions Clubs",
+    "content_url": "https://www.officialgazette.gov.ph/1956/06/19/rizal-day-speech-of-president-magsaysay-before-the-lions-clubs/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-06-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "rizal-day-speech-of-president-magsaysay-before-the-lions-clubs",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay during the Loyalty Day",
+    "content_url": "https://www.officialgazette.gov.ph/1956/07/03/speech-of-president-magsaysay-during-the-loyalty-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-07-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-during-the-loyalty-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on Independence Day",
+    "content_url": "https://www.officialgazette.gov.ph/1956/07/04/speech-of-president-magsaysay-on-independence-day/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-07-04",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-independence-day",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Jaycees",
+    "content_url": "https://www.officialgazette.gov.ph/1956/07/08/speech-of-president-magsaysay-before-the-jaycees/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-07-08",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-jaycees",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the opening of the World Confederation of Organizations of the Teaching Profession Assembly",
+    "content_url": "https://www.officialgazette.gov.ph/1956/08/01/speech-of-president-magsaysay-at-the-opening-of-the-world-confederation-of-organizations-of-the-teaching-profession-assembly/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-08-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-opening-of-the-world-confederation-of-organizations-of-the-teaching-profession-assembly",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on launching the nationwide celebration of Medicine Week",
+    "content_url": "https://www.officialgazette.gov.ph/1956/09/15/speech-of-president-magsaysay-on-launching-the-nationwide-celebration-of-medicine-week/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-09-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-launching-the-nationwide-celebration-of-medicine-week",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the First National Convention of the Confederation of Citizens Labor Unions",
+    "content_url": "https://www.officialgazette.gov.ph/1956/09/16/speech-of-president-magsaysay-at-the-first-national-convention-of-the-confederation-of-citizens-labor-unions/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-09-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-first-national-convention-of-the-confederation-of-citizens-labor-unions",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay at the Presentation Rally sponsored by the Central Student Organization",
+    "content_url": "https://www.officialgazette.gov.ph/1956/09/25/address-of-president-magsaysay-at-the-presentation-rally-sponsored-by-the-central-student-organization/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-09-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-at-the-presentation-rally-sponsored-by-the-central-student-organization",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the commemoration ceremony of the Leyte landing",
+    "content_url": "https://www.officialgazette.gov.ph/1956/10/20/speech-of-president-magsaysay-at-the-commemoration-ceremony-of-the-leyte-landing/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-10-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-commemoration-ceremony-of-the-leyte-landing",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the occasion of the 1956 UN Flag Ceremony",
+    "content_url": "https://www.officialgazette.gov.ph/1956/10/24/speech-of-president-magsaysay-on-the-occasion-of-the-1956-un-flag-ceremony/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-10-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-occasion-of-the-1956-un-flag-ceremony",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Alumni Homecoming of the College Editors’ Guild",
+    "content_url": "https://www.officialgazette.gov.ph/1956/10/27/speech-of-president-magsaysay-at-the-alumni-homecoming-of-the-college-editors-guild/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-10-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-alumni-homecoming-of-the-college-editors-guild",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the American Film Exchange Employees Association and the Federation of Free Workers",
+    "content_url": "https://www.officialgazette.gov.ph/1956/10/30/speech-of-president-magsaysay-before-the-american-film-exchange-employees-association-and-the-federation-of-free-workers/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-10-30",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-american-film-exchange-employees-association-and-the-federation-of-free-workers",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Boy Scouts of the Philippines",
+    "content_url": "https://www.officialgazette.gov.ph/1956/10/31/speech-of-president-magsaysay-before-the-boy-scouts-of-the-philippines/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-10-31",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-boy-scouts-of-the-philippines",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the induction ceremonies of District 301, Lions International",
+    "content_url": "https://www.officialgazette.gov.ph/1956/11/03/speech-of-president-magsaysay-at-the-induction-ceremonies-of-district-301-lions-international/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-11-03",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-induction-ceremonies-of-district-301-lions-international",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Batangas Lawyers Association",
+    "content_url": "https://www.officialgazette.gov.ph/1956/11/24/speech-of-president-magsaysay-before-the-batangas-lawyers-association/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-11-24",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-batangas-lawyers-association",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at Silliman University",
+    "content_url": "https://www.officialgazette.gov.ph/1956/11/25/speech-of-president-magsaysay-at-silliman-university/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-11-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-silliman-university",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Manila Overseas Press Club (MOPC)",
+    "content_url": "https://www.officialgazette.gov.ph/1956/12/20/speech-of-president-magsaysay-at-the-manila-overseas-press-club-mopc/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-12-20",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-manila-overseas-press-club-mopc",
+    "category": "speech"
+  },
+  {
+    "title": "Address of President Magsaysay before the Manila Suburban Press Club",
+    "content_url": "https://www.officialgazette.gov.ph/1956/12/27/address-of-president-magsaysay-before-the-manila-suburban-press-club/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1956-12-27",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "address-of-president-magsaysay-before-the-manila-suburban-press-club",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the opening ceremonies of the International Students’ Festival",
+    "content_url": "https://www.officialgazette.gov.ph/1957/01/01/speech-of-president-magsaysay-at-the-opening-ceremonies-of-the-international-students-festival/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-01-01",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-opening-ceremonies-of-the-international-students-festival",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Philippine Chamber of Industries",
+    "content_url": "https://www.officialgazette.gov.ph/1957/01/15/speech-of-president-magsaysay-before-the-philippine-chamber-of-industries/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-01-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-philippine-chamber-of-industries",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the inauguration of the Ambuklao Hydroelectric Development Sub-Station",
+    "content_url": "https://www.officialgazette.gov.ph/1957/01/19/speech-of-president-magsaysay-at-the-inauguration-of-the-ambuklao-hydroelectric-development-sub-station/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-01-19",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-inauguration-of-the-ambuklao-hydroelectric-development-sub-station",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay upon receiving the Degree of Doctor of Laws, Honoris Causa",
+    "content_url": "https://www.officialgazette.gov.ph/1957/01/25/speech-of-president-magsaysay-upon-receiving-the-degree-of-doctor-of-laws-honoris-causa/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-01-25",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-upon-receiving-the-degree-of-doctor-of-laws-honoris-causa",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the B.W.A.P. Annual Awards",
+    "content_url": "https://www.officialgazette.gov.ph/1957/02/07/speech-of-president-magsaysay-at-the-b-w-a-p-annual-awards/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-02-07",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-b-w-a-p-annual-awards",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Fourth National Congress of the Sugar Industry",
+    "content_url": "https://www.officialgazette.gov.ph/1957/02/26/speech-of-president-magsaysay-before-the-fourth-national-congress-of-the-sugar-industry/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-02-26",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-fourth-national-congress-of-the-sugar-industry",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay on the 11th annual installation of officers and fellowship luncheon of the Pangasinan Medical Society",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/09/speech-of-president-magsaysay-on-the-11th-annual-installation-of-officers-and-fellowship-luncheon-of-the-pangasinan-medical-society/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-09",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-on-the-11th-annual-installation-of-officers-and-fellowship-luncheon-of-the-pangasinan-medical-society",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay before the Philippine Coconut Producers Federation Convention",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/15/speech-of-president-magsaysay-before-the-philippine-coconut-producers-federation-convention/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-before-the-philippine-coconut-producers-federation-convention",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Kick-off Ceremonies launching the Fund Drive for the Jose Rizal National Centennial  Commission, March 15, 1957",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/15/speech-of-president-magsaysay-at-the-kick-off-ceremonies-launching-the-fund-drive-for-the-jose-rizal-national-centennial-commission-march-15-1957/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-15",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-kick-off-ceremonies-launching-the-fund-drive-for-the-jose-rizal-national-centennial-commission-march-15-1957",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Commencement Exercises of the University of San Carlos",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/16/speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-san-carlos/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-san-carlos",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the induction of the officers of the Patria Recreation Club to combat juvenile delinquency",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/16/speech-of-president-magsaysay-at-the-induction-of-the-officers-of-the-patria-recreation-club-to-combat-juvenile-delinquency/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-induction-of-the-officers-of-the-patria-recreation-club-to-combat-juvenile-delinquency",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Commencement Exercises of the Southwestern Colleges",
+    "content_url": "https://www.officialgazette.gov.ph/1957/03/16/speech-of-president-magsaysay-at-the-commencement-exercises-of-the-southwestern-colleges/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-03-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-commencement-exercises-of-the-southwestern-colleges",
+    "category": "speech"
+  },
+  {
+    "title": "Speech of President Magsaysay at the Commencement Exercises of the University of San Carlos, March 16, 1957",
+    "content_url": "https://www.officialgazette.gov.ph/1957/05/16/speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-san-carlos-march-16-1957/",
+    "president_slug": "ramon-magsaysay",
+    "date": "1957-05-16",
+    "pdf_url": null,
+    "category_slug": "speeches",
+    "doc_id": "speech-of-president-magsaysay-at-the-commencement-exercises-of-the-university-of-san-carlos-march-16-1957",
+    "category": "speech"
+  }
+]

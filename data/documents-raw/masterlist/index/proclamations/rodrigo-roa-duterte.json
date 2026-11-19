@@ -7810,16 +7810,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 782 s. 2019",
-    "content_url": "https://www.officialgazette.gov.ph/2019/08/02/proclamation-no-782-s-2019/",
-    "president_slug": "rodrigo-roa-duterte",
-    "date": "2019-08-02",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2019/08aug/20190802-PROC-782-RRD.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-782-s-2019",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 780 s. 2019",
     "content_url": "https://www.officialgazette.gov.ph/2019/08/02/proclamation-no-780-s-2019/",
     "president_slug": "rodrigo-roa-duterte",
@@ -7827,6 +7817,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2019/08aug/20190802-PROC-780-RRD.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-780-s-2019",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 782 s. 2019",
+    "content_url": "https://www.officialgazette.gov.ph/2019/08/02/proclamation-no-782-s-2019/",
+    "president_slug": "rodrigo-roa-duterte",
+    "date": "2019-08-02",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2019/08aug/20190802-PROC-782-RRD.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-782-s-2019",
     "category": "proclamation"
   },
   {
@@ -10250,16 +10250,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 1025 s. 2020",
-    "content_url": "https://www.officialgazette.gov.ph/2020/10/01/proclamation-no-1025-s-2020/",
-    "president_slug": "rodrigo-roa-duterte",
-    "date": "2020-10-01",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2020/10oct/20201001-PROC-1025-RRD.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-1025-s-2020",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 1024 s. 2020",
     "content_url": "https://www.officialgazette.gov.ph/2020/10/01/proclamation-no-1024-s-2020/",
     "president_slug": "rodrigo-roa-duterte",
@@ -10267,6 +10257,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2020/10oct/20201001-PROC-1024-RRD.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-1024-s-2020",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1025 s. 2020",
+    "content_url": "https://www.officialgazette.gov.ph/2020/10/01/proclamation-no-1025-s-2020/",
+    "president_slug": "rodrigo-roa-duterte",
+    "date": "2020-10-01",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2020/10oct/20201001-PROC-1025-RRD.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1025-s-2020",
     "category": "proclamation"
   },
   {

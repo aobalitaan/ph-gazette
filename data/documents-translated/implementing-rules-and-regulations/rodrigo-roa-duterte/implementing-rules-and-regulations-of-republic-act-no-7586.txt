@@ -118,7 +118,7 @@ protected areas prescribed under the NIPAS Act, as amended.
 
 Section 3. Categories. — The following categories of protected areas are hereby established:
 
-Farar AA SA
+FaRAR AA SA
 
 Strict nature reserve;
 
@@ -355,7 +355,7 @@ wy)
 
 (kk)
 
-
+)
 
 protected area and administered by the respective Protected Area Management Boards
 (PAMB) created pursuant to this Act representing the seventy-five percent (75%) of
@@ -523,7 +523,8 @@ ef Hes Ps a Mine toninart ) locos Sur
 
 Province
 
-S NIQIOAbs
+S
+NIQIOAbs
 
 So
 
@@ -693,7 +694,8 @@ Page 10 of 55
 
 Lake Danao Natural Park Leyte 2,244.1
 
-60) Four Islands Protected Landscape and | Leyte Seascape
+60) Cuatro Islas Protected Landscape and | Leyte
+Seascape
 
 iN
 
@@ -758,7 +760,8 @@ Sibugay
 
 Mt. Kalatungan Range Natural Park 22,225.11
 
-Camiguin 2,203.39| Lanao del Norte 4,236.18)
+Camiguin 2,203.39|
+Lanao del Norte 4,236.18)
 
 S
 
@@ -843,13 +846,13 @@ Offices (PENROs) and Community Environment and Natural Resources Offices
 
 Page 12 of 55
 
-(c)
+(¢)
 
 (d)
 
-(e)
+(¢)
 
-
+”
 
 The DENR shall conduct a suitability assessment for cach of the proposed protected area.
 If found suitable for inclusion in the System according to the categories established in
@@ -1138,7 +1141,7 @@ Page 17 of 55
 
 a. Strict Protection Zones which shall consist of one (1) or more of the following:
 
-
+—~
 
 Natural vegetation or representative of any of the ecosystem types;
 
@@ -1259,7 +1262,8 @@ Gi) Call on any agency or instrumentality of the Government as well as academic
 
 Page 19 of 55
 
-institutions, NGOs and the private sector as may be necessary to accomplish the objectives and activities of the System;
+institutions, NGOs and the private sector as may be necessary to accomplish the
+objectives and activities of the System;
 
 (k) Submit an annual report to the President of the Republic of the Philippines and to
 Congress on the status of protected areas in the country;
@@ -1376,11 +1380,13 @@ women, pursuant to Republic Act No. 9710 or the ‘The Magna Carta of Women’. 
 
 A member of the PAMB may be removed for any of the following grounds:
 
+()
 
+(2)
 
-
-
-
+(3)
+(4)
+(5)
 
 More than three (3) consecutive unexcused absences from regular mectings of the
 management board;
@@ -1554,7 +1560,8 @@ d. The applicant must submit an affidavit declaring that he/she is not a member 
 political party and not affiliated within the fourth degree of consanguinity or affinity with
 the endorsing entity and other members of the PAMB.
 
-ec. The application may be in English, Filipino, or the predominant language or dialect in the region.
+ec. The application may be in English, Filipino, or the predominant language or dialect in the
+region.
 
 f. | The CENR Officer shall evaluate the applications based on the satisfaction of prescribed
 qualifications. Within fifteen (15) calendar days from the end of the application period,
@@ -1622,14 +1629,14 @@ powers and functions:
 
 (d)
 
-(c)
+(¢)
 
 p
 
 (g)
 (h)
 
-@
+@)
 
 (k)
 
@@ -1920,7 +1927,8 @@ participation of the ICCs/IPs representatives concerned;
 
 ce. Contribute to the harmonization of the PAMP and the ADSDPP;
 
-d. Assist in the planning and implementation of the community’s ADSDPP or CCP, as the case may be;
+d. Assist in the planning and implementation of the community’s ADSDPP or CCP, as the
+case may be;
 
 e. Foster intercultural understanding between the ICCs/IPs and the PAMB; and
 f. Perform functions as may be required by the ICCs/IPs, or directed by the PAMB, and
@@ -1959,7 +1967,9 @@ standard practices and/or guidelines to ensure that the gathering of data and in
 exploration of energy resources shall be undertaken in a manner that will protect biodiversity
 and ecosystem services.
 
-Rule 14.2 Exploration for energy resources may be allowed in protected areas only when all the following conditions are satisfied, without prejudice to such other requirements as may be determined by the DENR:
+Rule 14.2 Exploration for energy resources may be allowed in protected areas only when all
+the following conditions are satisfied, without prejudice to such other requirements as may be
+determined by the DENR:
 
 a. Exploration shall not be conducted in protected areas categorized as Strict Nature
 Reserves and Natural Parks, and in Strict Protection Zones;
@@ -1970,7 +1980,9 @@ c. The exploration is carried out with the least damage to surrounding areas; an
 d. A PAMB clearance is issued in accordance with Section 12 of the NIPAS Act, as
 amended, and Rules 12.1 to 12.2 hereof.
 
-Rule 14.3 Renewable energy projects may be allowed within the protected area under the following conditions, without prejudice to such other requirements as may be determined by the DENR:
+Rule 14.3 Renewable energy projects may be allowed within the protected area under the
+following conditions, without prejudice to such other requirements as may be determined by
+the DENR:
 
 a. The project is located outside Strict Protection Zones;
 
@@ -2261,7 +2273,7 @@ Page 37 of 55
 
 (@)
 
-(c)
+(¢)
 
 (g)
 
@@ -2271,7 +2283,7 @@ Page 37 of 55
 (m)
 (n)
 
-(o)
+(0)
 
 (p)
 (Q)
@@ -2453,7 +2465,8 @@ immediate exit or departure of the offender from the protected area.
 There is an emergency when there is a demonstrated impending threat to human life and
 biodiversity, or to species found within the ecosystem of the protected area.
 
-In any case, the DENR Secretary may call on other enforcement agencies to assist in executing the order to vacate.
+In any case, the DENR Secretary may call on other enforcement agencies to assist in executing
+the order to vacate.
 
 Rule 21.2 The violations of the foregoing shall result to the following consequences:
 
@@ -2756,7 +2769,7 @@ The DENR Regional Director shall submit the inventory of facilities with corresp
 descriptions and an assessment report containing the appropriate recommendations to the DENR
 Secretary through the BMB.
 
-The Protected Area Management Board (PAMB), with the assistance of the Department of Environment and Natural Resources (DENR), may impose conditions for the continuous operation
+The PAMB, with the assistance of the DENR, may impose conditions for the continuous operation
 
 of a facility found to be detrimental to the protected area until its eventual relocation. If the conditions
 are violated, the owner of the facility shall be made liable pursuant to Sec. 21 (d) hereof.
@@ -3011,7 +3024,8 @@ reply within fifteen (15) working days within which to comply or cease the act c
 violation. Any disagreement arising from the foregoing shall, at first instance, be resolved
 through the PAMB’s conflict resolution mechanism.
 
-Rule 25.16 The Strategic Area Protection Agreement (SAPA) may be revoked or cancelled by the DENR based on any of the following grounds:
+Rule 25.16 The SAPA may be revoked or cancelled by the DENR based on any of the
+following grounds:
 
 Page 51 of 55
 
@@ -3033,7 +3047,8 @@ justifiable cause;
 f. Bankruptcy or closure of operations; and
 g. When national interest requires the summary cancellation, as determined by the DENR.
 
-Rule 25.17 The SAPA may be summarily suspended by the DENR for any of the following grounds:
+Rule 25.17 The SAPA may be summarily suspended by the DENR for any of the following
+grounds:
 
 a. Failure to pay the annual Development Fee within six (6) months from the date it is due
 until such fees and applicable surcharges are paid in full; or
@@ -3084,7 +3099,7 @@ LGU concerned in the formulation of the CLUP and other local plans and in the en
 The concerned LGU official shall be held administratively and criminally liable for failure to enforce
 and/or implement the provisions of this Act. (n)
 
-Rule 26.1 Any Local Government Unit (LGU) with territory inside a protected area may:
+Rule 26.1 Any LGU with territory inside a protected area may:
 
 a. Participate in the management of the protected area through representation in the PAMB;
 

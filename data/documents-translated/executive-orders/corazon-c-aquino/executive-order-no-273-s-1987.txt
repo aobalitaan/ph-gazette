@@ -172,7 +172,7 @@ and
 
 “A VAT-registered person who is, at the same time, engaged in activities exempted under Section 103 (a), (b), (c), and (f) of this Code may register any or all of his exempt activities within the same period provided for in this paragraph.
 
-In any case, the Commissioner may, for administrative reasons, deny any application for registration.
+“In any case, the Commissioner may, for administrative reasons, deny any application for registration.
 
 “For purposes of this Title, any person registered in accordance with the provisions of this section shall be referred to as a ‘VAT-registered person’. Each VAT-registered person shall be assigned only one registration number.
 
@@ -276,7 +276,7 @@ SEC. 6. Section 162 of the National Internal Revenue Code is hereby renumbered a
 
 “(2) Person retiring from business . – Any person retiring from a business subject to percentage tax shall notify the nearest internal revenue officer, file his return and pay the tax due thereon within twenty days after closing his business.
 
-(3) Exceptions. – The Commissioner may, by regulations prescribe:
+“(3) Exceptions . – The Commissioner may, by regulations prescribe:
 
 “(A) The time for filing the return at intervals other than the time prescribed in the preceding paragraphs for a particular class or classes of taxpayers after considering such factors as volume of sales, financial condition, adequate measures of security; and such other relevant information required to be submitted under the pertinent provisions of this Code; and
 

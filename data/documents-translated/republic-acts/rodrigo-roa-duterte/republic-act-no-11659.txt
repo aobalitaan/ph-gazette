@@ -339,9 +339,9 @@ corporations, partnerships, associations or joint stock
 companies that are constituted and organized under
 the laws of the Philippines.
 
+«,
 
-
-
+XXX
 
 “©) To fix and determine the fair and reasonable
 individual or joint rates, tolls, charges, classifications,
@@ -394,7 +394,7 @@ otherwise known as the ‘BOT Law’, as amended; and
 (2) regulations promulgated by these Administrative
 Agencies to deregulate rates.
 
-
+«.
 
 x XX
 
@@ -468,9 +468,9 @@ Commission. The Commission may also assess
 against any public service reasonable costs with
 reference to such investigation.
 
+“
 
-
-
+XXX
 
 “(g) To require any public service to keep its
 books, records, and accounts so as to afford an
@@ -507,7 +507,7 @@ amended, is hereby further amended to read as follows:
 “SEC. 19. Unlawful acts. — It shall be
 unlawful for any public service:
 
-
+«.
 
 KKK
 
@@ -588,7 +588,7 @@ emergency, as may be certified by such Administrative
 Agency, requiring the installation, construction or
 maintenance of units, facilities or equipment.
 
-
+«,
 
 XXX
 
@@ -598,7 +598,7 @@ Commission, after hearing, to approve any such issue
 when satisfied that the same is to be made in
 accordance with law.
 
-“
+“.
 
 XXX
 
@@ -628,7 +628,7 @@ encumbrance or lease will be required only for
 properties of the public service that are used and
 useful in the delivery of the required public service.
 
-«
+«,
 
 x xX xX
 
@@ -896,7 +896,8 @@ acquisition transaction, or any investment in a public service
 that effectively results in the grant of control, whether direct or
 indirect, to a foreigner or a foreign corporation.
 
-The Philippine Competition Commission (PCC) may be consulted on all matters relating to mergers and acquisitions.
+The Philippine Competition Commission (PCC) may be
+consulted on all matters relating to mergers and acquisitions.
 
 The NEDA shall promulgate rules and regulations to
 implement the provisions of this section.
@@ -1046,9 +1047,9 @@ thereof.
 SEc. 33. Separability Clause. — Should any portion or
 provision of this Act be declared unconstitutional, the remainder
 
-This appears to be nonsensical text and cannot be accurately translated. It may be a transcription error.
+rena le Ala hy pn one antennae,
 
-This appears to be nonsensical text and cannot be accurately translated. It may be a transcription error.
+awe een a tts ale
 
 of this Act or any provision not affected thereby shall remain in
 force and effect.
@@ -1116,4 +1117,5 @@ oO
 
 OF THE PHILIPPINES
 
-I, ATTY. CONCEPCION, Director
+i ATTY, CONCTPCION Pe
+DIREC

@@ -2350,16 +2350,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 237, s. 2023",
-    "content_url": "https://www.officialgazette.gov.ph/2023/05/30/proclamation-no-237-s-2023/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2023-05-30",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2023/05may/20230530-PROC-237-FRM.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-237-s-2023",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 238, s. 2023",
     "content_url": "https://www.officialgazette.gov.ph/2023/05/30/proclamation-no-238-s-2023/",
     "president_slug": "ferdinand-r-marcos",
@@ -2367,6 +2357,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2023/05may/20230530-PROC-238-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-238-s-2023",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 237, s. 2023",
+    "content_url": "https://www.officialgazette.gov.ph/2023/05/30/proclamation-no-237-s-2023/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2023-05-30",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2023/05may/20230530-PROC-237-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-237-s-2023",
     "category": "proclamation"
   },
   {
@@ -5270,16 +5270,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 529, s. 2024",
-    "content_url": "https://www.officialgazette.gov.ph/2024/05/02/proclamation-no-529-s-2024/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2024-05-02",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2024/05may/20240502-PROC-529-FRM.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-529-s-2024",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 530, s. 2024",
     "content_url": "https://www.officialgazette.gov.ph/2024/05/02/proclamation-no-530-s-2024/",
     "president_slug": "ferdinand-r-marcos",
@@ -5287,6 +5277,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2024/05may/20240502-PROC-530-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-530-s-2024",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 529, s. 2024",
+    "content_url": "https://www.officialgazette.gov.ph/2024/05/02/proclamation-no-529-s-2024/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2024-05-02",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2024/05may/20240502-PROC-529-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-529-s-2024",
     "category": "proclamation"
   },
   {
@@ -7790,16 +7790,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 781, s. 2025",
-    "content_url": "https://www.officialgazette.gov.ph/2025/01/23/proclamation-no-781-s-2025/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2025-01-23",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/01jan/20250123-PROC-781-FRM.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-781-s-2025",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 780, s. 2025",
     "content_url": "https://www.officialgazette.gov.ph/2025/01/23/proclamation-no-780-s-2025/",
     "president_slug": "ferdinand-r-marcos",
@@ -7807,6 +7797,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/01jan/20250123-PROC-780-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-780-s-2025",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 781, s. 2025",
+    "content_url": "https://www.officialgazette.gov.ph/2025/01/23/proclamation-no-781-s-2025/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2025-01-23",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/01jan/20250123-PROC-781-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-781-s-2025",
     "category": "proclamation"
   },
   {
@@ -9090,16 +9090,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 911, s. 2025",
-    "content_url": "https://www.officialgazette.gov.ph/2025/05/21/proclamation-no-911-s-2025/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2025-05-21",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/05may/20250521-PROC-911-FRM.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-911-s-2025",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 910, s. 2025",
     "content_url": "https://www.officialgazette.gov.ph/2025/05/21/proclamation-no-910-s-2025/",
     "president_slug": "ferdinand-r-marcos",
@@ -9107,6 +9097,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/05may/20250521-PROC-910-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-910-s-2025",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 911, s. 2025",
+    "content_url": "https://www.officialgazette.gov.ph/2025/05/21/proclamation-no-911-s-2025/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2025-05-21",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/05may/20250521-PROC-911-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-911-s-2025",
     "category": "proclamation"
   },
   {
@@ -9580,16 +9580,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 960, s. 2025",
-    "content_url": "https://www.officialgazette.gov.ph/2025/07/08/proclamation-no-960-s-2025/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2025-07-08",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/07jul/20250708-PROC-960-FRM.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-960-s-2025",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 959, s. 2025",
     "content_url": "https://www.officialgazette.gov.ph/2025/07/08/proclamation-no-959-s-2025/",
     "president_slug": "ferdinand-r-marcos",
@@ -9597,6 +9587,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/07jul/20250708-PROC-959-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-959-s-2025",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 960, s. 2025",
+    "content_url": "https://www.officialgazette.gov.ph/2025/07/08/proclamation-no-960-s-2025/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2025-07-08",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/07jul/20250708-PROC-960-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-960-s-2025",
     "category": "proclamation"
   },
   {
@@ -10920,16 +10920,6 @@
     "category": "proclamation"
   },
   {
-    "title": "Proclamation No. 1098, s. 2025",
-    "content_url": "https://www.officialgazette.gov.ph/2025/11/26/proclamation-no-1098-s-2025/",
-    "president_slug": "ferdinand-r-marcos",
-    "date": "2025-11-26",
-    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/11nov/20251126-PROC-1098-FRM-1.pdf",
-    "category_slug": "proclamations",
-    "doc_id": "proclamation-no-1098-s-2025",
-    "category": "proclamation"
-  },
-  {
     "title": "Proclamation No. 1099, s. 2025",
     "content_url": "https://www.officialgazette.gov.ph/2025/11/26/proclamation-no-1099-s-2025/",
     "president_slug": "ferdinand-r-marcos",
@@ -10937,6 +10927,16 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/11nov/20251126-PROC-1099-FRM-1.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-1099-s-2025",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1098, s. 2025",
+    "content_url": "https://www.officialgazette.gov.ph/2025/11/26/proclamation-no-1098-s-2025/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2025-11-26",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2025/11nov/20251126-PROC-1098-FRM-1.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1098-s-2025",
     "category": "proclamation"
   },
   {
@@ -11637,6 +11637,116 @@
     "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1169-FRM.pdf",
     "category_slug": "proclamations",
     "doc_id": "proclamation-no-1169-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1170, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1170-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1170-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1170-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1171, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1171-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1171-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1171-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1172, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1172-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1172-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1172-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1173, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1173-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1173-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1173-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1174, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1174-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1174-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1174-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1175, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1175-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1175-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1175-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1176, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1176-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1176-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1176-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1177, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1177-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1177-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1177-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1178, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1178-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1178-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1178-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1179, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/02/20/proclamation-no-1179-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-02-20",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/02feb/20260220-PROC-1179-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1179-s-2026",
+    "category": "proclamation"
+  },
+  {
+    "title": "Proclamation No. 1180, s. 2026",
+    "content_url": "https://www.officialgazette.gov.ph/2026/03/04/proclamation-no-1180-s-2026/",
+    "president_slug": "ferdinand-r-marcos",
+    "date": "2026-03-04",
+    "pdf_url": "https://www.officialgazette.gov.ph/downloads/2026/03mar/20260304-PROC-1180-FRM.pdf",
+    "category_slug": "proclamations",
+    "doc_id": "proclamation-no-1180-s-2026",
     "category": "proclamation"
   }
 ]

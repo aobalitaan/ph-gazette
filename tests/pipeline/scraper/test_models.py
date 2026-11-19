@@ -1,5 +1,3 @@
-"""Tests for scraper data models."""
-
 import json
 from datetime import date, datetime
 
@@ -124,11 +122,6 @@ class TestSONACorpusSummary:
         )
         assert summary.total == 85
         assert summary.date_range[0].year == 1935
-
-
-# ---------------------------------------------------------------------------
-# Masterlist models
-# ---------------------------------------------------------------------------
 
 
 class TestMasterlistConstants:
@@ -320,7 +313,7 @@ class TestMasterlistDocumentPdfFields:
         assert restored.pdf_processed_at == doc.pdf_processed_at
 
     def test_backward_compat_old_manifest_without_pdf_fields(self):
-        """Old manifests without pdf_status/pdf_error/pdf_processed_at should load fine."""
+        # pre-PDF-status manifests must still load
         old_data = {
             "doc_id": "old-doc",
             "category": "proclamation",

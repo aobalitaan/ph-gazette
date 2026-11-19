@@ -186,7 +186,7 @@ b ) Safety Measures for Hazardous Materials — Fire safety measures shall be re
 
 (15 ) explosive dusts and vapors; and
 
-(16) agriculture, forest, marine or mineral products which may undergo spontaneous combustion;
+(16 ) agriculture, forest, marine or mineral products which may undergo spontaneous combustion;
 
 (17 ) any other substance with potential to cause harm to persons, property or the environment because of one or more of the following: a) The chemical properties of the substance; b) The physical properties of the substance; c) The biological properties of the substance. Without limiting the definition of hazardous material, all dangerous goods, combustible liquids and chemicals are hazardous materials.
 

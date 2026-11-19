@@ -1,6 +1,6 @@
 Republic of the Philippines Congress of the Philippines Metro Manila
 
-AN ACT AMENDING THE COOPERATIVE CODE OF THE PHILIPPINES, TO BE KNOWN AS THE “PHILIPPINE COOPERATIVE CODE OF 2008”
+AN ACT AMENDING THE COOPERATIVE CODE OF THE PHILIPPINES TO BE KNOWN AS THE “PHILIPPINE COOPERATIVE CODE OF 2008”
 
 SECTION 1. Articles 1, 2, 3, 4 and 5 of Chapter I on General Concepts and Principles of Republic Act No. 6938, otherwise known as the “Cooperative Code of the Philippines” are hereby amended to read as follows:
 
@@ -76,7 +76,7 @@ CHAPTER II
 
 ORGANIZATION AND REGISTRATION
 
-ART. 6. Purposes of Cooperatives. – A cooperative may be organized and registered for any or all of the following purposes:
+“ART. 6. Purposes of Cooperatives . – A cooperative may be organized and registered for any or all of the following purposes:
 
 “(1) To encourage thrift and savings mobilization among the members;
 
@@ -148,7 +148,7 @@ ART. 6. Purposes of Cooperatives. – A cooperative may be organized and registe
 
 “ART. 10. Organizing a Primary Cooperative . – Fifteen (15) or more natural persons who are Filipino citizens, of legal age, having a common bond of interest and are actually residing or working in the intended area of operation, may organize a primary cooperative under this Code: Provided, That a prospective member of a primary cooperative must have completed a Pre-Membership Education Seminar (PMES).
 
-Any newly organized primary cooperative may be registered as a multipurpose cooperative only after compliance with the minimum requirements for multipurpose cooperatives to be set by the Authority. A single-purpose cooperative may transform into a multipurpose cooperative or may create subsidiaries only after at least two (2) years of operations.
+“Any newly organized primary cooperative may be registered as multipurpose cooperative only after compliance with the minimum requirements for multipurpose cooperatives to be set by the Authority. A single-purpose cooperative may transform into a multipurpose or may create subsidiaries only after at least two (2) years of operations.
 
 “ART. 11. Economic Survey . – Every group of individuals or cooperatives intending to form a cooperative under this Code shall submit to the Authority a general statement describing, among others the structure and purposes of the proposed cooperative: Provided, That the structure and actual staffing pattern of the cooperative shall include a bookkeeper: Provided, further , That they shall not be allowed to operate without the necessary personnel and shall also submit an economic survey, indicating therein the area of operation, the size of membership, and other pertinent data in a format provided by the Authority.
 
@@ -176,7 +176,7 @@ Any newly organized primary cooperative may be registered as a multipurpose coop
 
 “(h) The amount of its share capital, the names and residences of its contributors and a statement of whether the cooperative is primary, secondary or tertiary in accordance with Article 23 hereof.
 
-(3) Ang mga artikulo ng kooperasyon ay maaari ding maglaman ng anumang iba pang probisyon na hindi salungat sa Kodigong ito o anumang kaugnay na batas.
+“(3) The articles of cooperation may also contain any other provisions not inconsistent with this Code or any related law.
 
 “(4) Four (4) copies each of the proposed articles of cooperation, bylaws, and the general statement required under Article 11 of this Code shall be submitted to the Authority.
 
@@ -202,7 +202,7 @@ Any newly organized primary cooperative may be registered as a multipurpose coop
 
 “(g) The general conduct of the affairs of the cooperative, including the powers and duties of the general assembly, the board of directors, committees and the officers, and their qualifications and disqualifications;
 
-(h) Ang paraan kung paano maaaring makalikom ng kapital at ang mga layunin kung saan ito maaaring gamitin;
+“(h) The manner in which the capital may be raised and the purposes for which it can be utilized;
 
 “(i) The mode of custody and of investment of net surplus;
 
@@ -248,7 +248,7 @@ Any newly organized primary cooperative may be registered as a multipurpose coop
 
 “(5) The surviving or the consolidated cooperative shall be responsible for all the liabilities and obligations of each of the constituent cooperatives in the same manner as if such surviving or consolidated cooperative had itself incurred such liabilities or obligations. Any claim, action or proceeding pending by or against any such constituent cooperatives may be prosecuted by or against the surviving or consolidated cooperative, as the case may be. Neither the rights of creditors nor any lien upon the property of any of such constituent cooperatives shall be impaired by such merger or consolidation.
 
-ART. 23. Types and Categories of Cooperatives. – (1) Types of Cooperatives – Cooperatives may fall under any of the following types:
+“ART. 23. Types and Categories of Cooperatives . – (1) Types of Cooperatives – Cooperatives may fall under any of the following types:
 
 “(a) Credit Cooperative – is one that promotes and undertakes savings and lending services among its members. It generates a common pool of funds in order to provide financial assistance and other related financial services to its members for productive and provident purposes;
 
@@ -320,7 +320,7 @@ ART. 23. Types and Categories of Cooperatives. – (1) Types of Cooperatives –
 
 “(g) To perform such other functions as may be necessary to attain its objectives.
 
-A federation of cooperatives may be registered by completing the formalities for cooperative registration.
+“A federation of cooperatives may be registered by carrying out the formalities for registration of a cooperative.
 
 “Registered cooperatives may organize a federation according to the type of business activity engaged in by the cooperatives.
 
@@ -342,7 +342,7 @@ A federation of cooperatives may be registered by completing the formalities for
 
 “(h) To do and perform such other non-business activities as may be necessary to attain the foregoing objectives.
 
-Cooperative unions may assist the national and local governments in the latter’s development activities within their respective jurisdictions.
+“Cooperative unions may assist the national and local governments in the latter’s development activities in their respective jurisdictions.”
 
 SEC. 3. Articles 26, 27, 28, 29, 30, 31 and 32 of Chapter III on Membership of the same Code are hereby renumbered and amended to read, as follows:
 
@@ -412,7 +412,7 @@ ADMINISTRATION
 
 “(4) The Authority may call a special meeting of the cooperative for the purpose of reporting to the members the result of any examination, or other investigation of the cooperative affairs; and
 
-(5) Ang abiso ng anumang pagpupulong ay maaaring kaligtaan, tahasan o ipinahihiwatig, ng kahit sinong miyembro.
+“(5) Notice of any meeting may be waived, expressly or impliedly, by any member.
 
 “ART. 35. Quorum . – A quorum shall consist of at least twenty-five per centum (25%) of all the members entitled to vote. In the case of cooperative banks, the quorum shall be as provided in Article 99 of this Code. In the case of electric cooperatives registered under this Code, a quorum, unless otherwise provided in the bylaws, shall consist of five per centum (5%) of all the members entitled to vote.
 
@@ -512,7 +512,7 @@ RESPONSIBILITIES, RIGHTS AND PRIVILEGES OF COOPERATIVES
 
 “(g) Financial statements; and
 
-(h) Such other documents as may be prescribed by laws or the bylaws.
+“(h) Such other documents as may be prescribed by laws or the bylaws.
 
 “(2) The accountant or the bookkeeper of the cooperative shall be responsible for the maintenance and safekeeping of the books and records of account of the cooperative in accordance with generally accepted accounting practices. He shall also be responsible for the production of the same at the time of audit or inspection.
 
@@ -718,7 +718,7 @@ Where a member of a cooperative dies, his heir shall be entitled to the shares o
 
 “ART. 77. Fines . – The bylaws of a cooperative may prescribe a fine on unpaid subscribed share capital: Provided, That such fine is fair and reasonable under the circumstances.
 
-ART. 78. Investment of Capital. – A cooperative may invest its capital in any of the following:
+“ART. 78. Investment of Capital . – A cooperative may invest its capital in any of the following:
 
 “(a) In shares or debentures or securities of any other cooperative;
 
@@ -1222,7 +1222,7 @@ FINAL PROVISIONS
 
 “(1) The use of the word ‘cooperative’ by any person or of persons or organizations, unless duly registered as a cooperative under this Code except as provided for under Article 130 hereof. In case of violation, the individual or individuals concerned, or in the case of an organization, its officers and directors shall, upon conviction, each suffer the penalty of imprisonment of not less than two (2) years nor more than five (5) years and a fine not exceeding Twenty thousand pesos (P20,000.00) or both at the discretion of the court;
 
-The Authority may, on its own initiative, initiate complaints for violations of this provision.
+“The Authority may motu proprio, initiate complaints for violations of this provision.
 
 “(2) Any person who willfully attempts in any manner to evade or defeat tax in violation of the provisions of Articles 60 and 61 of this Code shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine of not less than Thirty thousand pesos (P30,000.00) but not more than One hundred thousand pesos (P100,000.00) and suffer imprisonment of not less than two (2) years but not more than four (4) years: Provided, That the conviction or acquittal obtained under this article shall not be a bar to the filing of a civil suit for the collection of taxes;
 

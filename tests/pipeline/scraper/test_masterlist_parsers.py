@@ -1,5 +1,3 @@
-"""Tests for masterlist HTML parsers."""
-
 from datetime import date
 from pathlib import Path
 

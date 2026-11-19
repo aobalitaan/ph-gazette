@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 154, s. 1969",
   "content_url": "https://www.officialgazette.gov.ph/1969/12/11/memorandum-order-no-154-s-1969/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1969/12dec/19691211-MO-0154-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 154, December 11, 1969 ]\nREQUIRING THE PREPARATION OF CERTAIN PAPERS FOR THE SIGNATURE OF THE EXECUTIVE SECRETARY.\n1aшphi1\nEffective immediately, actions on the following matters shall be prepared for the signature of the Executive Secretary:\n1. Matters coming from the General Auditing Office for dispositive action;\n2. Appeals from decisions of the said Office.\nBy authority of the President:\n(Sgd.)\nERNESTO M. MACEDA\nExecutive Secretary\nManila, December 11, 1969\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 90,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:49:37.674635Z"
+  "scraped_at": "2026-02-23T11:49:37.674635Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:49.272601Z"
 }

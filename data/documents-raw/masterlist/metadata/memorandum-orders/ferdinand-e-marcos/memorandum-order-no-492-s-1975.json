@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 492, s. 1975",
   "content_url": "https://www.officialgazette.gov.ph/1975/02/24/memorandum-order-no-492-s-1975/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1975/02feb/19750224-MO-0492-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ MEMORANDUM ORDER NO. 492, February 24, 1975 ]\nMemorandum Order No. 435, dated June 27, 1974 is hereby further amended to include Atty. Roque Sorioso, Director, Legal, National Economic Development Authority, as member of the term to coordinate and direct all activities involved in the procurement of the necessary financing for the two (2) 600 MW nuclear power plants.\n1aшphi1\nBy authority of the President:\n(SGD.)\nALEJANDRO MELCHOR\nExecutive Secretary\nManila, February 24, 1975\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 91,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:57:44.050215Z"
+  "scraped_at": "2026-02-23T11:57:44.050215Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:15.235947Z"
 }

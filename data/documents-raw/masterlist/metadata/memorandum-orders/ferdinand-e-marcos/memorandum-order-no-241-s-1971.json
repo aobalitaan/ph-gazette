@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 241, s. 1971",
   "content_url": "https://www.officialgazette.gov.ph/1971/07/13/memorandum-order-no-241-s-1971/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1971/07jul/19710713-MO-0241-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 241, July 13, 1971 ]\nDESIGNATING THE EDP DIRECTOR OF THE NATIONAL COMPUTER CENTER (NCC)\nPursuant to Section 3 of Executive Order No. 322, series of 1971, establishing the National Computer Center (NCC), Mr. JUAN M. SANCHEZ is hereby designated as EDP Director, charged with the direct administration and operational management of the National Computer Center.\n1aшphi1\n(Sgd.)\nALEJANDRO MELCHOR\nExecutive Secretary\nManila, July 13, 1971\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 86,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:51:47.675184Z"
+  "scraped_at": "2026-02-23T11:51:47.675184Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:55.179607Z"
 }

@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 363, s. 1991",
   "content_url": "https://www.officialgazette.gov.ph/1991/05/14/memorandum-order-no-363-s-1991/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1991/05may/19910514-MO-0363-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 363, May 14, 1991 ]\nAPPROVING THE 1991 INVESTMENT PRIORITIES PLAN\nPursuant to Article 29 of the Omnibus Investment Code, the attached 1991 Investment Priorities Plan is hereby approved.\nThis Memorandum Order shall take effect upon its publication as required under Article 31 of the Omnibus Investments Code.\n1aшphi1\nManila, May 14, 1991\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 73,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:42:52.775917Z"
+  "scraped_at": "2026-02-23T11:42:52.775917Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:14.163488Z"
 }

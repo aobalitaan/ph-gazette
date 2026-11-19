@@ -13,5 +13,8 @@
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:28:56.819918Z"
+  "scraped_at": "2026-02-23T11:28:56.819918Z",
+  "pdf_status": "failed",
+  "pdf_error": "no text from text layer or OCR",
+  "pdf_processed_at": "2026-03-05T14:01:07.421062Z"
 }

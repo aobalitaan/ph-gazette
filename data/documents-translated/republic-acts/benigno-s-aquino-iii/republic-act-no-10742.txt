@@ -36,15 +36,9 @@ CHAPTER II
 
 THE KATIPUNAN NG KABATAAN AND THE SANGGUNIANG KABATAAN
 
-Ang Katipunan ng Kabataan, commonly known as the youth council, is a sectorial organization established by law to represent the youth in the barangay level. It serves as a training ground for future leaders and a vehicle for youth participation in local governance. The Katipunan is composed of all youth aged fifteen (15) to thirty (30) years old residing in a particular barangay.
-
-The Sangguniang Kabataan (SK) is the legislative council of the youth. It is the body that enacts ordinances and resolutions concerning the youth in the barangay. The SK is composed of elected officials, namely the SK Chairperson and seven (7) SK Councilors, all of whom must be registered voters and residents of the barangay. They must also be between the ages of eighteen (18) and twenty-four (24) years old on election day.
-
-Both the Katipunan ng Kabataan and the Sangguniang Kabataan play vital roles in nation-building. They empower the youth to become responsible citizens and contribute to the development of their communities. Through their programs and initiatives, they address issues affecting the youth, such as education, health, and employment. They also promote civic engagement and volunteerism among the youth. The SK, with its allocated funds, implements projects designed to uplift the lives of the youth and improve their well-being. This includes sports development, livelihood training, and disaster preparedness programs. The Katipunan, as the base of the SK, provides the broader representation and ensures wider youth involvement in planning and implementation.
-
 SEC. 4. Katipunan ng Kabataan. – There shall be in every barangay a Katipunan ng Kabataan to be composed of all citizens of the Philippines residing in the barangay for at least six (6) months, who are at least fifteen (15) but not more than thirty (30) years of age, and who are duly registered in the list of the Commission on Elections (COMELEC) and/or the records of the Sangguniang Kabataan secretary.
 
-SEC. 5. Powers and Functions of the Youth Council. – The Youth Council shall:
+SEC. 5. Powers and Functions of the Katipunan ng Kabataan. – The Katipunan ng Kabatan shall:
 
 (a) Elect the Sangguniang Kabataan chairperson and members; and
 
@@ -116,7 +110,7 @@ SEC. 14. Sangguniang Kabataan Secretary. – The Sangguniang Kabataan secretary 
 
 (c) Cause the posting, in the barangay bulletin board and in at least three (3) conspicuous places within the jurisdiction of the barangay, and if possible including the use of traditional and nontraditional media, and make available for any person with legal purpose, all resolutions approved by the Sangguniang Kabataan, the annual and end-of-term reports of the programs and projects implemented by the Sangguniang Kabataan, the Comprehensive Barangay Youth Development Plan and Annual Barangay Youth Investment Program and the dissemination of the same to concerned offices, institutions and individuals; and
 
-(d) To perform such other duties and discharge such other functions as the Sangguniang Kabataan chairperson may prescribe or direct.
+(d) Perform such other duties and discharge such other functions as the Sangguniang Kabataan chairperson may prescribe or direct.
 
 SEC. 15. Sangguniang Kabataan Treasurer . – The Sangguniang Kabataan treasurer shall:
 
@@ -130,7 +124,7 @@ SEC. 15. Sangguniang Kabataan Treasurer . – The Sangguniang Kabataan treasurer
 
 (e) Submit to the Sangguniang Kabataan and to the Sangguniang Barangay certified and detailed statements of actual income and expenditures at the end of every quarter and the posting of the same in the barangay bulletin board and in at least three (3) conspicuous places within the jurisdiction of the barangay, and if possible including the use of traditional and nontraditional media;
 
-(f) Submit a report during the regular Katipunan ng Kabataan assembly on the financial status of the Sangguniang Kabataan; and
+(f) Render report during the regular Katipunan ng Kabataan assembly on the financial status of the Sangguniang Kabataan; and
 
 (g) Perform such other duties and discharge such other functions as the Sangguniang Kabataan chairperson may prescribe or direct.
 
@@ -186,13 +180,13 @@ SEC. 20. Sangguniang Kabataan Funds. – The Sangguniang Kabataan funds shall be
 
 All Sangguniang Kabataan funds derived from any source shall be stated in its financial records which shall be kept by the Sangguniang Kabataan treasurer, copy furnished the sangguniang barangay, in simplified manner as may be prescribed by the Commission on Audit (COA). All Sangguniang Kabataan funds shall be subject to all existing accounting and auditing laws, rules and regulations.
 
-SEC. 21. Federation of Sangguniang Kabataan. – (a) There shall be an organization of the Federation of Youth Councils to be known as follows:
+SEC. 21. Pederasyon ng Sangguniang Kabataan. – (a) There shall be an organization of the Pederasyon ng mga Sangguniang Kabataan to be known as follows:
 
-(1) In municipalities, the Municipal Federation of Sangguniang Kabataan which shall be composed of the Sangguniang Kabataan chairpersons of barangays in the municipality;
+(1) In municipalities, Pambayang Pederasyon ng mga Sangguniang Kabataan which shall be composed of the Sangguniang Kabataan chairpersons of barangays in the municipality;
 
-(2) In cities, the City Federation of Sangguniang Kabataan which shall be composed of the Sangguniang Kabataan chairpersons of barangays in the city; and
+(2) In cities, the Panlungsod na Pederasyon ng mga Sangguniang Kabataan which shall be composed of the Sangguniang Kabataan chairpersons of barangays in the city; and
 
-(3) In provinces, the Provincial Federation of Sangguniang Kabataan which shall be composed of the convenors of the Municipal and City Federations of Sangguniang Kabataan.
+(3) In provinces, Panlalawigang Pederasyon ng mga Sangguniang Kabataan which shall be composed of the convenors of the Pambayan and Panlungsod na Pederasyon ng mga Sangguniang Kabataan.
 
 (b) The Pederasyon ng njiga Sangguniang Kabataan shall, at all levels, elect from among themselves a president, a vice president, a 1 treasurer, a secretary and such other officers as they may deem necessary. The concerned Local Government Operations Officer, in coordination with the election officer, shall facilitate the conduct of the elections which shall be held within fifteen (15) days from the Sangguniang Kabataan elections in case of the Pambayan and Panlungsod na Pederasyon, and within thirty (30) days in case of the Panlalawigang Pederasyon.
 
@@ -234,9 +228,9 @@ SEC. 29. Training Fund – A training fund with an initial amount of fifty milli
 
 CHAPTER VI
 
-Youth Week
+LINGGO NG KABATAAN
 
-SEC. 30. Observance of Youth Week. –
+SEC. 30. Observance of Linggo ng Kabataan. –
 
 (a) Every barangay, municipality, city and province shall conduct an annual activity to be known as the Linggo ng Kabataan on the week where the 12 th of August falls to coincide with the International Youth Day. The Sangguniang Kabataan, in the case of barangay, and the respective LYDC in cooperation with the Pederasyon ng mga Sangguniang Kabataan, in the case of municipality, city and province, shall take the lead in this observance.
 

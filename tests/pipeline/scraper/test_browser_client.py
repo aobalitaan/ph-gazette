@@ -1,5 +1,3 @@
-"""Tests for the curl_cffi browser client."""
-
 import time
 from unittest.mock import AsyncMock, MagicMock, patch
 
@@ -19,7 +17,7 @@ def _make_mock_response(
     content: bytes = b"<html>Hello</html>",
     headers: dict | None = None,
 ):
-    """Build a mock curl_cffi Response."""
+    """curl_cffi Response stand-in."""
     resp = MagicMock()
     resp.status_code = status_code
     resp.text = text
@@ -60,11 +58,11 @@ class TestCurlCffiClient:
                 with pytest.raises(BrowserFetchError) as exc_info:
                     await client.fetch("https://example.com/blocked")
             assert exc_info.value.status == 403
-            # 4xx (non-429) must NOT retry
+            # 4xx other than 429 must not retry
             assert mock_session.get.call_count == 1
 
     async def test_429_uses_wait_cycle(self):
-        """429 responses cycle through _429_WAIT_CYCLE sleeps until success."""
+        # cycles through _429_WAIT_CYCLE until a non-429 lands
         with patch("backend.pipeline.scraper.browser_client.AsyncSession") as mock_cls:
             mock_session = AsyncMock()
             mock_session.get = AsyncMock(
@@ -92,7 +90,7 @@ class TestCurlCffiClient:
             assert sleep_durations == list(_429_WAIT_CYCLE[:3])
 
     async def test_429_cycle_wraps_around(self):
-        """After exhausting the cycle, 429 retries wrap back to the start."""
+        # past the end of the cycle, retries wrap back to index 0
         num_429s = len(_429_WAIT_CYCLE) + 2
         responses = [_make_mock_response(status_code=429) for _ in range(num_429s)]
         responses.append(_make_mock_response(status_code=200, text="<html>OK</html>"))
@@ -117,7 +115,7 @@ class TestCurlCffiClient:
             assert sleep_durations == expected
 
     async def test_429_respects_retry_after_header(self):
-        """429 with Retry-After header uses header value instead of cycle."""
+        # Retry-After value preempts the cycle when present
         with patch("backend.pipeline.scraper.browser_client.AsyncSession") as mock_cls:
             mock_session = AsyncMock()
             mock_session.get = AsyncMock(
@@ -126,7 +124,7 @@ class TestCurlCffiClient:
                         status_code=429, headers={"retry-after": "90"}
                     ),
                     _make_mock_response(
-                        status_code=429  # no header → fallback to cycle
+                        status_code=429  # no header → cycle fallback
                     ),
                     _make_mock_response(status_code=200, text="<html>OK</html>"),
                 ]
@@ -177,7 +175,7 @@ class TestCurlCffiClient:
                 await client.fetch("https://example.com/a")
                 await client.fetch("https://example.com/b")
                 elapsed = time.monotonic() - start
-            # Second request should wait at least delay * 0.5 = 0.15s
+            # second request waits at least delay * 0.5 (= 0.15s, jittered)
             assert elapsed >= 0.10
 
     async def test_session_closed_on_exit(self):

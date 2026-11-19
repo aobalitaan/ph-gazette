@@ -186,71 +186,71 @@ S. 78 deg. 10’E.,
 
 4.34 m. to point 9;
 
-S. 64 degrees 11’E.
+S. 64 deg. 11’E.,
 
 4.75 m. to point 10;
 
-S. 59 degrees 38’E.
+S. 59 deg. 38’E.,
 
 4.39 m. to point 11;
 
-S. 49 degrees 41’E.
+S. 49 deg. 41’E.,
 
 21.78 m. to point 12;
 
-S. 74 degrees 25’E.
+S. 74 deg. 25’E.,
 
 14.10 m. to point 13;
 
-S. 73 degrees 49’E.
+S. 73 deg. 49’E.,
 
 19.94 m. to point 14;
 
-S. 60 degrees 36’E.
+S. 60 deg. 36’E.,
 
 5.74 m. to point 15;
 
-S. 14 degrees 56’W.
+S. 14 deg. 56’W.,
 
 46.77 m. to point 16;
 
-N. 78 degrees 21’W.
+N. 78 deg. 21’W.,
 
 12.95 m. to point 17;
 
-N. 80 degrees 10’W.
+N. 80 deg. 10’W.,
 
 12.96 m. to point 18;
 
-N. 82 degrees 53’W.
+N. 82 deg. 53’W.,
 
 13.01 m. to point 19;
 
-N. 86 degrees 17’W.
+N. 86 deg. 17’W.,
 
 13.76 m. to point 20;
 
-N. 89 degrees 57’W.
+N. 89 deg. 57’W.,
 
 13.76 m. to point 21;
 
-S. 86 degrees 23’W.
+S. 86 deg. 23’W.,
 
 13.76 m. to point 22;
 
-S. 82 degrees 43’W.
+S. 82 deg. 43’W.,
 
 13.76 m. to point 23;
 
-S. 79 deg. 03’W.;
+S. 79 deg. 03’W.,
 
 6.87 m. to point 24;
 
-S. 85 deg. 23’W.;
+S. 85 deg. 23’W.,
 
 8.81 m. to point 25;
 
-N. 39 deg. 39’W.;
+N. 39 deg. 39’W.,
 
 23.35 m. to the point of
 
@@ -266,43 +266,43 @@ Bounded on the SE., along line 1-2 by Road Lot 31, (General Luna Street), on the
 
 Beginning at a point marked ‘1’ on plan, being S. 63 deg. 08’E., 2033.23 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 27 deg. 10’W.;
+S. 27 deg. 10’W.,
 
 31.55 m. to point 2;
 
-N. 59 deg. 02’W.;
+N. 59 deg. 02’W.,
 
 22.51 m. to point 3;
 
-N. 25 deg. 48’E.;
+N. 25 deg. 48’E.,
 
 0.67 m. to point 4;
 
-N. 60 deg. 03’W.;
+N. 60 deg. 03’W.,
 
 5.70 m. to point 5;
 
-N. 60 deg. 02’W.;
+N. 60 deg. 02’W.,
 
 6.33 m. to point 6;
 
-N. 27 deg. 46’E.;
+N. 27 deg. 46’E.,
 
 2.55 m. to point 7;
 
-N. 60 deg. 49’W.;
+N. 60 deg. 49’W.,
 
 7.92 m. to point 8;
 
-N. 36 deg. 11’E.;
+N. 36 deg. 11’E.,
 
 26.07 m. to point 9;
 
-S. 61 deg. 54’E.;
+S. 61 deg. 54’E.,
 
 16.98 m. to point 10;
 
-S. 64 deg. 12’E.;
+S. 64 deg. 12’E.,
 
 21.32 m. to the point of
 
@@ -316,27 +316,27 @@ Bounded on the SE., along line 1-2 by Lot 50, (Alley), on the SW., along line 2 
 
 Beginning at a point marked ‘1’ on plan, being S. 58 deg. 07’E., 2245.50 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 09 degrees 59 minutes West.
+S. 09 deg. 59’W.,
 
 18.81 m. to point 2;
 
-N. 81 degrees 43 minutes West.
+N. 81 deg. 43’W.,
 
 9.16 m. to point 3;
 
-N. 79 degrees 27 minutes West.
+N. 79 deg. 27’W.,
 
 3.44 m. to point 4;
 
-N. 80 degrees 16 minutes West.
+N. 80 deg. 16’W.,
 
 5.85 m. to point 5;
 
-N. 07 degrees 47 minutes East.
+N. 07 deg. 47’E.,
 
 13.35 m. to point 6;
 
-N. 83 degrees 09 minutes East.
+N. 83 deg. 09’E.,
 
 19.80 m. to the point of
 
@@ -352,35 +352,35 @@ Bounded on the NE., along line 1-2 by Road Lot 97, (23rd Avenue), on the SE., al
 
 Beginning at a point marked ‘1’ on plan, being S. 61 deg. 02’E., 3641.99 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-N. 86 degrees 25 minutes East.
+N. 86 deg. 25’E.,
 
 23.86 m. to point 2;
 
-S. 41 degrees 06 minutes West.
+S. 41 deg. 06’W.,
 
 6.54 m. to point 3;
 
-S. 05 degrees 52 minutes West.
+S. 05 deg. 52’W.,
 
 8.37 m. to point 4;
 
-S. 10 degrees 14 minutes West.
+S. 10 deg. 14’W.,
 
 2.70 m. to point 5;
 
-S. 05 degrees 23 minutes West.
+S. 05 deg. 23’W.,
 
 14.81 m. to point 6;
 
-N. 85 degrees 22 minutes West.
+N. 85 deg. 22’W.,
 
 15.08 m. to point 7;
 
-N. 07 degrees 36 minutes East.
+N. 07 deg. 36’E.,
 
 16.63 m. to point 8;
 
-N. 07 degrees 41’ East.
+N. 07 deg. 41’E.,
 
 10.30 m. to the point of
 
@@ -394,23 +394,23 @@ Bounded on the NW., along line 1-2 by Lot 8, Block 27, on the NE., along lines 2
 
 Beginning at a point marked ‘1’ on plan, being S. 70 deg. 47’E., 3608.06 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-N. 36 degrees 09’ East.
+N. 36 deg. 09’E.,
 
 43.52 m. to point 2;
 
-S. 54 degrees 07’ East.
+S. 54 deg. 07’E.,
 
 16.02 m. to point 3;
 
-S. 07 degrees 15’ East.
+S. 07 deg. 15’E.,
 
 2.14 m. to point 4;
 
-S. 33 degrees 59’ West.
+S. 33 deg. 59’W.,
 
 41.88 m. to point 5;
 
-N. 54 degrees 25’ West.
+N. 54 deg. 25’W.,
 
 19.07 m. to the point of
 
@@ -424,19 +424,19 @@ Bounded on the NE., along line 1-2 by Lot 2, Block 94, on the SE., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 60 deg. 56’E., 3505.36 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 75 degrees 47’ East.
+S. 75 deg. 47’E.,
 
 17.02 m. to point 2;
 
-S. 10 degrees 55’ West.
+S. 10 deg. 55’W.,
 
 18.05 m. to point 3;
 
-N. 75 degrees 03’ West.
+N. 75 deg. 03’W.,
 
 16.74 m. to point 4;
 
-N. 09 degrees 58’ East.
+N. 09 deg. 58’E.,
 
 17.85 m. to the point of
 
@@ -450,19 +450,19 @@ Bounded on the NE., along line 1-2 by Lot 7, Block 27, on the SE., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 70 deg. 47’E., 3608.06 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 54 degrees 25’ East.
+S. 54 deg. 25’E.,
 
 19.07 m. to point 2;
 
-S. 33 degrees 07’ West.
+S. 33 deg. 07’W.,
 
 17.79 m. to point 3;
 
-N. 53 degrees 25’ West.
+N. 53 deg. 25’W.,
 
 20.16 m. to point 4;
 
-N. 36 degrees 39’ East.
+N. 36 deg. 39’E.,
 
 17.42 m. to the point of
 
@@ -476,19 +476,19 @@ Bounded on the NE., along line 1-2 by Road Lot 114, (20th Avenue), on the SE., a
 
 Beginning at a point marked ‘1’ on plan, being S. 63 deg. 00’E., 3392.44 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 70 degrees 32 minutes East.
+S. 70 deg. 32’E.,
 
 17.32 m. to point 2;
 
-S. 18 degrees 26 minutes West.
+S. 18 deg. 26’W.,
 
 6.10 m. to point 3;
 
-N. 68 degrees 44 minutes West.
+N. 68 deg. 44’W.,
 
 17.81 m. to point 4;
 
-N. 23 degrees 20 minutes East.
+N. 23 deg. 20’E.,
 
 5.55 m. to the point of
 
@@ -502,19 +502,19 @@ Bounded on the SW., along line 1-2 by Lot 5, Block 97, on the NW., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 62 deg. 49’E., 3411.64 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-N. 74 degrees 23 minutes West.
+N. 74 deg. 23’W.,
 
 17.38 m. to point 2;
 
-N. 15 degrees 46 minutes East.
+N. 15 deg. 46’E.,
 
 9.16 m. to point 3;
 
-S. 68 degrees 44 minutes East.
+S. 68 deg. 44’E.,
 
 17.81 m. to point 4;
 
-S. 18 degrees 27 minutes West.
+S. 18 deg. 27’W.,
 
 7.42 m. to the point of
 
@@ -528,23 +528,23 @@ Bounded on the SE., along line 1 to 4 by Lot 1-A, of the subdivision plan (Radia
 
 Beginning at a point marked ‘1’ on plan, being S. 67 deg. 46’E., 3659.55 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 58 degrees 53 minutes East.
+S. 58 deg. 53’E.,
 
-0.86 meters to point 2;
+0.86 m. to point 2;
 
-S. 36 degrees 49 minutes East.
+S. 36 deg. 49’E.,
 
 6.41 m. to point 3;
 
-S. 14 degrees 46 minutes East.
+S. 14 deg. 46’E.,
 
 2.17 m. to point 4;
 
-N. 57 degrees 33 minutes West.
+N. 57 deg. 33’W.,
 
-7.96 meters to point 5;
+7.96 m. to point 5;
 
-N. 25 degrees 02 minutes East.
+N. 25 deg. 02’E.,
 
 3.75 m. to the point of
 
@@ -558,19 +558,19 @@ Bounded on the SE., along line 1-2 by Lot 3, Block 97, on the SW., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 62 deg. 49’E., 3411.64 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 20 degrees 43 minutes West.
+S. 20 deg. 43’W.,
 
 16.20 m. to point 2;
 
-N. 68 degrees 13 minutes West.
+N. 68 deg. 13’W.,
 
 18.76 m. to point 3;
 
-S. 26 degrees 29 minutes East.
+S. 26 deg. 29’E.,
 
 14.38 m. to point 4;
 
-N. 74 degrees 23 minutes East.
+N. 74 deg. 23’E.,
 
 17.38 m. to the point of
 
@@ -584,31 +584,31 @@ Bounded on the NE., along line 1-2 by Road Lot 23, Psd-13-004986, on the SE., al
 
 Beginning at a point marked ‘1’ on plan, being S. 68 deg. 37’E., 3454.33 m. from BLLM # 1, MCadm. 571-D, Makati Cadastral Mapping, thence
 
-S. 62 degrees 31 minutes East.
+S. 62 deg. 31’E.,
 
 5.77 m. to point 2;
 
-S. 13 degrees 35 minutes East.
+S. 13 deg. 35’E.,
 
 5.35 m. to point 3;
 
-S. 02 degrees 56 minutes East.
+S. 02 deg. 56’E.,
 
 4.72 m. to point 4;
 
-S. 19 degrees 08 minutes West.
+S. 19 deg. 08’W.,
 
-3.25 meters to point 5;
+3.25 m. to point 5;
 
-N. 60 degrees 15 minutes East.
+N. 60 deg. 15’E.,
 
 5.41 m. to point 6;
 
-N. 60 degrees 14 minutes West.
+N. 60 deg. 14’W.,
 
 6.49 m. to point 7;
 
-N. 28 degrees 23 minutes East.
+N. 28 deg. 23’E.,
 
 11.07 m. to the point of
 
@@ -622,23 +622,23 @@ Bounded on the SW., along line 1-2 by Lot 28977, on the NW., along line 2-3 by L
 
 Beginning at a point marked ‘1’ on plan, being S. 70 deg. 15’E., 3604.68 m. from BLLM # 1-A, MCad-571-D, Makati Cadastre, thence
 
-N. 55 degrees 17 minutes West.
+N. 55 deg. 17’W.,
 
 5.55 m. to pt. 2;
 
-N. 36 degrees 08 minutes East.
+N. 36 deg. 08’E.,
 
 12.52 m. to pt. 3;
 
-S. 56 degrees 03 minutes East.
+S. 56 deg. 03’E.,
 
 20.19 m. to pt. 4;
 
-S. 33 degrees 17 minutes West
+S. 33 deg. 17’W.,
 
 15.40 m. to pt. 5;
 
-N. 45 degrees 38 minutes West
+N. 45 deg. 38’W.,
 
 15.56 m. to the point of
 
@@ -654,19 +654,19 @@ Bounded on the N.W., Along line 1-2 by Road Lot 62, on the N.E., along line 2-3 
 
 Beginning at a point marked ‘1’ on plan, being S. 73 deg. 20’E., 3006.49 m. from BLLM No. 1, Mcadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 36 degrees 38 minutes East
+N. 36 deg. 38’E.,
 
 15.35 m. to point 2;
 
-S. 53 degrees 41 minutes West
+S. 53 deg. 41’W.,
 
 8.00 m. to point 3;
 
-S. 31 degrees 57 minutes West
+S. 31 deg. 57’W.,
 
 15.25 m. to point 4;
 
-N. 54 degrees 36 minutes West
+N. 54 deg. 36’W.,
 
 9.25 m. to point of
 
@@ -680,31 +680,31 @@ Bounded on the N.E., along line 1-2 by Road Lot 33, (J.P. Rizal Extension), on t
 
 Beginning at a point marked ‘1’ on plan, being S. 79 deg. 56’E., 2896.39 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 62 degrees 59 minutes East
+S. 62 deg. 59’E.,
 
 32.81 m. to point 2;
 
-S. 26 degrees 54 minutes West
+S. 26 deg. 54’W.,
 
 19.78 m. to point 3;
 
-N. 58 degrees 09 minutes West
+N. 58 deg. 09’W.,
 
 11.54 m. to point 4;
 
-N. 65 degrees 01 minute West
+N. 65 deg. 01’W.,
 
 6.80 m. to point 5;
 
-N. 63 degrees 27 minutes West
+N. 63 deg. 27’W.,
 
 13.96 m. to point 6;
 
-N. 25 degrees 15 minutes East
+N. 25 deg. 15’E.,
 
 9.33 m. to point 7;
 
-N. 25 degrees 13 minutes East
+N. 25 deg. 13’E.,
 
 9.84 m. to point of
 
@@ -718,55 +718,55 @@ Bounded on the N.W., along line 1-2 by Lot 5, along lines 2 to 4 by Lot 4, on th
 
 Beginning at a point marked ‘1’ on plan, being S. 74 deg. 52’E., 3389.43 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 13 degrees 28 minutes East
+N. 13 deg. 28’E.,
 
 15.50 m. to point 2;
 
-N. 13 degrees 22 minutes East
+N. 13 deg. 22’E.,
 
 8.22 m. to point 3;
 
-N. 13 degrees 09 minutes East.
+N. 13 deg. 09’E.,
 
 15.09 m. to point 4;
 
-S. 72 degrees 12 minutes East.
+S. 72 deg. 12’E.,
 
-7.75 meters to point 5.
+7.75 m. to point 5;
 
-N. 01 degree 18 minutes East.
+N. 01 deg. 18’E.,
 
 3.07 m. to point 6;
 
-S. 75 degrees 37 minutes East.
+S. 75 deg. 37’E.,
 
 6.93 m. to point 7;
 
-S. 13 degrees 13 minutes West.
+S. 13 deg. 13’W.,
 
 2.19 m. to point 8;
 
-S. 78 degrees 27 minutes East.
+S. 78 deg. 27’E.,
 
 4.30 m. to point 9;
 
-S. 04 degree 13 minutes West.
+S. 04 deg. 13’W.,
 
 3.40 m. to point 10;
 
-S. 78 degrees 09 minutes West.
+S. 78 deg. 09’W.,
 
 0.83 m. to point 11;
 
-S. 07 degree 20 minutes West.
+S. 07 deg. 20’W.,
 
 9.87 m. to point 12;
 
-S. 12 degrees 18 minutes West.
+S. 12 deg. 18’W.,
 
 28.60 m. to point 13;
 
-N. 69 degrees 22 minutes West.
+N. 69 deg. 22’W.,
 
 21.39 m. to point of
 
@@ -780,19 +780,19 @@ Bounded on the N.W., along line 1-2 by Lot 66, on the N.E., along line 2-3 by Lo
 
 Beginning at a point marked ‘1’ on plan, being S. 74 deg. 14’E., 3379.54 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 34 degrees 47 minutes East.
+N. 34 deg. 47’E.,
 
 32.68 m. to point 2;
 
-N. 69 degrees 21 minutes East.
+N. 69 deg. 21’E.,
 
 38.81 m. to point 3;
 
-S. 21 degree 52 minutes East.
+S. 21 deg. 52’E.,
 
 40.84 m. to point 4;
 
-N. 58 degrees 06 minutes West.
+N. 58 deg. 06’W.,
 
 46.83 m. to point of
 
@@ -806,27 +806,27 @@ Bounded on the S.W., along lines 1 to 3 by Lot 1-A, Block 75, of the subdivision
 
 Beginning at a point marked ‘1’ on plan, being S. 79 deg. 30’E., 3026.87 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 56 degrees 15 minutes West.
+N. 56 deg. 15’W.,
 
 7.86 m. to point 2;
 
-N. 61 degrees 46 minutes West.
+N. 61 deg. 46’W.,
 
 4.38 m. to point 3;
 
-N. 52 degrees 22 minutes East.
+N. 52 deg. 22’E.,
 
 25.08 m. to point 4;
 
-N. 37 degrees 13 minutes East.
+N. 37 deg. 13’E.,
 
-28.25 meters to point 5;
+28.25 m. to point 5;
 
-S. 51 degrees 53 minutes East.
+S. 51 deg. 53’E.,
 
 37.42 m. to point 6;
 
-S. 37 degrees 35 minutes East.
+S. 37 deg. 35’E.,
 
 26.69 m. to the point of
 
@@ -840,75 +840,75 @@ Bounded on the N.E., along lines 1 to 13 by Pasig River, on the S.E., along line
 
 Beginning at a point marked ‘1’ on plan, being S. 83 deg. 44’E., 2452.12 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 70 degrees 22 minutes East.
+S. 70 deg. 22’E.,
 
 86.43 m. to point 2;
 
-S. 79 degrees 50 minutes East.
+S. 79 deg. 50’E.,
 
 30.12 m. to point 3;
 
-S. 81 degrees 15 minutes East.
+S. 81 deg. 15’E.,
 
 29.99 m. to point 4;
 
-S. 81 degrees 07 minutes East.
+S. 81 deg. 07’E.,
 
-30.10 meters to point 5;
+30.10 m. to point 5;
 
-S. 78 degrees 41 minutes East.
+S. 78 deg. 41’E.,
 
 4.69 m. to point 6;
 
-S. 77 degrees 49 minutes East.
+S. 77 deg. 49’E.,
 
 7.96 m. to point 7;
 
-S. 72 degrees 03 minutes West
+S. 72 deg. 03’W.,
 
 7.28 m. to point 8;
 
-S. 71 degrees 24 minutes East
+S. 71 deg. 24’E.,
 
 76.61 m. to point 9;
 
-S. 64 degrees 26 minutes East
+S. 64 deg. 26’E.,
 
 7.03 m. to point 10;
 
-S. 71 degrees 24 minutes East
+S. 71 deg. 24’E.,
 
 9.54 m. to point 11;
 
-S. 64 degrees 26 minutes East
+S. 64 deg. 26’E.,
 
 6.69 m. to point 12;
 
-S. 62 degrees 03 minutes East
+S. 62 deg. 03’E.,
 
 60.80 m. to point 13;
 
-S. 50 degrees 53 minutes East
+S. 50 deg. 53’E.,
 
 16.69 m. to point 14;
 
-S. 29 degrees 42 minutes West
+S. 29 deg. 42’W.,
 
 60.80 m. to point 15;
 
-N. 65 degrees 07 minutes West
+N. 65 deg. 07’W.,
 
 235.40 m. to point 16;
 
-N. 82 degrees 40 minutes West
+N. 82 deg. 40’W.,
 
-201.25 meters to point 17
+201.25 m. to point 17;
 
-N. 14 degrees 31 minutes East
+N. 14 deg. 31’E.,
 
 70.40 m. to point 18;
 
-N. 14 degrees 31 minutes East
+N. 14 deg. 31’E.,
 
 8.80 m. to the point of
 
@@ -922,27 +922,27 @@ Bounded on the S.W., along lines 1-2 by Lot 78, (Road Lot), along lines 2 to 4 b
 
 Beginning at a point marked ‘1’ on plan, being S. 74 deg. 14’E., 3379.54 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 56 degrees 47 minutes West
+N. 56 deg. 47’W.,
 
 3.71 m. to point 2;
 
-N. 32 degrees 38 minutes East
+N. 32 deg. 38’E.,
 
 3.63 m. to point 3;
 
-N. 58 degrees 55 minutes West.
+N. 58 deg. 55’W.,
 
 15.72 m. to point 4;
 
-N. 32 degrees 56 minutes East.
+N. 32 deg. 56’E.,
 
 25.35 m. to point 5;
 
-S. 68 degrees 21 minutes East.
+S. 68 deg. 21’E.,
 
 20.89 m. to point 6;
 
-S. 34 degrees 47 minutes West.
+S. 34 deg. 47’W.,
 
 32.68 m. to the point of
 
@@ -994,35 +994,35 @@ Bounded on the NE., along lines 1 to 3 by Lot 40142, of the consolidation subdiv
 
 Beginning at a point marked ‘1’ on plan, being S. 80 deg. 51’E., 2940.49 m. from BLLM # 1-A, MCad-571-D, Makati Cadastre, thence:
 
-S. 45 degrees 27 minutes East.
+S. 45 deg. 27’E.,
 
 26.74 m. to pt. 2;
 
-S. 49 degrees 38 minutes East.
+S. 49 deg. 38’E.,
 
 21.91 m. to pt. 3;
 
-S. 37 degrees 25 minutes West.
+S. 37 deg. 25’W.,
 
 23.84 m. to pt. 4;
 
-N. 63 degrees 00 minutes West.
+N. 63 deg. 00’W.,
 
 7.32 m. to pt. 5;
 
-N. 63 degrees 00 minutes West.
+N. 63 deg. 00’W.,
 
 16.19 m. to pt. 6;
 
-N. 63 degrees 03 minutes West.
+N. 63 deg. 03’W.,
 
 22.41 m. to pt. 7;
 
-N. 63 degrees 00 minutes West.
+N. 63 deg. 00’W.,
 
 0.49 m. to pt. 8;
 
-N. 33 degrees 06 minutes East.
+N. 33 deg. 06’E.,
 
 36.81 m. to the point of
 
@@ -1038,23 +1038,23 @@ Bounded on the N.E., along lines 1-2 by Lot 5, on the S.E., along line 2-3 by Lo
 
 Beginning at a point marked ‘1’ on plan, being S. 48 deg. 06’E., 3982.23 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 75 degrees 03 minutes East.
+S. 75 deg. 03’E.,
 
 11.04 m. to point 2;
 
-S. 15 degrees 15 minutes West.
+S. 15 deg. 15’W.,
 
 14.75 m. to point 3;
 
-N. 75 degrees 49 minutes West.
+N. 75 deg. 49’W.,
 
 17.27 m. to point 4;
 
-N. 15 degrees 08 minutes East.
+N. 15 deg. 08’E.,
 
-14.59 meters to point 5.
+14.59 m. to point 5;
 
-S. 78 degrees 40 minutes East.
+S. 78 deg. 40’E.,
 
 6.26 m. to the point of
 
@@ -1068,23 +1068,23 @@ Bounded on the N.W., along line 1-2 by Lot 12, on the N.E., along line 2 to 4 by
 
 Beginning at a point marked ‘1’ on plan, being S. 54 deg. 28’E., 3509.83 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 26 degrees 38 minutes East.
+N. 26 deg. 38’E.,
 
 16.95 m. to point 2;
 
-S. 67 degrees 23 minutes East.
+S. 67 deg. 23’E.,
 
 1.30 m. to point 3;
 
-S. 64 degrees 01 minute East.
+S. 64 deg. 01’E.,
 
 16.04 m. to point 4;
 
-S. 27 degrees 38 minutes West.
+S. 27 deg. 38’W.,
 
 16.25 m. to point 5;
 
-N. 66 degrees 37 minutes West.
+N. 66 deg. 37’W.,
 
 17.08 m. to the point of
 
@@ -1098,23 +1098,23 @@ Bounded on the N.W., along line 1-2 by Lot 268, (Cariaga Street), on the N.E., a
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 43’E., 3771.89 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 75 degrees 33 minutes East.
+N. 75 deg. 33’E.,
 
 8.29 m. to point 2;
 
-S. 22 degrees 03 minutes East.
+S. 22 deg. 03’E.,
 
 31.38 m. to point 3;
 
-S. 71 degrees 35 minutes West.
+S. 71 deg. 35’W.,
 
 13.74 m. to point 4;
 
-N. 12 degrees 11 minutes West.
+N. 12 deg. 11’W.,
 
 16.25 m. to point 5;
 
-N. 66 degrees 37 minutes West.
+N. 66 deg. 37’W.,
 
 32.08 m. to the point of
 
@@ -1128,23 +1128,23 @@ Bounded on the S.E., along line 1 to 3 by Lot 4, on the S.W., along line 3-4 by 
 
 Beginning at a point marked ‘1’ on plan, being S. 49 deg. 25’E., 3749.65 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 22 degrees 59 minutes West.
+S. 22 deg. 59’W.,
 
 6.09 m. to point 2;
 
-S. 18 degrees 37 minutes West.
+S. 18 deg. 37’W.,
 
-10.12 meters to point 3.
+10.12 m. to point 3;
 
-N. 68 degrees 29 minutes West.
+N. 68 deg. 29’W.,
 
 2.95 m. to point 4;
 
-N. 06 degrees 40 minutes East.
+N. 06 deg. 40’E.,
 
-16.19 meters to point 5.
+16.19 m. to point 5;
 
-N. 73 degrees 09 minutes East.
+N. 73 deg. 09’E.,
 
 6.76 m. to the point of
 
@@ -1158,27 +1158,27 @@ Bounded on the N.E., along line 1-2 by Lot 5, on the S.E., along line 2-3 by Lot
 
 Beginning at a point marked ‘1’ on plan, being S. 52 deg. 31’E., 3505.97 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 74 degrees 53 minutes East.
+S. 74 deg. 53’E.,
 
 1.04 m. to point 2;
 
-S. 04 degrees 52 minutes West.
+S. 04 deg. 52’W.,
 
 9.54 m. to point 3;
 
-S. 89 degrees 38 minutes West.
+S. 89 deg. 38’W.,
 
 15.94 m. to point 4;
 
-N. 56 degrees 40 minutes East.
+N. 56 deg. 40’E.,
 
 3.52 m. to point 5;
 
-N. 14 degrees 28 minutes East.
+N. 14 deg. 28’E.,
 
-13.05 meters to point 6.
+13.05 m. to point 6;
 
-S. 72 degrees 58 minutes East.
+S. 72 deg. 58’E.,
 
 16.12 m. to the point of
 
@@ -1192,23 +1192,23 @@ Bounded on the S.W., along line 1-2 by Lot 2, on Block 34, on the N.W., along li
 
 Beginning at a point marked ‘1’ on plan, being S. 47 deg. 21’E., 4100.85 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 74 degrees 27 minutes West.
+N. 74 deg. 27’W.,
 
 18.21 m. to point 2;
 
-N. 06 degrees 09 minutes East.
+N. 06 deg. 09’E.,
 
 14.46 m. to point 3;
 
-S. 76 degrees 32’ East.
+S. 76 deg. 32’E.,
 
 34.81 m. to point 4;
 
-S. 07 degrees 20’ West.
+S. 07 deg. 20’W.,
 
-13.49 meters to point 5;
+13.49 m. to point 5;
 
-N. 75 degrees 25’ West.
+N. 75 deg. 25’W.,
 
 16.24 m. to the point of
 
@@ -1222,27 +1222,27 @@ Bounded on the N.E., along line 1-2 by Lot 21, along line 2-3 by Lot 25, on the 
 
 Beginning at a point marked ‘1’ on plan, being S. 43 deg. 32’E., 3560.62 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 83 degrees 10’ East.
+S. 83 deg. 10’E.,
 
 9.33 m. to point 2;
 
-S. 07 degrees 56’ East.
+S. 07 deg. 56’E.,
 
 8.41 m. to point 3;
 
-S. 80 degrees 03’ West.
+S. 80 deg. 03’W.,
 
 22.35 m. to point 4;
 
-N. 09 degrees 24’ West.
+N. 09 deg. 24’W.,
 
 3.18 m. to point 5;
 
-N. 02 degrees 44’ West.
+N. 02 deg. 44’W.,
 
 12.18 m. to point 6;
 
-S. 81 degrees 00’ West.
+S. 81 deg. 00’W.,
 
 2.85 m. to the point of
 
@@ -1256,27 +1256,27 @@ Bounded on the S.E., along line 1-2 by Lot 8, Block 188, on the S.W., along line
 
 Beginning at a point marked ‘1’ on plan, being S. 48 deg. 24’E., 3630.92 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 14 degrees 54’ West.
+S. 14 deg. 54’W.,
 
 13.14 m. to point 2;
 
-N. 53 degrees 30’ East.
+N. 53 deg. 30’E.,
 
 5.88 m. to point 3;
 
-N. 76 degrees 05’ West.
+N. 76 deg. 05’W.,
 
 14.89 m. to point 4;
 
-N. 14 degrees 31’ East.
+N. 14 deg. 31’E.,
 
-26.19 meters to point 5;
+26.19 m. to point 5;
 
-S. 76 degrees 12 minutes East.
+S. 76 deg. 12’E.,
 
 21.47 m. to point 6;
 
-S. 18 degrees 22 minutes West.
+S. 18 deg. 22’W.,
 
 15.39 m. to the point of
 
@@ -1290,23 +1290,23 @@ Bounded on the S.E., along line 1-2 by Lot 3, Block 21, on the S.W., along line 
 
 Beginning at a point marked ‘1’ on plan, being S. 53 deg. 40’E., 3895.14 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 17 degrees 17 minutes West.
+S. 17 deg. 17’W.,
 
 16.73 m. to point 2;
 
-N. 70 degrees 25 minutes West.
+N. 70 deg. 25’W.,
 
 21.83 m. to point 3;
 
-N. 22 degrees 24 minutes East.
+N. 22 deg. 24’E.,
 
 16.90 m. to point 4;
 
-S. 69 degrees 57 minutes East.
+S. 69 deg. 57’E.,
 
-26.19 meters to point 5;
+26.19 m. to point 5;
 
-S. 76 degrees 12 minutes East.
+S. 76 deg. 12’E.,
 
 20.33 m. to the point of
 
@@ -1320,19 +1320,19 @@ Bounded on the N.E., along line 1-2 by Road Lot 8, (Dhalia Street), on the S.E.,
 
 Beginning at a point marked ‘1’ on plan, being S. 53 deg. 15’E., 3881.42 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 70 degrees 32 minutes East.
+S. 70 deg. 32’E.,
 
 65.46 m. to point 2;
 
-S. 19 degrees 11 minutes West.
+S. 19 deg. 11’W.,
 
 44.71 m. to point 3;
 
-N. 79 degrees 23 minutes West.
+N. 79 deg. 23’W.,
 
 68.57 m. to point 4;
 
-N. 21 degrees 37 minutes East.
+N. 21 deg. 37’E.,
 
 55.29 m. to the point of
 
@@ -1346,23 +1346,23 @@ Bounded on the N.E., along line 1-2 by Lot 2, Block 204, on the SE and SW., alon
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 43’E., 3771.89 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 12 degrees 11 minutes East.
+S. 12 deg. 11’E.,
 
 32.08 m. to point 2;
 
-S. 78 degrees 51 minutes West.
+S. 78 deg. 51’W.,
 
 14.95 m. to point 3;
 
-N. 73 degrees 17 minutes West.
+N. 73 deg. 17’W.,
 
 4.97 m. to point 4;
 
-N. 07 degrees 12 minutes West.
+N. 07 deg. 12’W.,
 
 31.95 m. to point 5;
 
-N. 86 degrees 09 minutes East.
+N. 86 deg. 09’E.,
 
 16.70 m. to the point of
 
@@ -1376,23 +1376,23 @@ Bounded on the SW., along line 1-2 by Lot 6, Block 226, on the NW., along lines 
 
 Beginning at a point marked ‘1’ on plan, being S. 42 deg. 10’E., 3706.25 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 58 degrees 28 minutes West.
+N. 58 deg. 28’W.,
 
 10.68 m. to point 2;
 
-N. 28 degrees 34 minutes East.
+N. 28 deg. 34’E.,
 
 30.47 m. to point 3;
 
-S. 56 degrees 55 minutes East.
+S. 56 deg. 55’E.,
 
 13.12 m. to point 4;
 
-S. 31 degrees 22 minutes West.
+S. 31 deg. 22’W.,
 
-13.00 meters to point 5;
+13.00 m. to point 5;
 
-S. 34 degrees 31 minutes West.
+S. 34 deg. 31’W.,
 
 17.10 m. to the point of
 
@@ -1406,23 +1406,23 @@ Bounded on the NW., along line 1-2 by Lot 10, along line 2-3 by Lot 18 (Alley) b
 
 Beginning at a point marked ‘1’ on plan, being S. 46 deg. 31’E., 3943.11 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 10 degrees 03 minutes East.
+N. 10 deg. 03’E.,
 
-2.69 meters to point 2;
+2.69 m. to point 2;
 
-N. 01 degree 33 minutes East.
+N. 01 deg. 33’E.,
 
 13.36 m. to point 3;
 
-S. 74 degrees 58 minutes East.
+S. 74 deg. 58’E.,
 
 8.37 m. to point 4;
 
-S. 16 degrees 22 minutes West.
+S. 16 deg. 22’W.,
 
-15.47 meters to point 5;
+15.47 m. to point 5;
 
-S. 77 degrees 36 minutes West.
+S. 77 deg. 36’W.,
 
 4.66 m. to the point of
 
@@ -1438,27 +1438,27 @@ Bounded on the SE., along line 1-2 by Lot 72, along line 2-3 by Lot 71, both of 
 
 Beginning at a point marked ‘1’ on plan, being S. 43 deg. 33’E., 4397.17 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 29 degrees 10 minutes East.
+S. 29 deg. 10’E.,
 
-1.97 meters to point 2;
+1.97 m. to point 2;
 
-S. 58 degrees 15 minutes West.
+S. 58 deg. 15’W.,
 
 14.46 m. to point 3;
 
-N. 33 degrees 12 minutes West.
+N. 33 deg. 12’W.,
 
 18.61 m. to point 4;
 
-N. 56 degrees 52 minutes East.
+N. 56 deg. 52’E.,
 
 15.13 m. to point 5;
 
-S. 31 degrees 08 minutes East.
+S. 31 deg. 08’E.,
 
 3.60 m. to point 6;
 
-S. 31 degrees 29 minutes East.
+S. 31 deg. 29’E.,
 
 13.40 m. to the point of
 
@@ -1472,19 +1472,19 @@ Bounded on the NW., along line 1-2 by Lot 7, on the NE., along line 2-3 by Lot 1
 
 Beginning at a point marked ‘1’ on plan, being S. 46 deg. 48’E., 4541.96 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 57 degrees 39 minutes East.
+N. 57 deg. 39’E.,
 
 8.26 m. to point 2;
 
-S. 39 degrees 32 minutes East.
+S. 39 deg. 32’E.,
 
 9.06 m. to point 3;
 
-S. 50 degrees 21 minutes West.
+S. 50 deg. 21’W.,
 
 8.56 m. to point 4;
 
-N. 37 degrees 30 minutes West.
+N. 37 deg. 30’W.,
 
 10.12 m. to the point of
 
@@ -1498,23 +1498,23 @@ Bounded on the NW., along line 1-2 by Lot 14, Block 159, on the NE., along line 
 
 Beginning at a point marked ‘1’ on plan, being S. 43 deg. 58’E., 4804.72 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 59 degrees 40 minutes East.
+N. 59 deg. 40’E.,
 
 11.13 m. to point 2;
 
-S. 31 degrees 26 minutes East.
+S. 31 deg. 26’E.,
 
 37.37 m. to point 3;
 
-S. 76 degrees 20 minutes West.
+S. 76 deg. 20’W.,
 
 19.97 m. to point 4;
 
-N. 35 degrees 08 minutes West.
+N. 35 deg. 08’W.,
 
 31.42 m. to point 5;
 
-N. 57 degrees 47 minutes East.
+N. 57 deg. 47’E.,
 
 9.90 m. to the point of
 
@@ -1528,23 +1528,23 @@ Bounded on the SE., along line 1-2 by Lot 3, Block 92, on the SW., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 43 deg. 57’E., 4501.07 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 56 degrees 05 minutes West.
+S. 56 deg. 05’W.,
 
 10.27 m. to point 2;
 
-N. 33 degrees 16 minutes West.
+N. 33 deg. 16’W.,
 
 29.55 m. to point 3;
 
-N. 57 degrees 45 minutes East.
+N. 57 deg. 45’E.,
 
 17.69 m. to point 4;
 
-S. 33 degrees 28 minutes East.
+S. 33 deg. 28’E.,
 
-28.53 meters to point 5.
+28.53 m. to point 5;
 
-S. 52 degrees 13 minutes West.
+S. 52 deg. 13’W.,
 
 7.54 m. to the point of
 
@@ -1558,23 +1558,23 @@ Bounded on the SW., along line 1-2 by Lot 4, Block 45, on the NE., along line 2-
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 42’E., 4220.24 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 00 degrees 45 minutes West.
+N. 00 deg. 45’W.,
 
 12.91 m. to point 2;
 
-S. 83 degrees 24 minutes East.
+S. 83 deg. 24’E.,
 
 18.72 m. to point 3;
 
-S. 01 degree 01 minute West.
+S. 01 deg. 01’W.,
 
 31.89 m. to point 4;
 
-N. 81 degrees 32 minutes West.
+N. 81 deg. 32’W.,
 
 16.72 m. to point 5;
 
-N. 04 degrees 03 minutes West.
+N. 04 deg. 03’W.,
 
 18.71 m. to the point of
 
@@ -1588,19 +1588,19 @@ Bounded on the NW., along line 1-2 by Lot 31, Block 68, on the NE., along line 2
 
 Beginning at a point marked ‘1’ on plan, being S. 42 deg. 54’E., 4254.19 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 55 degrees 14 minutes East.
+N. 55-14’E.,
 
 14.77 m. to point 2;
 
-S. 36 degrees 54 minutes East.
+S. 36-54’E.,
 
 13.31 m. to point 3;
 
-S. 56 degrees 19 minutes West.
+S. 56-19’W.,
 
 16.26 m. to point 4;
 
-N. 54-03’W.
+N. 54-03’W.,
 
 19.93 m. to point 5;
 
@@ -1608,7 +1608,7 @@ N. 37-01’W.,
 
 13.19 m. to point 6;
 
-N. 54-38’E.
+N. 54-38’E.,
 
 21.44 m. to point of
 
@@ -1622,35 +1622,35 @@ Bounded on the NE., along lines 1 to 5 by Lots 31, 32, 34 and 36, on the NE and 
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 57’E., 5000.47 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-S. 60 degrees 40’E.
+S. 60 deg. 40’E.,
 
 7.15 m. to point 2;
 
-S. 60 degrees 25’E.
+S. 60 deg. 25’E.,
 
 7.05 m. to point 3;
 
-S. 61 degrees 20’E.
+S. 61 deg. 20’E.,
 
 7.55 m. to point 4;
 
-S. 51 degrees 38’E.
+S. 51 deg. 38’E.,
 
 4.00 m. to point 5;
 
-S. 41 degrees 53’W.
+S. 41 deg. 53’W.,
 
 13.79 m. to point 6;
 
-N. 46 degrees 14’W.
+N. 46 deg. 14’W.,
 
 34.00 m. to point 7;
 
-N. 26 degrees 23’E.
+N. 26 deg. 23’E.,
 
 5.56 m. to point 8;
 
-S. 60 degrees 41’E.
+S. 60 deg. 41’E.,
 
 10.52 m. to the point of
 
@@ -1664,19 +1664,19 @@ Bounded on the SW., along line 1-2 by Lot 10, on the NW., along line 2-3 by Lot 
 
 Beginning at a point marked ‘1’ on plan, being S. 36 deg. 59’E., 4663.59 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 77 degrees 59’W.
+N. 77 deg. 59’W.,
 
 10.08 m. to point 2;
 
-N. 13 degrees 48’E.
+N. 13 deg. 48’E.,
 
 10.23 m. to point 3;
 
-S. 75 degrees 57’E.
+S. 75 deg. 57’E.,
 
 10.09 m. to point 4;
 
-S. 13 degrees 54 minutes West.
+S. 13 deg. 54’W.,
 
 9.87 m. to the point of
 
@@ -1690,27 +1690,27 @@ Bounded on the SW., along line 1-2 by Lot 20, along line 2-3 by Lot 18, on the W
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 45’E., 4610.68 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 29 degrees 05 minutes West.
+N. 29 deg. 05’W.,
 
 7.84 m. to point 2;
 
-N. 31 degrees 23 minutes West.
+N. 31 deg. 23’W.,
 
 11.75 m. to point 3;
 
-N. 32 degrees 58 minutes West.
+N. 32 deg. 58’W.,
 
 0.44 m. to point 4;
 
-N. 62 degrees 19 minutes East.
+N. 62 deg. 19’E.,
 
 33.31 m. to point 5;
 
-S. 37 degrees 08 minutes East.
+S. 37 deg. 08’E.,
 
 20.28 m. to point 6;
 
-S. 62 degrees 19 minutes West.
+S. 62 deg. 19’W.,
 
 35.65 m. to the point of
 
@@ -1724,111 +1724,111 @@ Bounded on the SW., along line 1-2 by Road Lot 115, (Milk Weed Street) Psd-13-00
 
 Beginning at a point marked ‘1’ on plan, being S. 40 deg. 20’E., 4625.33 m. from BLLM No. 1, MCadm. 571-D, Makati Cadastral Mapping, thence:
 
-N. 37 degrees 16 minutes West.
+N. 37 deg. 16’W.,
 
 120.33 m. to point 2;
 
-N. 50 degrees 19 minutes East.
+N. 50 deg. 19’E.,
 
 15.66 m. to point 3;
 
-N. 52 degrees 17 minutes East.
+N. 52 deg. 17’E.,
 
 12.77 m. to point 4;
 
-N. 51 degrees 25 minutes East.
+N. 51 deg. 25’E.,
 
 5.95 m. to point 5;
 
-S. 51 degrees 03 minutes East.
+S. 51 deg. 03’E.,
 
 13.82 m. to point 6;
 
-N. 53 degrees 03 minutes East.
+N. 53 deg. 03’E.,
 
 10.55 m. to point 7;
 
-N. 55 degrees 30 minutes East.
+N. 55 deg. 30’E.,
 
 4.93 m. to point 8;
 
-N. 54 degrees 31 minutes East.
+N. 54 deg. 31’E.,
 
 17.83 m. to point 9;
 
-S. 37 degrees 16 minutes East.
+S. 37 deg. 16’E.,
 
 4.00 m. to point 10;
 
-S. 35 degrees 34 minutes East.
+S. 35 deg. 34’E.,
 
 8.63 m. to point 11;
 
-S. 40 degrees 15 minutes East.
+S. 40 deg. 15’E.,
 
 9.41 m. to point 12;
 
-S. 33 degrees 03 minutes East.
+S. 33 deg. 03’E.,
 
 9.83 m. to point 13;
 
-S. 36 degrees 38 minutes East.
+S. 36 deg. 38’E.,
 
 9.43 m. to point 14;
 
-S. 36 degrees 47 minutes East.
+S. 36 deg. 47’E.,
 
-10.05 meters to point 15;
+10.05 m. to point 15;
 
-S. 37 degrees 34 minutes East.
+S. 37 deg. 34’E.,
 
-8.91 meters to point 16;
+8.91 m. to point 16;
 
-S. 32 degrees 46 minutes East.
+S. 32 deg. 46’E.,
 
 9.81 m. to point 17;
 
-S. 35 degrees 57 minutes East.
+S. 35 deg. 57’E.,
 
-10.15 meters to point 18;
+10.15 m. to point 18;
 
-S. 34 degrees 29 minutes East.
+S. 34 deg. 29’E.,
 
 7.36 m. to point 19;
 
-S. 30 degrees 35 minutes East.
+S. 30 deg. 35’E.,
 
 10.45 m. to point 20;
 
-S. 32 degrees 11’E.
+S. 32 deg. 11’E.,
 
 11.47 m. to point 21;
 
-S. 29 degrees 15’E.
+S. 29 deg. 15’E.,
 
 11.15 m. to point 22;
 
-S. 45 degrees 36’E.
+S. 45 deg. 36’E.,
 
 8.87 m. to point 23;
 
-S. 58 degrees 56’W.
+S. 58 deg. 56’W.,
 
 77.42 m. to the point of
 
-N. 37 degrees 16’W.
+N. 37 deg. 16’W.,
 
 120.33 m. to point 2;
 
-N. 50 degrees 19’E.
+N. 50 deg. 19’E.,
 
 15.66 m. to point 3;
 
-N. 52 degrees 17’E.
+N. 52 deg. 17’E.,
 
 12.77 m. to point 4;
 
-N. 51 degrees 25’E.
+N. 51 deg. 25’E.,
 
 5.95 m. to point 5;
 
@@ -1844,19 +1844,19 @@ Bounded on the SW., and NW., along lines 1 to 3 by Road lot (Surigao Street), on
 
 Beginning at a point marked ‘1’ on plan, being S. 45 deg. 52’E., 1703.71 m. from BLLM # 1-A, MCad-571-D, Makati Cadastre, thence:
 
-N. 15 degrees 16’W.
+N. 15 deg. 16’W.,
 
 10.78 m. to pt. 2;
 
-N. 75 degrees 38’E.
+N. 75 deg. 38’E.,
 
 9.86 m. to pt. 3;
 
-S. 12 degrees 53’E.
+S. 12 deg. 53’E.,
 
 10.83 m. to pt. 4;
 
-S. 75 degrees 54’W.
+S. 75 deg. 54’W.,
 
 9.40 m. to the point of
 
@@ -1872,27 +1872,27 @@ Bounded on the NE., along lines 1 to 3 by Road lot (Kamagong Street), on the SE.
 
 Beginning at a point marked ‘1’ on plan, being S. 57 deg. 12’E., 4098.90 m. from BLLM # 1-A, MCad-571-D, Makati Cadastre, thence:
 
-S. 65 degrees 29’E.
+S. 65 deg. 29’E.,
 
 27.42 m. to pt. 2;
 
-S. 26 degrees 42’E.
+S. 26 deg. 42’E.,
 
 1.85 m. to pt. 3;
 
-S. 11 degrees 47 minutes West
+S. 11 deg. 47’W.,
 
 56.58 m. to pt. 4;
 
-N. 79 degrees 20 minutes West
+N. 79 deg. 20’W.,
 
 10.04 m. to pt. 5;
 
-N. 05 degrees 43 minutes West
+N. 05 deg. 43’W.,
 
 64.76 m. to pt. 6;
 
-N. 44 degrees 52 minutes East
+N. 44 deg. 52’E.,
 
 2.99 m. to the point of
 

@@ -1,0 +1,20 @@
+{
+  "doc_id": "speech-president-aquino-philippine-investment-forum-tokyo",
+  "category": "speech",
+  "category_slug": "speeches",
+  "president_slug": "benigno-s-aquino-iii",
+  "date": "2015-06-04",
+  "title": "Speech of President Aquino at the Philippine Investment Forum in Tokyo",
+  "content_url": "https://www.officialgazette.gov.ph/2015/06/04/speech-president-aquino-philippine-investment-forum-tokyo/",
+  "pdf_url": null,
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "Failed to perform, curl: (28) Operation timed out after 30000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "scraped_at": "2026-03-05T11:49:58.703715Z",
+  "pdf_status": "not_applicable",
+  "pdf_error": null,
+  "pdf_processed_at": null
+}

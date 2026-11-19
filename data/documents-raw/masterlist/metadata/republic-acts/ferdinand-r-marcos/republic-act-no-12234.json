@@ -13,5 +13,8 @@
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T19:20:25.115871Z"
+  "scraped_at": "2026-02-23T19:20:25.115871Z",
+  "pdf_status": "failed",
+  "pdf_error": "Failed to perform, curl: (28) Operation timed out after 30000 milliseconds with 3930570 out of 7114089 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "pdf_processed_at": "2026-03-05T15:00:12.701512Z"
 }

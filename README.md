@@ -1,170 +1,101 @@
 # Philippine Official Gazette Scraper
 
-A Python scraper for collecting presidential documents from the [Philippine Official Gazette](https://www.officialgazette.gov.ph/). Built for academic research on Philippine presidential communication.
+Scrapes presidential documents from the [Official Gazette of the Philippines](https://www.officialgazette.gov.ph/) for research.
 
-This tool collects two types of documents:
+There are two scrapers:
 
-- **State of the Nation Addresses (SONAs)** — scraped from the [past SONA speeches page](https://www.officialgazette.gov.ph/past-sona-speeches/) (87 speeches, 1935-2025)
-- **Presidential issuances and speeches** — scraped from the [masterlist generator](https://www.officialgazette.gov.ph/masterlist-generator/) covering executive orders, administrative orders, proclamations, memoranda, speeches, and more across 15 presidents
+- **SONA** — all 87 State of the Nation Addresses from 1935 to 2025.
+- **Masterlist** — executive orders, proclamations, speeches, and other issuances from 15 presidents.
 
-## Requirements
+The scraped text is included here, so you can use the data without running the scraper.
 
-- Python 3.12+
-- [uv](https://docs.astral.sh/uv/) (recommended) or pip
-- [Tesseract](https://github.com/tesseract-ocr/tesseract) (optional, for Phase C OCR fallback)
+## Setup
 
-## Installation
+Python 3.12+ and [uv](https://docs.astral.sh/uv/) are required. For OCR on scanned PDFs, also install [Tesseract](https://github.com/tesseract-ocr/tesseract).
 
 ```bash
-git clone https://github.com/aobalitaan/ph-gazette-scraper.git
-cd ph-gazette-scraper
-
-# install dependencies
+git clone https://github.com/aobalitaan/ph-gazette.git
+cd ph-gazette
 uv sync
 ```
 
-## Quick Start
+## Scraping
 
 ```bash
-# scrape all 87 SONAs
+# all SONAs
 uv run talasuri-scrape-sona
 
-# scrape all masterlist documents (this takes a while — thousands of documents)
+# the whole masterlist (takes a long time)
 uv run talasuri-scrape-masterlist
 ```
 
-## How the Scraper Works
-
-### SONA Scraper
-
-The SONA scraper is straightforward — it fetches the SONA index page, parses the table to get URLs for each speech, then visits each page to extract the full text.
+Options you will probably want:
 
 ```bash
-# just fetch the index to see what's available
-uv run talasuri-scrape-sona --index-only
-
-# full scrape
-uv run talasuri-scrape-sona
-
-# re-scrape everything from scratch (ignores previously saved results)
-uv run talasuri-scrape-sona --force
-```
-
-### Masterlist Scraper
-
-The masterlist scraper works in three phases:
-
-**Phase A — Index Collection** uses the Official Gazette's masterlist generator form to paginate through results tables and collect document metadata. For each category x president combination, it saves a JSON index of all entries found. This phase uses a regular HTTP client (`httpx`) since the masterlist generator pages aren't blocked by Cloudflare.
-
-**Phase B — Content Fetching** takes those index entries and visits each individual document page to extract the full text. This phase uses `curl_cffi` which impersonates a real browser's TLS fingerprint (JA3/JA4), bypassing Cloudflare's bot detection without needing an actual browser.
-
-**Phase C — PDF Extraction** handles documents that only have a PDF attachment (no inline HTML text). It downloads each PDF, attempts text-layer extraction via pymupdf, and falls back to Tesseract OCR if the text layer is missing or fails a quality gate. The quality gate checks alphabetic token ratio, average word length, and minimum word count to filter out garbage output.
-
-```bash
-# full scrape (phases A + B)
-uv run talasuri-scrape-masterlist
-
-# phase A only — just collect indexes, no content fetching
+# collect only the masterlist index, no document pages
 uv run talasuri-scrape-masterlist --index-only
 
-# phase B only — fetch content from existing indexes
+# fetch page text using an index collected earlier
 uv run talasuri-scrape-masterlist --content-only
 
-# phase C only — download PDFs and extract text from pdf-only documents
+# extract text from documents that only have a PDF
 uv run talasuri-scrape-masterlist --pdf-only
 
-# filter by category and/or president
+# limit by category or president
 uv run talasuri-scrape-masterlist --categories executive-orders proclamations
 uv run talasuri-scrape-masterlist --presidents rodrigo-roa-duterte ferdinand-r-marcos
 
-# multiple concurrent workers (each gets its own session)
-uv run talasuri-scrape-masterlist -c 3
-
-# verbose logging
-uv run talasuri-scrape-masterlist -v
+# 3 workers, verbose output, 5 seconds between requests
+uv run talasuri-scrape-masterlist -c 3 -v --delay 5
 ```
 
-### Rate Limiting
+Both scrapers skip documents already on disk. Use `--force` to start over. Ctrl+C stops a run cleanly and the next run picks up where it left off.
 
-The default delay between requests is **5 seconds** with ±50% random jitter (so 2.5–7.5 seconds in practice). This is intentionally conservative to avoid triggering the Gazette's WAF (Web Application Firewall). You can lower it with `--delay`, but going below 2 seconds risks 429 rate limits. A delay of 3–4 seconds works well in practice.
+## How the scraper works
 
-> **Note:** VPN/proxy IPs are often flagged by Cloudflare and may trigger aggressive bot challenges (HTTP 403). If you're getting blocked, try disabling your VPN first.
+**SONA** reads the past SONA speeches page, takes the links from the table, then opens each speech and saves its text.
 
-```bash
-# default: 5 second delay
-uv run talasuri-scrape-masterlist
+The masterlist has three phases:
 
-# faster (not recommended unless you know what you're doing)
-uv run talasuri-scrape-masterlist --delay 3
-```
+1. **Index** — pages through the Gazette's masterlist generator and saves each result's metadata (title, date, president, page URL, PDF URL) as JSON. This phase uses plain `httpx`; these pages are not blocked.
+2. **Content** — opens each document page and extracts the text. This uses `curl_cffi`, which copies a real browser's TLS fingerprint so Cloudflare does not block the requests.
+3. **PDF** — downloads the PDF for documents that have no text on the page. PyMuPDF pulls the text layer; if it is missing or poor, the pages are rendered and run through Tesseract OCR. A check on letter ratio, average word length, and minimum word count discards bad OCR output.
 
-### Proxy Support
+## Request delay
 
-If you need to distribute requests across multiple IPs, pass a proxy file. Format is one proxy per line in `host:port:user:pass` format:
+The default delay is **5 seconds** between requests, with ±50% jitter (about 2.5–7.5 seconds in practice). The Gazette blocks fast scraping, so leave it at 5 seconds unless you have a reason not to. Below 2 seconds you will hit HTTP 429.
+
+VPN and proxy IPs often get a Cloudflare challenge. If every request returns 403, try a normal connection first.
+
+To spread requests over several IPs, pass a proxy file with one `host:port:user:pass` per line. The scraper uses one worker per proxy.
 
 ```bash
 uv run talasuri-scrape-masterlist --proxy-file proxies.txt
 ```
 
-When a proxy file is provided, concurrency is automatically set to match the number of proxies (one worker per IP).
-
-### Running in the Background
-
-To run the scraper in the background (e.g. on a server or overnight):
-
-```bash
-uv run talasuri-scrape-masterlist --content-only --delay 3.5 -c 1 -v > data/scrape.log 2>&1 &
-```
-
-Monitor progress with `tail -f data/scrape.log`. If you'd rather see output live in the terminal, just run without the redirect:
-
-```bash
-uv run talasuri-scrape-masterlist --content-only --delay 3.5 -c 1 -v
-```
-
-### Resumability
-
-Both scrapers support resuming from where they left off. If a run is interrupted (Ctrl+C triggers graceful shutdown), just run the same command again — already-scraped documents will be skipped. Use `--force` to re-scrape everything.
-
-## Output Data
-
-### Directory Structure
-
-**SONA data** (`data/documents-raw/sona/`):
+## Output
 
 ```
-sona/
-  raw_html/{president-slug}/{doc_id}.html    # original HTML pages
-  text/{president-slug}/{doc_id}.txt         # extracted plain text
-  metadata/{president-slug}/{doc_id}.json    # per-document metadata
-  manifest.json                              # all documents in one file
+data/documents-raw/
+  sona/
+    raw_html/{president}/{doc_id}.html
+    text/{president}/{doc_id}.txt
+    metadata/{president}/{doc_id}.json
+    manifest.json
+  masterlist/
+    index/{category}/{president}.json
+    raw_html/{category}/{president}/{doc_id}.html
+    text/{category}/{president}/{doc_id}.txt
+    metadata/{category}/{president}/{doc_id}.json
+    pdf/{category}/{president}/{doc_id}.pdf
+    manifest.json
 ```
 
-**Masterlist data** (`data/documents-raw/masterlist/`):
+**Index files** are the phase 1 output. They are a cached table of contents for each category and president, so you do not have to page through the search form again. They contain metadata only, not document text.
 
-```
-masterlist/
-  index/{category-slug}/{president-slug}.json   # Phase A index files
-  raw_html/{category-slug}/{president-slug}/{doc_id}.html
-  text/{category-slug}/{president-slug}/{doc_id}.txt
-  metadata/{category-slug}/{president-slug}/{doc_id}.json
-  pdf/{category-slug}/{president-slug}/{doc_id}.pdf   # Phase C downloaded PDFs
-  manifest.json
-```
+**Manifest** records the status of every document (success, failed, pending) and when it was last scraped. That is what makes resuming possible. Manifests are not committed because they are too large for GitHub; the scraper rebuilds them from the metadata files on the first run.
 
-### What are Index Files?
-
-Index files (`index/*.json`) are the Phase A output — they store the metadata from the masterlist results table (title, URL, president, date, PDF link) without the actual document content. They're cached so you don't have to re-paginate through results tables on every run. Think of them as a "table of contents" for each category x president combination.
-
-### Manifest
-
-The `manifest.json` in each scraper's output directory is the master record of all documents with their scrape status. It tracks what was scraped successfully, what failed, what's still pending, and when each document was last scraped. This is how resumability works.
-
-> **Note:** Manifest files are not tracked in git (they exceed GitHub's file size limit). They are generated automatically when you run the scraper. If you clone this repo and want to re-scrape, the scraper will rebuild the manifest from existing metadata files on the first run.
-
-### Metadata Format
-
-Each document's metadata JSON looks like this:
+A metadata file looks like this:
 
 ```json
 {
@@ -176,7 +107,6 @@ Each document's metadata JSON looks like this:
   "title": "Executive Order No. 01, s. 2016",
   "content_url": "https://www.officialgazette.gov.ph/2016/07/26/executive-order-no-01-s-2016/",
   "pdf_url": "https://www.officialgazette.gov.ph/.../20160726-EO-1-RRD.pdf",
-  "text": "...",
   "word_count": 542,
   "has_html_content": true,
   "is_pdf_only": false,
@@ -188,50 +118,26 @@ Each document's metadata JSON looks like this:
 }
 ```
 
-For PDF-only documents, `pdf_status` will be one of: `text_extracted`, `ocr_extracted`, `failed`, `skipped`, or `pending`.
+For PDF-only documents, `pdf_status` is `text_extracted`, `ocr_extracted`, `failed`, `skipped`, or `pending`.
 
-### PDF-Only Documents
+## Included data
 
-Some gazette documents don't have inline HTML text — they only link to a PDF file. Phase B marks these as `is_pdf_only: true`. Phase C then downloads each PDF and extracts text using a two-step pipeline:
+| Collection | Documents |
+| --- | --- |
+| SONAs, 1935–2025 | 87 |
+| Masterlist | 34,015 |
+| Translated text | 38,175 |
 
-1. **pymupdf text extraction** — tries to extract the embedded text layer
-2. **Tesseract OCR fallback** — if the text layer is missing or fails quality checks, renders pages to images and runs OCR
+Of the 34,015 masterlist documents, 138 are PDF-only.
 
-A quality gate filters out garbage output by checking alphabetic token ratio (>=70%), average word length (2–15 chars), and minimum word count (>=50 words). Documents that pass get their text saved alongside the HTML-sourced documents. The metadata tracks the extraction method (`text_extracted`, `ocr_extracted`, or `failed`).
+The translated set contains every document after translation. Most were already in English; 2,108 Filipino or Taglish documents were translated through OpenRouter (`google/gemma-3-27b-it`). Bad translations were reviewed and corrected.
 
-> **Note:** Phase C requires [Tesseract](https://github.com/tesseract-ocr/tesseract) installed on your system for OCR fallback. On Ubuntu/Debian: `sudo apt install tesseract-ocr`.
+`data/documents-translated/` follows the masterlist layout: `{category}/{president}/{doc_id}.txt`.
 
-## Included Dataset
-
-This repository includes the complete scraped dataset as of February 2026:
-
-| Collection | Documents | Notes |
-|-----------|-----------|-------|
-| SONAs | 87 | All speeches from 1935–2025, full text |
-| Masterlist | 34,015 | All categories across 15 presidents |
-| Translated | 38,175 | All documents after translation (2,108 had Filipino/Taglish content translated to English) |
-
-Of the 34,015 masterlist documents, 138 are PDF-only (no inline HTML text). The rest have full extracted text from their gazette pages.
-
-### Translated Documents (`data/documents-translated/`)
-
-The `documents-translated/` directory contains the post-translation text for every document. For documents that were originally in English (the majority), these files are identical to the raw text. For the 2,108 documents containing Filipino or Taglish (mixed Filipino-English) content, the Filipino portions were translated to English via OpenRouter (google/gemma-3-27b-it) with paragraph-level language detection.
-
-```
-documents-translated/
-  {category-slug}/{president-slug}/{doc_id}.txt
-```
-
-Translation hallucinations (69 documents where the LLM returned "Please provide the text..." instead of a translation) were identified and fixed — hallucinated paragraphs with recoverable Filipino source text were retranslated, while those caused by OCR garbage inputs were stripped.
-
-If you want to re-scrape from scratch, use `--force`. Otherwise the scraper will skip already-scraped documents.
-
-## Document Categories
-
-The masterlist generator covers 15 categories:
+## Categories
 
 | Category | Slug |
-|----------|------|
+| --- | --- |
 | Executive Orders | `executive-orders` |
 | Administrative Orders | `administrative-orders` |
 | Proclamations | `proclamations` |
@@ -248,47 +154,29 @@ The masterlist generator covers 15 categories:
 | IRR (Executive Orders) | `implementing-rules-and-regulations-executive-orders` |
 | IRR (Republic Acts) | `implementing-rules-and-regulations` |
 
-## Presidents Covered
-
-The scraper covers all presidents available in the Gazette's masterlist generator:
-
-Manuel L. Quezon, Sergio Osmena, Manuel Roxas, Elpidio Quirino, Ramon Magsaysay, Carlos P. Garcia, Diosdado Macapagal, Ferdinand E. Marcos, Corazon C. Aquino, Fidel V. Ramos, Joseph Ejercito Estrada, Gloria Macapagal-Arroyo, Benigno S. Aquino III, Rodrigo Roa Duterte, Ferdinand R. Marcos Jr.
-
-## Running Tests
+## Tests
 
 ```bash
 uv run pytest
-uv run ruff check backend/ tests/
 ```
 
-## Project Structure
+## Layout
 
 ```
-backend/
-  common/
-    logging.py                  # shared logging config
-  pipeline/
-    scraper/
-      browser_client.py         # curl_cffi client (bypasses cloudflare TLS fingerprinting)
-      http_client.py            # httpx-based client (for pages that aren't blocked)
-      cli.py                    # SONA scraper CLI
-      masterlist_cli.py         # masterlist scraper CLI
-      sona_scraper.py           # SONA scraper orchestration
-      masterlist_scraper.py     # masterlist scraper orchestration (phases A + B + C)
-      parsers.py                # HTML parsing for SONA pages
-      masterlist_parsers.py     # HTML parsing for masterlist pages
-      storage.py                # file I/O for SONA data
-      masterlist_storage.py     # file I/O for masterlist data
-      pdf_extractor.py          # PDF text extraction with OCR fallback
-      models.py                 # pydantic data models
-tests/
-  fixtures/                     # sample HTML for testing
-  pipeline/scraper/             # unit tests
+backend/pipeline/scraper/
+  sona_scraper.py, masterlist_scraper.py   # scrape logic
+  parsers.py, masterlist_parsers.py        # HTML parsing
+  storage.py, masterlist_storage.py        # file output
+  browser_client.py, http_client.py        # HTTP clients
+  pdf_extractor.py                         # PDF text + OCR
+  models.py, cli.py, masterlist_cli.py     # models and command line
+tests/pipeline/scraper/                    # unit tests
+tests/fixtures/                            # sample Gazette HTML
 ```
 
-## Acknowledgment
+## Source
 
-Data is sourced from the [Official Gazette of the Republic of the Philippines](https://www.officialgazette.gov.ph/). This scraper is intended for academic and research purposes.
+Text comes from the [Official Gazette of the Republic of the Philippines](https://www.officialgazette.gov.ph/). This project is for academic research.
 
 ## License
 

@@ -1,7 +1,4 @@
-"""Pure HTML parsing functions for Official Gazette SONA pages.
-
-No I/O — these operate on HTML strings only.
-"""
+"""HTML parsers for Official Gazette SONA pages. No I/O."""
 
 from datetime import date, datetime
 
@@ -11,11 +8,10 @@ from backend.pipeline.scraper.models import SONAIndexEntry
 
 
 def parse_sona_index(html: str) -> list[SONAIndexEntry]:
-    """Parse the SONA index table into a list of SONAIndexEntry objects.
+    """Parse the SONA index table.
 
-    Handles two patterns for president grouping:
-    - rowspan on the first cell (most presidents)
-    - Empty admin cells for continuation rows (Marcos Jr.)
+    Two patterns for president grouping: rowspan on the first cell (most
+    presidents) or empty admin cells in continuation rows (Marcos Jr.).
     """
     soup = BeautifulSoup(html, "lxml")
     table = soup.find("table")
@@ -31,19 +27,14 @@ def parse_sona_index(html: str) -> list[SONAIndexEntry]:
         if not cells:
             continue
 
-        # Determine if this row has a president cell.
-        # Rows with rowspan or a non-empty first cell that contains text
-        # have a president cell. Rows where the first cell's text is a date
-        # (continuation rows from rowspan) skip the admin column entirely.
         first_cell_text = cells[0].get_text(strip=True)
 
-        # Header row detection: skip if first cell is bold header text
+        # skip the bold header row
         if cells[0].find("b") and first_cell_text in ("Administration", "President"):
             continue
 
-        # Determine column offset. If this row was created by a rowspan,
-        # the first cell IS the date (no admin cell). If it has an admin cell
-        # (even empty), it has 5 cells.
+        # 5 cells = has admin column (possibly empty); 4 cells = rowspan
+        # continuation where the first cell is already the date.
         if len(cells) == 5:
             admin_text = cells[0].get_text(strip=True)
             if admin_text:
@@ -53,7 +44,7 @@ def parse_sona_index(html: str) -> list[SONAIndexEntry]:
             venue_text = cells[3].get_text(strip=True) or None
             legislature_text = cells[4].get_text(strip=True) or None
         elif len(cells) == 4:
-            # Rowspan continuation: no admin cell, cells are date/title/venue/legislature
+            # rowspan continuation: date/title/venue/legislature
             date_text = cells[0].get_text(strip=True)
             title_cell = cells[1]
             venue_text = cells[2].get_text(strip=True) or None
@@ -90,33 +81,26 @@ def parse_sona_index(html: str) -> list[SONAIndexEntry]:
 
 
 def parse_sona_page(html: str) -> dict:
-    """Parse an individual SONA page and extract its content.
+    """Parse a SONA page.
 
-    Handles two layouts:
-    - Modern (paginated): content in div.page[title="Page N"] elements
-    - Historical: paragraphs directly under .entry-content
-
-    Returns dict with: full_title, paragraphs, text, word_count,
-    paragraph_count, pdf_url
+    Two layouts: modern paginated (div.page[title="Page N"]) and historical
+    (paragraphs directly under .entry-content).
     """
     soup = BeautifulSoup(html, "lxml")
     article = soup.find("article")
     if not article:
         raise ValueError("No <article> element found in SONA page HTML")
 
-    # Extract title
     h1 = article.find("h1")
     full_title = h1.get_text(strip=True) if h1 else None
 
-    # Extract PDF URL before removing Resources section
+    # grab PDF before stripping the Resources block
     pdf_url = _extract_pdf_url(article)
 
-    # Find content area
     content = article.find(class_="entry-content")
     if content is None:
         content = article
 
-    # Remove Resources section before extracting paragraphs
     for resources_heading in content.find_all("h5"):
         if resources_heading.get_text(strip=True) == "Resources":
             parent = resources_heading.find_parent("section") or resources_heading.find_parent(
@@ -127,12 +111,10 @@ def parse_sona_page(html: str) -> dict:
             else:
                 resources_heading.decompose()
 
-    # Try modern layout first: look for div.page elements
     page_divs = content.find_all("div", class_="page")
     if page_divs:
         paragraphs = _extract_paginated_paragraphs(page_divs)
     else:
-        # Historical layout: paragraphs directly under entry-content
         paragraphs = _extract_direct_paragraphs(content)
 
     text = "\n\n".join(paragraphs)
@@ -149,7 +131,6 @@ def parse_sona_page(html: str) -> dict:
 
 
 def _extract_paginated_paragraphs(page_divs: list[Tag]) -> list[str]:
-    """Extract paragraphs from modern paginated layout."""
     paragraphs = []
     for page_div in page_divs:
         for p in page_div.find_all("p"):
@@ -160,7 +141,6 @@ def _extract_paginated_paragraphs(page_divs: list[Tag]) -> list[str]:
 
 
 def _extract_direct_paragraphs(content: Tag) -> list[str]:
-    """Extract paragraphs from historical non-paginated layout."""
     paragraphs = []
     for p in content.find_all("p", recursive=True):
         text = p.get_text(separator=" ", strip=True)
@@ -170,7 +150,7 @@ def _extract_direct_paragraphs(content: Tag) -> list[str]:
 
 
 def _extract_pdf_url(article: Tag) -> str | None:
-    """Extract PDF URL from the Resources section."""
+    """First link ending in .pdf, if any."""
     for link in article.find_all("a", href=True):
         href = link["href"]
         if href.endswith(".pdf"):
@@ -179,7 +159,7 @@ def _extract_pdf_url(article: Tag) -> str | None:
 
 
 def parse_gazette_date(date_str: str) -> date | None:
-    """Parse dates in 'Month DD, YYYY' format."""
+    """Parse 'Month DD, YYYY'."""
     try:
         return datetime.strptime(date_str, "%B %d, %Y").date()
     except ValueError:
@@ -187,7 +167,6 @@ def parse_gazette_date(date_str: str) -> date | None:
 
 
 def _clean_url(url: str) -> str:
-    """Clean URLs that may have HTML entity artifacts."""
-    # Some URLs on the Gazette have a trailing &quot; encoded as literal text
+    # some Gazette links have a literal trailing &quot; or "
     url = url.rstrip('"').rstrip("&quot;")
     return url

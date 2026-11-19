@@ -564,7 +564,7 @@ d) Other standards as determined by the DOH.
 
 Within ninety (90) days from the effectivity of these Rules, the DOH shall develop, guidelines for the implementation of this provision including the licensing of MHCS.
 
-Section 5.14 Assistance for Mobile Health Care Service Vehicles. The DOH may provide support for MHCS vehicles, Provided, That:
+Section 5.14 Assistance for Mobile Health Care Service Vehicles . The DOH may provide support for MHCS vehicles, Provided, That :
 
 a) There is a request from the LGU for assistance to acquire an MHCS based on a significant number of poor as determined by NHTS-PR or other government measures of marginalization, to have GIDAs and to have health facilities that are insufficient or inaccessible to a significant proportion of the population;
 

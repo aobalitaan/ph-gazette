@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 92, s. 1968",
   "content_url": "https://www.officialgazette.gov.ph/1968/01/31/memorandum-order-no-92-s-1968/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1968/01jan/19680131-MO-0092-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 92, January 31, 1968 ]\nCREATING A COMMITTEE TO STUDY THE FEASIBILITY OF THE �LIGHT FOR EVERY BARRIO HOME� PROJECT.\nThere is hereby created a Committee to study the�feasibility of the �Light for Every Barrio Home� Project composed of the following:\nSecretary Ernesto Maceda\nChairman\nUndersecretary Juan. Ponce Enrile\nMember\nSecretary Flores Bayot\nMember\nCommissioner Mamintal Tamano\nMember\nThe Committee shall submit its recommendation within two weeks from the date hereof.\n1aшphi1\nBy authority of the President:\n(Sgd.)\nJOSE J. LEIDO, JR.\nAssistant Executive Secretary\nManila, January 31, 1968\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 109,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:48:08.837309Z"
+  "scraped_at": "2026-02-23T11:48:08.837309Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:38.789460Z"
 }

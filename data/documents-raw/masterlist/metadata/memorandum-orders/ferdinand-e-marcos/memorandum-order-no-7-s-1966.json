@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 7, s. 1966",
   "content_url": "https://www.officialgazette.gov.ph/1966/01/03/memorandum-order-no-7-s-1966/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1966/01jan/19660103-MO-0007-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 7, January 3, 1966 ]\nSubject: Termination of services of certain OP officials and employees\nDate: January 3, 1966\nRemarks: Original with Personnel\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 43,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:46:11.710095Z"
+  "scraped_at": "2026-02-23T11:46:11.710095Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:30.452899Z"
 }

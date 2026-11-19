@@ -282,9 +282,9 @@ DTI Secretary shall have the power to issue a compliance order
 to require conformity with this Act, Republic Act No. 7394 or
 the “Consumer Act of the Philippines”, or any other applicable
 
-This appears to be gibberish or a random string of characters and does not constitute a translatable text. It does not resemble any recognizable Filipino or Taglish phrase or sentence. Therefore, no accurate translation can be provided.
+een ert ten ean an enamine
 
-[MOCK TRANSLATION] een ert ten ean an enamine
+&
 
 trade and consumer protection issuances promulgated by
 the DTI.
@@ -329,6 +329,8 @@ The violating entity shall be given an opportunity to be
 heard within forty-eight (48) hours from the issuance of a
 takedown order.
 
+,
+
 The takedown order shall be directed against the
 e-retailer or online merchant, and the owner or operator
 of the e-marketplace or digital platform. Copies of the order
@@ -367,44 +369,9 @@ issue the implementing rules and regulations on ODR
 procedure and the development, management, operations,
 and maintenance of the platform.
 
-**MEMORANDUM CIRCULAR NO. 2023-08**
-
-**TO**: All Heads of Departments, Bureaus, Offices, and Agencies of the Executive Branch, State Universities and Colleges, Government-Owned or Controlled Corporations, and all others concerned
-
-**SUBJECT**: Adoption of the Philippine Qualifications Framework (PQF) as Basis for Job Descriptions and Qualification Standards in the Civil Service
-
-WHEREAS, the 1987 Constitution mandates the State to promote quality education at all levels and to make education accessible to all;
-
-WHEREAS, Executive Order No. 83, series of 2012, adopted the Philippine Qualifications Framework (PQF) as the national framework for all qualifications in the Philippines, including those in the civil service;
-
-WHEREAS, the Civil Service Commission (CSC) is mandated to establish and maintain a merit system in the civil service, which includes the setting of qualification standards for positions;
-
-WHEREAS, there is a need to align the qualification standards in the civil service with the PQF to ensure that civil servants possess the necessary competencies and skills to effectively perform their duties and responsibilities, and to promote career progression based on demonstrated competence;
-
-NOW, THEREFORE, the Commission hereby orders the following:
-
-**SECTION 1. Adoption of the PQF.** – All departments, bureaus, offices, and agencies of the Executive Branch, State Universities and Colleges, and Government-Owned or Controlled Corporations shall adopt the PQF as the basis for the development and revision of job descriptions and qualification standards for all positions in their respective organizations.
-
-**SECTION 2. Responsibilities of Agencies.** – Each agency shall:
-
-a. Review and update existing job descriptions and qualification standards to align with the PQF, considering the specific functions and responsibilities of each position. This includes the identification of the appropriate PQF level for each position.
-
-b. Ensure that the qualification standards reflect the required competencies, knowledge, skills, and attitudes (KSAs) necessary for effective performance.  *Ibig sabihin*, the standards should clearly define what a civil servant needs to know and be able to do to succeed in their role.
-
-c. Submit the revised job descriptions and qualification standards to the CSC for review and approval, through the Civil Service Institute (CSI).
-
-d. Provide training and development opportunities for civil servants to enhance their competencies and skills, and to facilitate their progression to higher PQF levels.
-
-**SECTION 3. Role of the Civil Service Institute.** – The CSI shall provide technical assistance to agencies in the review and revision of job descriptions and qualification standards, and shall develop training programs to support the implementation of this Memorandum Circular.
-
-**SECTION 4. Effectivity.** – This Memorandum Circular shall take effect immediately upon its publication in the Official Gazette and/or posting on the CSC website.
-
-SO ORDERED.
-
-(Sgd.)
-ALICIA L. VARGAS
-Chairperson
-Civil Service Commission
+|
+|
+|
 
 CHAPTER IV
 
@@ -710,6 +677,8 @@ privacy of consumers, at all times, in accordance with Republic
 Act No. 10173, and comply with the minimum information
 security standards set by the Bureau, NPC, and other
 issuances of relevant government agencies. E-retailers and
+
+i
 
 online merchants shall be covered by the provisions of Republic
 Act No. 10173 and issuances by the NPC.

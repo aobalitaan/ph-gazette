@@ -6,6 +6,8 @@ CODE
 AHTN 
 HDG. NO.
 
+DESCRIPTION
+
 0102.10.00 Pure-bred breeding animals (bovine)
 
 0102.90.20 Buffaloes
@@ -155,7 +157,7 @@ ex 0801.31.00 Cashew nuts in shell, for planting
 
 1008.30.00 Canary seed
 
-1201.00.10 Soya beans, for sowing
+Soya beans, for sowing
 
 1206.00.00 Sunflower seeds, whether or not broken
 
@@ -289,7 +291,7 @@ pyrimethamine base/HCL; trimethoprim USP (TMP)
 base/HCL; sulfamethoxazole; sulfamethaxazine; sulfanilamide; 
 sulfaguanadine; sulfadoxine; sulfamethoxine)
 
-2936.10.00 Provitamins, unmixed
+Provitamins, unmixed
 
 2936.21.00 Vitamins A and their derivatives
 

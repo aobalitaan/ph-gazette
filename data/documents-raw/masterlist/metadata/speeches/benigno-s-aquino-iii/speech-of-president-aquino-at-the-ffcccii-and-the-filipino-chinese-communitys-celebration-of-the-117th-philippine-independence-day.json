@@ -1,0 +1,20 @@
+{
+  "doc_id": "speech-of-president-aquino-at-the-ffcccii-and-the-filipino-chinese-communitys-celebration-of-the-117th-philippine-independence-day",
+  "category": "speech",
+  "category_slug": "speeches",
+  "president_slug": "benigno-s-aquino-iii",
+  "date": "2015-06-08",
+  "title": "Speech of President Aquino at the FFCCCII and the Filipino-Chinese community’s celebration of the 117th Philippine Independence Day",
+  "content_url": "https://www.officialgazette.gov.ph/2015/06/08/speech-of-president-aquino-at-the-ffcccii-and-the-filipino-chinese-communitys-celebration-of-the-117th-philippine-independence-day/",
+  "pdf_url": null,
+  "text": null,
+  "word_count": null,
+  "has_html_content": false,
+  "is_pdf_only": false,
+  "scrape_status": "failed",
+  "scrape_error": "Failed to perform, curl: (28) Operation timed out after 30000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "scraped_at": "2026-03-05T11:50:28.705057Z",
+  "pdf_status": "not_applicable",
+  "pdf_error": null,
+  "pdf_processed_at": null
+}

@@ -1,5 +1,3 @@
-"""Tests for masterlist storage layer."""
-
 import json
 from datetime import date, datetime
 from pathlib import Path

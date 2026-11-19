@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 6, s. 1962",
   "content_url": "https://www.officialgazette.gov.ph/1962/04/12/memorandum-order-no-6-s-1962/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1962/04apr/19620412-MO-0006-DM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 6, April 12, 1962 ]\nREQUIRING IMPLEMENTATION OF DECISIONS MADE BY THE PRESIDENT, THE EXECUTIVE SECRETARY, OR ANY OF THE ASSISTANT EXECUTIVE SECRETARIES WITHIN TWENTY-FOUR HOURS.\nIt is hereby directed that the official or employee concerned shall, within 24 hours, take action or such steps as may be necessary towards the implementation of the decisions and directives made or issued by the President, the Executive Secretary, or any of the Assistant Executive Secretaries.\nStrict compliance herewith is enjoined.\n1aшphi1\nBy authority of the President:\nAMELITO R. MUTUC\nExecutive Secretary\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 109,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:44:31.651183Z"
+  "scraped_at": "2026-02-23T11:44:31.651183Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:20.131097Z"
 }

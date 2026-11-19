@@ -180,7 +180,7 @@ ARTICLE IV
 
 THE SANGGUNIANG PANLUNGSOD
 
-SEC. 10. The City Council. – The city council, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular council members, the president of the city chapter of the association of barangays, the president of the city federation of youth councils and the sectoral representatives, as members.
+SEC. 10. The Sangguniang Panlungsod. – The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, ten (10) regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan and the sectoral representatives, as members.
 
 (A) In addition thereto, there shall be three (3) sectoral representatives: one (1) from the women; and as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections; one (1) from the agricultural or industrial workers; and one (1) from the other sectors, including the urban poor, indigenous cultural communities or disabled persons.
 
@@ -188,7 +188,7 @@ SEC. 10. The City Council. – The city council, the legislative body of the Cit
 
 (C) They shall receive such compensation, emoluments and allowances as may be determined by law.
 
-(D) The city council shall:
+(D) The sangguniang panlungsod shall:
 
 (1) Approve ordinances and pass resolutions necessary for an efficient and effective city government and, relative hereto shall:
 
@@ -344,7 +344,7 @@ SEC. 11. Internal Rules of Procedure. – (a) On the first regular session follo
 
 (5) The discipline of members for disorderly behavior and absences without justifiable cause for four (4) consecutive sessions for which they may be censured, reprimanded or excluded from the session, suspended for not more than sixty (60) days, or expelled. The penalty of suspension or expulsion shall require the concurrence of at least two-thirds (2/3) vote of all the sanggunian members. A member convicted by final judgment to imprisonment of at least one (1) year for any crime involving moral turpitude shall be automatically expelled from the sanggunian; and
 
-(6) Such other rules as the council may adopt.
+(6) Such other rules as the sanggunian may adopt.
 
 SEC. 12. Full Disclosure of Financial and Business Interests of Sangguniang Panlungsod Members . – (a) Every sangguniang panlungsod member shall, upon assumption to office, make a full disclosure of his business and financial interests. He shall also disclose any business, financial, professional relationship or any relation by affinity or consanguinity within the fourth civil degree, which he may have with any person, firm or entity affected by any ordinance or resolution under consideration by the sanggunian of which he is a member, which relationship may result in conflict of interests. Such relationship shall include:
 
@@ -470,7 +470,7 @@ SEC. 20. The Secretary of the Sangguniang Panlungsod. – (a) There shall be a s
 
 (b) No person shall be appointed secretary to the sangguniang panlungsod unless he is a citizen of the Philippines, a resident of the City of Meycauayan, of good moral character, a holder of a college degree preferably in law, commerce or public administration from a recognized college or university, and a first grade civil service eligible or its equivalent.
 
-(c) The secretary of the city council shall receive such compensation, emoluments and allowances as may be determined by law.
+(c) The secretary of the sangguniang panlungsod shall receive such compensation, emoluments and allowances as may be determined by law.
 
 (d) The secretary to the sangguniang panlungsod shall take charge of the office of the sangguniang panlungsod, and shall:
 

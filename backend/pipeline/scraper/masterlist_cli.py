@@ -14,11 +14,7 @@ logger = logging.getLogger(__name__)
 
 
 def parse_proxy_file(path: Path) -> list[str]:
-    """Read a proxy file and convert Webshare format to httpx-compatible URLs.
-
-    Each non-empty, non-comment line should be: host:port:user:pass
-    Returns list of URLs like: http://user:pass@host:port
-    """
+    """Convert Webshare-format proxy lines (host:port:user:pass) into httpx URLs."""
     proxies: list[str] = []
     for line in path.read_text().splitlines():
         line = line.strip()
@@ -111,7 +107,7 @@ async def async_main(args: argparse.Namespace) -> int:
         if not proxy_urls:
             print(f"Error: no valid proxies found in {args.proxy_file}", file=sys.stderr)
             return 1
-        # Auto-set concurrency to match proxy count (one worker per IP)
+        # one worker per proxy IP
         args.concurrency = len(proxy_urls)
         logger.info(
             "Loaded %d proxies, setting concurrency to %d",

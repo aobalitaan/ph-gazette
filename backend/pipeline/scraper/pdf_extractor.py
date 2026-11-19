@@ -1,14 +1,7 @@
 """PDF text extraction with quality gate and OCR fallback.
 
-Pure synchronous module — no I/O, no network calls. Called from async code
-via ``asyncio.to_thread()`` since OCR is CPU-bound.
-
-Pipeline:
-  1. Try pymupdf text-layer extraction.
-  2. Run quality gate on the result.
-  3. If quality gate fails, OCR via Tesseract (pymupdf renders pages → pytesseract).
-  4. Run quality gate on OCR result.
-  5. Return the best result or a failure.
+Sync module — call via asyncio.to_thread() since OCR is CPU-bound.
+Tries pymupdf text-layer first; falls back to Tesseract OCR if quality fails.
 """
 
 import logging
@@ -23,19 +16,17 @@ from backend.pipeline.preprocessing.boilerplate import strip_garbage_lines
 
 logger = logging.getLogger(__name__)
 
-# Quality gate thresholds
 MIN_ALPHA_RATIO = 0.70
 MIN_AVG_WORD_LEN = 2.0
 MAX_AVG_WORD_LEN = 15.0
 MIN_WORD_COUNT = 50
 
-# OCR rendering: 200 DPI balances quality vs speed for Tesseract
+# 200 DPI is the sweet spot for Tesseract on these documents
 OCR_DPI = 200
 
 
 @dataclass(frozen=True)
 class QualityResult:
-    """Result of the text quality gate check."""
 
     passed: bool
     word_count: int
@@ -46,8 +37,6 @@ class QualityResult:
 
 @dataclass(frozen=True)
 class ExtractionResult:
-    """Result of PDF text extraction."""
-
     text: str | None
     word_count: int
     method: str  # "text_extracted", "ocr_extracted", or "failed"
@@ -55,13 +44,7 @@ class ExtractionResult:
 
 
 def check_quality(text: str) -> QualityResult:
-    """Language-agnostic quality gate for extracted text.
-
-    Checks:
-      - Alphabetic token ratio >= 70% (filters OCR garbage)
-      - Average word length between 2 and 15 characters
-      - Minimum 50 words
-    """
+    """Language-agnostic gate: alpha-ratio >= 0.70, avg word len 2-15, >= 50 words."""
     tokens = text.split()
     word_count = len(tokens)
 
@@ -109,10 +92,7 @@ def check_quality(text: str) -> QualityResult:
 
 
 def extract_text_from_pdf(pdf_bytes: bytes) -> str:
-    """Extract text layer from a PDF using pymupdf.
-
-    Returns concatenated text from all pages, separated by newlines.
-    """
+    """pymupdf text-layer extraction, pages joined by newlines."""
     doc = fitz.open(stream=pdf_bytes, filetype="pdf")
     try:
         pages = []
@@ -125,25 +105,23 @@ def extract_text_from_pdf(pdf_bytes: bytes) -> str:
         doc.close()
 
 
-# Minimum average Tesseract confidence to accept OCR without trying rotation.
-# Correctly-oriented text typically scores >90; rotated text scores ~40-60.
+# Below this average Tesseract confidence we try a 180° rotation.
+# Correctly-oriented text scores >90; upside-down text scores ~40-60.
 _MIN_OCR_CONFIDENCE = 70
 
 
 def _avg_confidence(img: Image.Image) -> float:
-    """Get Tesseract's average per-word confidence for an image."""
+    """Tesseract's mean per-word confidence."""
     data = pytesseract.image_to_data(img, output_type=pytesseract.Output.DICT)
     confs = [int(c) for c in data["conf"] if int(c) > 0]
     return sum(confs) / len(confs) if confs else 0.0
 
 
 def _ocr_image(img: Image.Image) -> str:
-    """OCR a single image, trying 180° rotation if confidence is low.
+    """OCR an image; try 180° rotation if confidence is low.
 
-    Some scanned PDFs have pages rotated 180° without metadata indicating it.
-    Tesseract produces garbled text (~49% confidence) for upside-down pages
-    vs ~95% for correctly oriented text. We use this confidence gap to detect
-    and correct rotation.
+    Some scanned pages are upside-down with no orientation metadata. The
+    confidence gap (~49% vs ~95%) is what tells us to rotate.
     """
     text = pytesseract.image_to_string(img)
     if not text.strip():
@@ -153,7 +131,6 @@ def _ocr_image(img: Image.Image) -> str:
     if conf >= _MIN_OCR_CONFIDENCE:
         return text
 
-    # Low confidence — try 180° rotation
     rotated = img.rotate(180, expand=True)
     rotated_text = pytesseract.image_to_string(rotated)
     rotated_conf = _avg_confidence(rotated)
@@ -169,12 +146,7 @@ def _ocr_image(img: Image.Image) -> str:
 
 
 def ocr_pdf(pdf_bytes: bytes) -> str:
-    """Render PDF pages to images and OCR with Tesseract.
-
-    Uses pymupdf to render each page at OCR_DPI, then feeds the image
-    to pytesseract for text recognition. Automatically detects and corrects
-    180° rotated pages.
-    """
+    """Render pages at OCR_DPI and run Tesseract; auto-corrects 180° rotation."""
     doc = fitz.open(stream=pdf_bytes, filetype="pdf")
     try:
         pages = []
@@ -191,13 +163,7 @@ def ocr_pdf(pdf_bytes: bytes) -> str:
 
 
 def extract_pdf_text(pdf_bytes: bytes) -> ExtractionResult:
-    """Main entry point: extract text from PDF with quality gate and OCR fallback.
-
-    1. Try pymupdf text extraction → quality gate.
-    2. If that fails, try Tesseract OCR → quality gate.
-    3. Return the best result or a failure.
-    """
-    # Step 1: pymupdf text layer
+    """Text-layer first, OCR fallback. Each path goes through the quality gate."""
     try:
         text = extract_text_from_pdf(pdf_bytes)
     except Exception as e:
@@ -217,12 +183,11 @@ def extract_pdf_text(pdf_bytes: bytes) -> ExtractionResult:
             )
         logger.debug("Text layer failed quality gate: %s", qr.reason)
 
-    # Step 2: OCR fallback
     try:
         ocr_text = ocr_pdf(pdf_bytes)
     except Exception as e:
         logger.warning("OCR failed: %s", e)
-        # If we had some text from step 1 but it failed quality, report that
+        # report the text-layer reason if we had something there
         if text.strip():
             qr = check_quality(text)
             return ExtractionResult(

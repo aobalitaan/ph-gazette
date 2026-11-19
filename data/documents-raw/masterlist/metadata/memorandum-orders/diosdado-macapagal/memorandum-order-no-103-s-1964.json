@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 103, s. 1964",
   "content_url": "https://www.officialgazette.gov.ph/1964/09/15/memorandum-order-no-103-s-1964/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1964/09sep/19640915-MO-0103-DM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 103, September 15, 1964 ]\nAUTHORIZING MR. PEDRO DE JESUS, PRESIDENTIAL ASSISTANT ON HOUSING, TO SIGN TELEGRAMS.\nMr. Pedro de Jesus, Presidential Assistant on Housing, is hereby authorized to sign official telegrams which pertain to the functions and duties of his Office.\nThis Order shall take effect immediately and until further advice.\n⌊aшΡhi⌊\nBy authority of the President:\nJUAN S. CANCIO\nActing Assistant Executive Secretary\nManila, September 15, 1964\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 89,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:45:42.992362Z"
+  "scraped_at": "2026-02-23T11:45:42.992362Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:24.082944Z"
 }

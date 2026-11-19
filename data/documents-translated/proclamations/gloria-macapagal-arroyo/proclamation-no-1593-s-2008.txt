@@ -12,7 +12,7 @@ TCT No. T-5589
 
 Beginning at a point marked “1” of Lot 6288-A, Cad-9871, being N. 48-00’E., 1469.06 m. from BLLM No. 56, Libertad Public Land Subdivision, Pls-22, thence:
 
-N. 71 degrees 14 minutes West
+N. 71 deg 14′ W.,
 
 386.59 m. to point 2;
 
@@ -296,7 +296,7 @@ N. 32 deg. 53′ E.,
 
 83.27 m. to point 3;
 
-S. 66 degrees 57 minutes East
+S. 66 deg. 57’E.,
 
 131.91 m. to point 4;
 
@@ -316,7 +316,7 @@ A parcel of land (Lot 6289-E, Psd-10-026301, being a portion of Lot 6289, Pls-22
 
 2-3 N. 77 deg.
 
-06 minutes West, 48.20 meters
+06’W.,   48.20 m.
 
 3-4 N. 82 deg.
 
@@ -332,7 +332,7 @@ A parcel of land (Lot 6289-E, Psd-10-026301, being a portion of Lot 6289, Pls-22
 
 6-7 N. 13 deg.
 
-53 minutes East, 78.34 meters
+53′ E.,     78.34 m.
 
 7-8 N. 13 deg.
 
@@ -348,7 +348,7 @@ TCT No. T-15337
 
 Beginning at a point marked “1” of Lot 3895-A , Csd-10-001082-D, Pls-22 being S. 6 deg. 29 E., 1373. 28 m. from BBM No. 34, Pls-22, thence;
 
-N. 11 deg. 10W.
+N. 11 deg. 10W.,
 
 58.57 m. to point 2;
 
@@ -390,7 +390,7 @@ S.   8 deg. 06’W.,
 
 31.69 m. to point 2;
 
-S. 40 deg. 41’E.
+S. 40 deg. 41’E.,
 
 31.28 m. to point 3;
 
@@ -782,7 +782,7 @@ A parcel of land (Lot 6289-D, Psd-10-026301, being a portion of Lot 6289, Pls-22
 
 2 – 3 N., 26 deg.
 
-25’E., 54.48 m.
+25’E.,  54.48 m.
 
 3 – 4 S., 74 deg.
 
@@ -790,7 +790,7 @@ A parcel of land (Lot 6289-D, Psd-10-026301, being a portion of Lot 6289, Pls-22
 
 4 – 5 S., 13 deg.
 
-53' W., 78.34 m.
+53′ W., 78.34 m.
 
 5 – 1 N., 71 deg.
 

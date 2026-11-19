@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 123, s. 1987",
   "content_url": "https://www.officialgazette.gov.ph/1987/10/19/memorandum-order-no-123-s-1987/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1987/10oct/19871020-MO-0123-CCA.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACANANG P M S\n\nMANILA\n\nMEMORANDUM ORDER NO. 123\n\nAPPROVING REVISED CENTRAL BANK CIRCULAR NO. 1111,\nSERIES OF 1987\n\nBt\n\n&\nPursuant to the provisions of Executive Order\n\nNo. 32, and of existing laws, Revised Central Bank\n\nCircular No. 1111, as recommended by the Monetary\n\nBoard in its Resolution No. 1024 dated October 19,\n1987, is hereby approved.\n\nThis Memorandum Order shall take effect\n\nPata paid\n\nOctober 20, 1987",
+  "word_count": 69,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:36:27.649526Z"
+  "scraped_at": "2026-02-23T11:36:27.649526Z",
+  "pdf_status": "ocr_extracted",
+  "pdf_error": null,
+  "pdf_processed_at": "2026-03-05T14:02:48.376099Z"
 }

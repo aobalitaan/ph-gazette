@@ -48,7 +48,7 @@ SEC. 4. Definition of Terms. – Whenever used in this Code, the following terms
 
 (s) “Risk-based capital” refers to a method to measure the minimum amount of capital that a pre-need company needs to support its overall business operation. It is used to set capital requirements, considering the size and degree of risk taken by the pre-need company.
 
-(t) “BSP” refers to “Central Bank of the Philippines”
+(t) “BSP” refers to “Bangko Sentral ng Pilipinas”
 
 The terms not otherwise defined under this Code shall be construed in their usual and commonly understood trade, business, commercial or investment meaning.
 

@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 826, s. 1985",
   "content_url": "https://www.officialgazette.gov.ph/1985/08/08/memorandum-order-no-826-s-1985/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1985/08aug/19850808-MO-0826-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑAN PALACE\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\n[ Memorandum Order No. 826, August 8, 1985 ]\nIn view of the exigencies of the service, the detail to the Office of the Deputy Presidential Executive Assistant of Mr. ARIEL V. ANGELES, Typesetting Helper, Government Printing Office, effective immediately, is hereby authorized.\n1aшphi1\nBy the authority of the President:\n(Sgd.)\nJUAN C. TUVERA\nPresidential Executive Assistant\nManila, August 8, 1985\nThe Lawphil Project - Arellano Law Foundation",
+  "word_count": 77,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T12:05:36.517428Z"
+  "scraped_at": "2026-02-23T12:05:36.517428Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:04:55.183601Z"
 }

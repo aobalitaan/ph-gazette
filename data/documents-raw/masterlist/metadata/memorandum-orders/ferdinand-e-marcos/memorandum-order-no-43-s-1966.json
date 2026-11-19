@@ -7,11 +7,14 @@
   "title": "Memorandum Order No. 43, s. 1966",
   "content_url": "https://www.officialgazette.gov.ph/1966/08/01/memorandum-order-no-43-s-1966/",
   "pdf_url": "https://www.officialgazette.gov.ph/downloads/1966/1966-MO-0043-FM.pdf",
-  "text": null,
-  "word_count": null,
+  "text": "MALACAÑANG\nMANILA\nBY THE PRESIDENT OF THE PHILIPPINES\nMEMORANDUM ORDER NO. 43\nSubject: Unknown\nDate: Series of 1966\nRemarks: Reserved but not issued\nSource:\nMalacañang Records Office\nOffice of the President of the Philippines. (1966).\n[Memorandum Order Nos. : 1 – 121].\nManila : Malacañang Records Office.\nResources\n[PDF]\nMemorandum Order No. 43, s. 1966",
+  "word_count": 55,
   "has_html_content": false,
   "is_pdf_only": true,
   "scrape_status": "success",
   "scrape_error": null,
-  "scraped_at": "2026-02-23T11:46:56.470856Z"
+  "scraped_at": "2026-02-23T11:46:56.470856Z",
+  "pdf_status": "failed",
+  "pdf_error": "HTTP 404",
+  "pdf_processed_at": "2026-03-05T14:03:34.636786Z"
 }

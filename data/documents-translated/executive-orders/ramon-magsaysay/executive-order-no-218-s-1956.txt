@@ -816,7 +816,7 @@ P 6,780.00
 
 (45)
 
-P 5,100.00
+P 5.100,00
 
 (39)
 
@@ -896,7 +896,7 @@ P 2,460.00
 
 P 32,400.00
 
-One hundred sixty-eight thousand one hundred forty-four pesos and 00/100.
+P168,144.00
 
 P232,860.00
 
