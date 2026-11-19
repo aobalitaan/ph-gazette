@@ -23,30 +23,30 @@ uv sync
 
 ```bash
 # all SONAs
-uv run talasuri-scrape-sona
+uv run gazette-scrape-sona
 
 # the whole masterlist (takes a long time)
-uv run talasuri-scrape-masterlist
+uv run gazette-scrape-masterlist
 ```
 
 Options you will probably want:
 
 ```bash
 # collect only the masterlist index, no document pages
-uv run talasuri-scrape-masterlist --index-only
+uv run gazette-scrape-masterlist --index-only
 
 # fetch page text using an index collected earlier
-uv run talasuri-scrape-masterlist --content-only
+uv run gazette-scrape-masterlist --content-only
 
 # extract text from documents that only have a PDF
-uv run talasuri-scrape-masterlist --pdf-only
+uv run gazette-scrape-masterlist --pdf-only
 
 # limit by category or president
-uv run talasuri-scrape-masterlist --categories executive-orders proclamations
-uv run talasuri-scrape-masterlist --presidents rodrigo-roa-duterte ferdinand-r-marcos
+uv run gazette-scrape-masterlist --categories executive-orders proclamations
+uv run gazette-scrape-masterlist --presidents rodrigo-roa-duterte ferdinand-r-marcos
 
 # 3 workers, verbose output, 5 seconds between requests
-uv run talasuri-scrape-masterlist -c 3 -v --delay 5
+uv run gazette-scrape-masterlist -c 3 -v --delay 5
 ```
 
 Both scrapers skip documents already on disk. Use `--force` to start over. Ctrl+C stops a run cleanly and the next run picks up where it left off.
@@ -70,7 +70,7 @@ VPN and proxy IPs often get a Cloudflare challenge. If every request returns 403
 To spread requests over several IPs, pass a proxy file with one `host:port:user:pass` per line. The scraper uses one worker per proxy.
 
 ```bash
-uv run talasuri-scrape-masterlist --proxy-file proxies.txt
+uv run gazette-scrape-masterlist --proxy-file proxies.txt
 ```
 
 ## Output
@@ -99,38 +99,38 @@ A metadata file looks like this:
 
 ```json
 {
-  "doc_id": "executive-order-no-01-s-2016",
-  "category": "executive_order",
-  "category_slug": "executive-orders",
-  "president_slug": "rodrigo-roa-duterte",
-  "date": "2016-07-26",
-  "title": "Executive Order No. 01, s. 2016",
-  "content_url": "https://www.officialgazette.gov.ph/2016/07/26/executive-order-no-01-s-2016/",
-  "pdf_url": "https://www.officialgazette.gov.ph/.../20160726-EO-1-RRD.pdf",
-  "word_count": 542,
+  "doc_id": "administrative-order-no-1-s-2010",
+  "category": "administrative_order",
+  "category_slug": "administrative-orders",
+  "president_slug": "benigno-s-aquino-iii",
+  "date": "2010-09-17",
+  "title": "Administrative Order No. 1, s. 2010",
+  "content_url": "https://www.officialgazette.gov.ph/2010/09/17/administrative-order-no-1-s-2010/",
+  "pdf_url": "https://www.officialgazette.gov.ph/downloads/2010/09sep/20100917-AO-0001-BSA.pdf",
+  "text": "MALACAÑAN PALACE MANILA ...",
+  "word_count": 616,
   "has_html_content": true,
   "is_pdf_only": false,
   "scrape_status": "success",
-  "scraped_at": "2026-02-23T08:15:00Z",
-  "pdf_status": "not_applicable",
-  "pdf_error": null,
-  "pdf_processed_at": null
+  "scrape_error": null,
+  "scraped_at": "2026-02-23T01:46:05.214053Z"
 }
 ```
 
-For PDF-only documents, `pdf_status` is `text_extracted`, `ocr_extracted`, `failed`, `skipped`, or `pending`.
+PDF-only documents have `is_pdf_only: true` and `has_html_content: false`. Their PDFs are in `data/documents-raw/masterlist/pdf/`.
 
 ## Included data
 
-| Collection | Documents |
+Counts reflect what is committed in this repository:
+
+| Collection | Files |
 | --- | --- |
-| SONAs, 1935–2025 | 87 |
-| Masterlist | 34,015 |
-| Translated text | 38,175 |
+| SONA speeches (1935–2025) | 87 |
+| Masterlist metadata records | 38,379 |
+| PDF-only masterlist documents | 5,154 |
+| Translated text files | 40,095 |
 
-Of the 34,015 masterlist documents, 138 are PDF-only.
-
-The translated set contains every document after translation. Most were already in English; 2,108 Filipino or Taglish documents were translated through OpenRouter (`google/gemma-3-27b-it`). Bad translations were reviewed and corrected.
+Most documents were already in English. About 1,840 translated files differ from the corresponding raw scrape; those are the ones where Filipino or Taglish text was translated through OpenRouter (`google/gemma-3-27b-it`). Bad translations were reviewed and corrected. Some translated files have no matching raw text file because they came from later reprocessing runs.
 
 `data/documents-translated/` follows the masterlist layout: `{category}/{president}/{doc_id}.txt`.
 
@@ -180,4 +180,4 @@ Text comes from the [Official Gazette of the Republic of the Philippines](https:
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).

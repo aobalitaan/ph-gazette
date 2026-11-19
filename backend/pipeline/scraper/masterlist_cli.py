@@ -31,7 +31,7 @@ def parse_proxy_file(path: Path) -> list[str]:
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        prog="talasuri-scrape-masterlist",
+        prog="gazette-scrape-masterlist",
         description="Scrape presidential documents from the Official Gazette masterlist generator",
     )
     parser.add_argument(

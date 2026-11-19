@@ -1,4 +1,4 @@
-"""Shared logging configuration for the TalaSuri pipeline."""
+"""Shared logging configuration for the scraper."""
 
 import logging
 import sys

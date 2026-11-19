@@ -24,8 +24,8 @@ dev = [
 ]
 
 [project.scripts]
-talasuri-scrape-sona = "backend.pipeline.scraper.cli:main"
-talasuri-scrape-masterlist = "backend.pipeline.scraper.masterlist_cli:main"
+gazette-scrape-sona = "backend.pipeline.scraper.cli:main"
+gazette-scrape-masterlist = "backend.pipeline.scraper.masterlist_cli:main"
 
 [build-system]
 requires = ["hatchling"]

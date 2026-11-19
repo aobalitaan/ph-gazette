@@ -11,7 +11,7 @@ from backend.pipeline.scraper.sona_scraper import DEFAULT_DATA_DIR, SONAScraper
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        prog="talasuri-scrape-sona",
+        prog="gazette-scrape-sona",
         description="Scrape State of the Nation Addresses from the Official Gazette",
     )
     parser.add_argument(
